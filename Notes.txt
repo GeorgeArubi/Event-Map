@@ -1,0 +1,1 @@
+$("#__docusaurus div.main-wrapper.docs-wrapper.docs-doc-page div main div div div div article div.theme-doc-markdown.markdown table");
