@@ -1,7 +1,7 @@
 # Import libraries
 import requests
 from bs4 import BeautifulSoup
-import pandas as pd
+import re
 import json
 
 # Create an URL object
@@ -14,44 +14,39 @@ page = requests.get(url)
 # Obtain page's information
 soup = BeautifulSoup(page.text, 'lxml')
 
-# Obtain information from tag <table>
-radar_categories = soup.find('table')
+# Obtain information from list
+radar_categories = soup.find_all(re.compile('^li'))
 
-# Obtain every title of columns with tag <th>
-headers = []
-for i in radar_categories.find_all('th'):
- title = i.text
- headers.append(title)
+high_level_category = []
+for tag in radar_categories:
+  high_level_category.append(str(tag))
 
-# Create a dataframe and temp data structures
-data = pd.DataFrame(columns = headers)
-names_arr = []
+arr = []
+for x in high_level_category:
+  arr.append(re.findall('<li><code>.*</code></li>', x))
+
 slugs_arr = []
+for y in arr:
+  if(len(y) > 0):
+    slugs_arr.append(y[0].removeprefix("<li><code>").removesuffix("</code></li>"))
+
+names_arr = []
+for i in slugs_arr:
+  names_arr.append(i.replace("-", " ").title())
+
 x_arr = []
-y_arr = []
-radar_places = []
-
-# Create a for loop to fill data
-for j in radar_categories.find_all('tr')[1:]:
- row_data = j.find_all('td')
- row = [i.text for i in row_data]
- length = len(data)
- data.loc[length] = row
- slugs = row[0].split("\u00a0>\u00a0")
- slugs_arr.append(slugs)
- names_arr.append(row[1])
-
-# Create radar categories array of objects/dictionaries
 for x, name in enumerate(names_arr):
   x = {"name": ""}
   x["name"] = (name)
   x_arr.append(x)
 
+y_arr = []
 for y, slugs in enumerate(slugs_arr):
   y = {"slugs": []}
   y["slugs"] = (slugs)
   y_arr.append(y)
 
+radar_places = []
 for name_x, slugs_y in zip(x_arr, y_arr):
 	result = name_x | slugs_y
 	radar_places.append(result) 
