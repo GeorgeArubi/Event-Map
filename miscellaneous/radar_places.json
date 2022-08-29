@@ -1,0 +1,10453 @@
+[
+  {
+    "name": "Advertising/Marketing",
+    "slugs": [
+      "advertising-marketing"
+    ]
+  },
+  {
+    "name": "Advertising Agency",
+    "slugs": [
+      "advertising-marketing",
+      "advertising-agency"
+    ]
+  },
+  {
+    "name": "Copywriting Service",
+    "slugs": [
+      "advertising-marketing",
+      "copywriting-service"
+    ]
+  },
+  {
+    "name": "Internet Marketing Service",
+    "slugs": [
+      "advertising-marketing",
+      "internet-marketing-service"
+    ]
+  },
+  {
+    "name": "Market Research Consultant",
+    "slugs": [
+      "advertising-marketing",
+      "market-research-consultant"
+    ]
+  },
+  {
+    "name": "Marketing Agency",
+    "slugs": [
+      "advertising-marketing",
+      "marketing-agency"
+    ]
+  },
+  {
+    "name": "Media Agency",
+    "slugs": [
+      "advertising-marketing",
+      "media-agency"
+    ]
+  },
+  {
+    "name": "Merchandising Service",
+    "slugs": [
+      "advertising-marketing",
+      "merchandising-service"
+    ]
+  },
+  {
+    "name": "Public Relations Agency",
+    "slugs": [
+      "advertising-marketing",
+      "public-relations"
+    ]
+  },
+  {
+    "name": "Social Media Agency",
+    "slugs": [
+      "advertising-marketing",
+      "social-media-agency"
+    ]
+  },
+  {
+    "name": "Telemarketing Service",
+    "slugs": [
+      "advertising-marketing",
+      "telemarketing-service"
+    ]
+  },
+  {
+    "name": "Agriculture",
+    "slugs": [
+      "agriculture"
+    ]
+  },
+  {
+    "name": "Agricultural Cooperative",
+    "slugs": [
+      "agriculture",
+      "agricultural-cooperatives"
+    ]
+  },
+  {
+    "name": "Agricultural Service",
+    "slugs": [
+      "agriculture",
+      "agricultural-service"
+    ]
+  },
+  {
+    "name": "Farm",
+    "slugs": [
+      "agriculture",
+      "farm"
+    ]
+  },
+  {
+    "name": "Dairy Farm",
+    "slugs": [
+      "agriculture",
+      "farm",
+      "dairy-farm"
+    ]
+  },
+  {
+    "name": "Fish Farm",
+    "slugs": [
+      "agriculture",
+      "farm",
+      "fish-farm"
+    ]
+  },
+  {
+    "name": "Livestock Farm",
+    "slugs": [
+      "agriculture",
+      "farm",
+      "livestock-farm"
+    ]
+  },
+  {
+    "name": "Poultry Farm",
+    "slugs": [
+      "agriculture",
+      "farm",
+      "poultry-farm"
+    ]
+  },
+  {
+    "name": "Urban Farm",
+    "slugs": [
+      "agriculture",
+      "farm",
+      "urban-farm"
+    ]
+  },
+  {
+    "name": "Arts & Entertainment",
+    "slugs": [
+      "arts-entertainment"
+    ]
+  },
+  {
+    "name": "Amusement & Theme Park",
+    "slugs": [
+      "arts-entertainment",
+      "amusement-park-ride"
+    ]
+  },
+  {
+    "name": "Water Park",
+    "slugs": [
+      "arts-entertainment",
+      "amusement-park-ride",
+      "water-park"
+    ]
+  },
+  {
+    "name": "Aquarium",
+    "slugs": [
+      "arts-entertainment",
+      "aquarium"
+    ]
+  },
+  {
+    "name": "Arcade",
+    "slugs": [
+      "arts-entertainment",
+      "arcade"
+    ]
+  },
+  {
+    "name": "Art Gallery",
+    "slugs": [
+      "arts-entertainment",
+      "art-gallery"
+    ]
+  },
+  {
+    "name": "Betting Shop",
+    "slugs": [
+      "arts-entertainment",
+      "betting-shop"
+    ]
+  },
+  {
+    "name": "Bingo Hall",
+    "slugs": [
+      "arts-entertainment",
+      "bingo-hall"
+    ]
+  },
+  {
+    "name": "Casino",
+    "slugs": [
+      "arts-entertainment",
+      "casino"
+    ]
+  },
+  {
+    "name": "Circus",
+    "slugs": [
+      "arts-entertainment",
+      "circus"
+    ]
+  },
+  {
+    "name": "Performance & Event Venue",
+    "slugs": [
+      "arts-entertainment",
+      "concert-venue"
+    ]
+  },
+  {
+    "name": "Adult Entertainment Club",
+    "slugs": [
+      "arts-entertainment",
+      "concert-venue",
+      "adult-entertainment-club"
+    ]
+  },
+  {
+    "name": "Amphitheater",
+    "slugs": [
+      "arts-entertainment",
+      "concert-venue",
+      "amphitheater"
+    ]
+  },
+  {
+    "name": "Auditorium",
+    "slugs": [
+      "arts-entertainment",
+      "concert-venue",
+      "auditorium"
+    ]
+  },
+  {
+    "name": "Comedy Club",
+    "slugs": [
+      "arts-entertainment",
+      "concert-venue",
+      "comedy-club"
+    ]
+  },
+  {
+    "name": "Jazz & Blues Club",
+    "slugs": [
+      "arts-entertainment",
+      "concert-venue",
+      "jazz-club"
+    ]
+  },
+  {
+    "name": "Live Music Venue",
+    "slugs": [
+      "arts-entertainment",
+      "concert-venue",
+      "live-music-venue"
+    ]
+  },
+  {
+    "name": "Opera House",
+    "slugs": [
+      "arts-entertainment",
+      "concert-venue",
+      "opera-house"
+    ]
+  },
+  {
+    "name": "Performance Art Theatre",
+    "slugs": [
+      "arts-entertainment",
+      "concert-venue",
+      "theatre"
+    ]
+  },
+  {
+    "name": "Escape Game Room",
+    "slugs": [
+      "arts-entertainment",
+      "escape-game-room"
+    ]
+  },
+  {
+    "name": "Haunted House",
+    "slugs": [
+      "arts-entertainment",
+      "haunted-houses"
+    ]
+  },
+  {
+    "name": "Karaoke",
+    "slugs": [
+      "arts-entertainment",
+      "karaoke"
+    ]
+  },
+  {
+    "name": "Movie Theater",
+    "slugs": [
+      "arts-entertainment",
+      "movie-theatre"
+    ]
+  },
+  {
+    "name": "Drive-In Movie Theater",
+    "slugs": [
+      "arts-entertainment",
+      "movie-theatre",
+      "drivein-movie-theater"
+    ]
+  },
+  {
+    "name": "Museum",
+    "slugs": [
+      "arts-entertainment",
+      "museum"
+    ]
+  },
+  {
+    "name": "Art Museum",
+    "slugs": [
+      "arts-entertainment",
+      "museum",
+      "art-museum"
+    ]
+  },
+  {
+    "name": "Asian Art Museum",
+    "slugs": [
+      "arts-entertainment",
+      "museum",
+      "art-museum",
+      "asian-art-museum"
+    ]
+  },
+  {
+    "name": "Cartooning Museum",
+    "slugs": [
+      "arts-entertainment",
+      "museum",
+      "art-museum",
+      "cartooning-museum"
+    ]
+  },
+  {
+    "name": "Contemporary Art Museum",
+    "slugs": [
+      "arts-entertainment",
+      "museum",
+      "art-museum",
+      "contemporary-art-museum"
+    ]
+  },
+  {
+    "name": "Costume Museum",
+    "slugs": [
+      "arts-entertainment",
+      "museum",
+      "art-museum",
+      "costume-museum"
+    ]
+  },
+  {
+    "name": "Decorative Arts Museum",
+    "slugs": [
+      "arts-entertainment",
+      "museum",
+      "art-museum",
+      "decorative-arts-museum"
+    ]
+  },
+  {
+    "name": "Design Museum",
+    "slugs": [
+      "arts-entertainment",
+      "museum",
+      "art-museum",
+      "design-museum"
+    ]
+  },
+  {
+    "name": "Modern Art Museum",
+    "slugs": [
+      "arts-entertainment",
+      "museum",
+      "art-museum",
+      "modern-art-museum"
+    ]
+  },
+  {
+    "name": "Photography Museum",
+    "slugs": [
+      "arts-entertainment",
+      "museum",
+      "art-museum",
+      "photography-museum"
+    ]
+  },
+  {
+    "name": "Textile Museum",
+    "slugs": [
+      "arts-entertainment",
+      "museum",
+      "art-museum",
+      "textile-museum"
+    ]
+  },
+  {
+    "name": "Aviation Museum",
+    "slugs": [
+      "arts-entertainment",
+      "museum",
+      "aviation-museum"
+    ]
+  },
+  {
+    "name": "Children's Museum",
+    "slugs": [
+      "arts-entertainment",
+      "museum",
+      "childrens-museum"
+    ]
+  },
+  {
+    "name": "History Museum",
+    "slugs": [
+      "arts-entertainment",
+      "museum",
+      "history-museum"
+    ]
+  },
+  {
+    "name": "Civilization Museum",
+    "slugs": [
+      "arts-entertainment",
+      "museum",
+      "history-museum",
+      "civilization-museum"
+    ]
+  },
+  {
+    "name": "Community Museum",
+    "slugs": [
+      "arts-entertainment",
+      "museum",
+      "history-museum",
+      "community-museum"
+    ]
+  },
+  {
+    "name": "Science Museum",
+    "slugs": [
+      "arts-entertainment",
+      "museum",
+      "science-museum"
+    ]
+  },
+  {
+    "name": "Computer Museum",
+    "slugs": [
+      "arts-entertainment",
+      "museum",
+      "science-museum",
+      "computer-museum"
+    ]
+  },
+  {
+    "name": "Observatory",
+    "slugs": [
+      "arts-entertainment",
+      "museum",
+      "science-museum",
+      "observatory"
+    ]
+  },
+  {
+    "name": "Planetarium",
+    "slugs": [
+      "arts-entertainment",
+      "museum",
+      "science-museum",
+      "planetarium"
+    ]
+  },
+  {
+    "name": "Sports Museum",
+    "slugs": [
+      "arts-entertainment",
+      "museum",
+      "sports-museum"
+    ]
+  },
+  {
+    "name": "Dance & Night Club",
+    "slugs": [
+      "arts-entertainment",
+      "night-club"
+    ]
+  },
+  {
+    "name": "Pool & Billiard Hall",
+    "slugs": [
+      "arts-entertainment",
+      "pool-billiards"
+    ]
+  },
+  {
+    "name": "Race Track",
+    "slugs": [
+      "arts-entertainment",
+      "race-track"
+    ]
+  },
+  {
+    "name": "Salsa Club",
+    "slugs": [
+      "arts-entertainment",
+      "salsa-club"
+    ]
+  },
+  {
+    "name": "Zoo",
+    "slugs": [
+      "arts-entertainment",
+      "zoo"
+    ]
+  },
+  {
+    "name": "Petting Zoo",
+    "slugs": [
+      "arts-entertainment",
+      "zoo",
+      "petting-zoo"
+    ]
+  },
+  {
+    "name": "Wildlife Sanctuary",
+    "slugs": [
+      "arts-entertainment",
+      "zoo",
+      "wildlife-sanctuary"
+    ]
+  },
+  {
+    "name": "Automotive, Aircraft & Boat",
+    "slugs": [
+      "automotive"
+    ]
+  },
+  {
+    "name": "Motor Vehicle Company",
+    "slugs": [
+      "automotive",
+      "auto-company"
+    ]
+  },
+  {
+    "name": "Automotive Manufacturer",
+    "slugs": [
+      "automotive",
+      "auto-company",
+      "automotive-manufacturing"
+    ]
+  },
+  {
+    "name": "Motorcycle Manufacturer",
+    "slugs": [
+      "automotive",
+      "auto-company",
+      "motorcycle-manufacturer"
+    ]
+  },
+  {
+    "name": "Automotive Dealership",
+    "slugs": [
+      "automotive",
+      "automotive-dealership"
+    ]
+  },
+  {
+    "name": "Aircraft Dealership",
+    "slugs": [
+      "automotive",
+      "automotive-dealership",
+      "aircraft-dealership"
+    ]
+  },
+  {
+    "name": "ATV Dealership",
+    "slugs": [
+      "automotive",
+      "automotive-dealership",
+      "atv-dealer"
+    ]
+  },
+  {
+    "name": "Automotive Wholesaler",
+    "slugs": [
+      "automotive",
+      "automotive-dealership",
+      "automotive-wholesaler"
+    ]
+  },
+  {
+    "name": "Boat Dealership",
+    "slugs": [
+      "automotive",
+      "automotive-dealership",
+      "boat-dealer"
+    ]
+  },
+  {
+    "name": "Car Dealership",
+    "slugs": [
+      "automotive",
+      "automotive-dealership",
+      "car-dealership"
+    ]
+  },
+  {
+    "name": "Commercial Truck Dealership",
+    "slugs": [
+      "automotive",
+      "automotive-dealership",
+      "commercial-truck-dealer"
+    ]
+  },
+  {
+    "name": "Golf Cart Dealership",
+    "slugs": [
+      "automotive",
+      "automotive-dealership",
+      "golf-cart-dealer"
+    ]
+  },
+  {
+    "name": "Motorcycle Dealership",
+    "slugs": [
+      "automotive",
+      "automotive-dealership",
+      "motorcycles"
+    ]
+  },
+  {
+    "name": "Recreational Vehicle Dealership",
+    "slugs": [
+      "automotive",
+      "automotive-dealership",
+      "recreational-vehicle-dealer"
+    ]
+  },
+  {
+    "name": "Trailer Dealership",
+    "slugs": [
+      "automotive",
+      "automotive-dealership",
+      "trailer-dealership"
+    ]
+  },
+  {
+    "name": "Automotive Service",
+    "slugs": [
+      "automotive",
+      "automotive-services"
+    ]
+  },
+  {
+    "name": "Automotive Body Shop",
+    "slugs": [
+      "automotive",
+      "automotive-services",
+      "auto-body-shop"
+    ]
+  },
+  {
+    "name": "Auto Detailing Service",
+    "slugs": [
+      "automotive",
+      "automotive-services",
+      "auto-detailing-service"
+    ]
+  },
+  {
+    "name": "Automotive Glass Service",
+    "slugs": [
+      "automotive",
+      "automotive-services",
+      "auto-glass"
+    ]
+  },
+  {
+    "name": "Automotive Leasing Service",
+    "slugs": [
+      "automotive",
+      "automotive-services",
+      "automobile-leasing"
+    ]
+  },
+  {
+    "name": "Automotive Consultant",
+    "slugs": [
+      "automotive",
+      "automotive-services",
+      "automotive-consultant"
+    ]
+  },
+  {
+    "name": "Automotive Customization Shop",
+    "slugs": [
+      "automotive",
+      "automotive-services",
+      "automotive-customizing"
+    ]
+  },
+  {
+    "name": "Automotive Repair Shop",
+    "slugs": [
+      "automotive",
+      "automotive-services",
+      "automotive-repair"
+    ]
+  },
+  {
+    "name": "Automotive Restoration Service",
+    "slugs": [
+      "automotive",
+      "automotive-services",
+      "automotive-restoration"
+    ]
+  },
+  {
+    "name": "Automotive Shipping Service",
+    "slugs": [
+      "automotive",
+      "automotive-services",
+      "automotive-shipping-service"
+    ]
+  },
+  {
+    "name": "Automotive Storage Facility",
+    "slugs": [
+      "automotive",
+      "automotive-services",
+      "automotive-storage"
+    ]
+  },
+  {
+    "name": "Automotive Wheel Polishing Service",
+    "slugs": [
+      "automotive",
+      "automotive-services",
+      "automotive-wheel-polishing-service"
+    ]
+  },
+  {
+    "name": "Boat Service",
+    "slugs": [
+      "automotive",
+      "automotive-services",
+      "boat-service"
+    ]
+  },
+  {
+    "name": "Car Wash",
+    "slugs": [
+      "automotive",
+      "automotive-services",
+      "car-wash-detailing"
+    ]
+  },
+  {
+    "name": "Emergency Roadside Service",
+    "slugs": [
+      "automotive",
+      "automotive-services",
+      "emergency-roadside-service"
+    ]
+  },
+  {
+    "name": "Smog Emissions Check Station",
+    "slugs": [
+      "automotive",
+      "automotive-services",
+      "emissions-inspection"
+    ]
+  },
+  {
+    "name": "Gas Station",
+    "slugs": [
+      "automotive",
+      "automotive-services",
+      "gas-station"
+    ]
+  },
+  {
+    "name": "Marine Service Station",
+    "slugs": [
+      "automotive",
+      "automotive-services",
+      "marine-service-station"
+    ]
+  },
+  {
+    "name": "Motorcycle Repair Shop",
+    "slugs": [
+      "automotive",
+      "automotive-services",
+      "motorcycle-repair"
+    ]
+  },
+  {
+    "name": "Oil Lube & Filter Service",
+    "slugs": [
+      "automotive",
+      "automotive-services",
+      "oil-lube-filter-service"
+    ]
+  },
+  {
+    "name": "RV Repair Shop",
+    "slugs": [
+      "automotive",
+      "automotive-services",
+      "rv-repair"
+    ]
+  },
+  {
+    "name": "Tire Dealer & Repair Shop",
+    "slugs": [
+      "automotive",
+      "automotive-services",
+      "tire-dealer"
+    ]
+  },
+  {
+    "name": "Towing Service",
+    "slugs": [
+      "automotive",
+      "automotive-services",
+      "towing-service"
+    ]
+  },
+  {
+    "name": "Truck Repair Shop",
+    "slugs": [
+      "automotive",
+      "automotive-services",
+      "truck-repair-shop"
+    ]
+  },
+  {
+    "name": "Wheel & Rim Repair Service",
+    "slugs": [
+      "automotive",
+      "automotive-services",
+      "wheel-rim-repair-shop"
+    ]
+  },
+  {
+    "name": "Automotive Window Tinting Service",
+    "slugs": [
+      "automotive",
+      "automotive-services",
+      "window-tinting-service"
+    ]
+  },
+  {
+    "name": "Automotive Store",
+    "slugs": [
+      "automotive",
+      "automotive-store"
+    ]
+  },
+  {
+    "name": "Automotive Parts Store",
+    "slugs": [
+      "automotive",
+      "automotive-store",
+      "automotive-parts-accessories"
+    ]
+  },
+  {
+    "name": "Car Stereo Store",
+    "slugs": [
+      "automotive",
+      "automotive-store",
+      "car-stereo-store"
+    ]
+  },
+  {
+    "name": "Marine Supply Store",
+    "slugs": [
+      "automotive",
+      "automotive-store",
+      "marine-equipment"
+    ]
+  },
+  {
+    "name": "Motorsports Store",
+    "slugs": [
+      "automotive",
+      "automotive-store",
+      "motorsports-store"
+    ]
+  },
+  {
+    "name": "City Infrastructure",
+    "slugs": [
+      "city-infrastructure"
+    ]
+  },
+  {
+    "name": "Bridge",
+    "slugs": [
+      "city-infrastructure",
+      "bridge"
+    ]
+  },
+  {
+    "name": "Canal",
+    "slugs": [
+      "city-infrastructure",
+      "canal"
+    ]
+  },
+  {
+    "name": "Highway",
+    "slugs": [
+      "city-infrastructure",
+      "highway"
+    ]
+  },
+  {
+    "name": "Lighthouse",
+    "slugs": [
+      "city-infrastructure",
+      "lighthouse"
+    ]
+  },
+  {
+    "name": "Marina",
+    "slugs": [
+      "city-infrastructure",
+      "marina"
+    ]
+  },
+  {
+    "name": "Pier",
+    "slugs": [
+      "city-infrastructure",
+      "pier"
+    ]
+  },
+  {
+    "name": "Promenade",
+    "slugs": [
+      "city-infrastructure",
+      "promenade"
+    ]
+  },
+  {
+    "name": "Quay",
+    "slugs": [
+      "city-infrastructure",
+      "quay"
+    ]
+  },
+  {
+    "name": "Street",
+    "slugs": [
+      "city-infrastructure",
+      "street"
+    ]
+  },
+  {
+    "name": "Transit System",
+    "slugs": [
+      "city-infrastructure",
+      "transit-system"
+    ]
+  },
+  {
+    "name": "Weather Station",
+    "slugs": [
+      "city-infrastructure",
+      "weather-station"
+    ]
+  },
+  {
+    "name": "Commercial & Industrial",
+    "slugs": [
+      "commercial-industrial"
+    ]
+  },
+  {
+    "name": "Automation Service",
+    "slugs": [
+      "commercial-industrial",
+      "automation-services"
+    ]
+  },
+  {
+    "name": "Commercial & Industrial Equipment Supplier",
+    "slugs": [
+      "commercial-industrial",
+      "commercial-industrial-equipment"
+    ]
+  },
+  {
+    "name": "Environmental Service",
+    "slugs": [
+      "commercial-industrial",
+      "environmental"
+    ]
+  },
+  {
+    "name": "Environmental Consultant",
+    "slugs": [
+      "commercial-industrial",
+      "environmental",
+      "environmental-consultant"
+    ]
+  },
+  {
+    "name": "Geologic Service",
+    "slugs": [
+      "commercial-industrial",
+      "environmental",
+      "geologic-service"
+    ]
+  },
+  {
+    "name": "Occupational Safety and Health Service",
+    "slugs": [
+      "commercial-industrial",
+      "environmental",
+      "occupational-safety"
+    ]
+  },
+  {
+    "name": "Recycling Center",
+    "slugs": [
+      "commercial-industrial",
+      "environmental",
+      "recycling-facility"
+    ]
+  },
+  {
+    "name": "Forestry & Logging",
+    "slugs": [
+      "commercial-industrial",
+      "forestry-logging"
+    ]
+  },
+  {
+    "name": "Forestry Service",
+    "slugs": [
+      "commercial-industrial",
+      "forestry-logging",
+      "forestry-service"
+    ]
+  },
+  {
+    "name": "Logging Contractor",
+    "slugs": [
+      "commercial-industrial",
+      "forestry-logging",
+      "logging-contractor"
+    ]
+  },
+  {
+    "name": "Hotel Services Company",
+    "slugs": [
+      "commercial-industrial",
+      "hotel-supply-service"
+    ]
+  },
+  {
+    "name": "Industrial Company",
+    "slugs": [
+      "commercial-industrial",
+      "industrials-company"
+    ]
+  },
+  {
+    "name": "Inventory Control Service",
+    "slugs": [
+      "commercial-industrial",
+      "inventory-control-service"
+    ]
+  },
+  {
+    "name": "Manufacturer/Supplier",
+    "slugs": [
+      "commercial-industrial",
+      "manufacturing"
+    ]
+  },
+  {
+    "name": "Aircraft Manufacturer",
+    "slugs": [
+      "commercial-industrial",
+      "manufacturing",
+      "aircraft-manufacturer"
+    ]
+  },
+  {
+    "name": "Appliance Manufacturer",
+    "slugs": [
+      "commercial-industrial",
+      "manufacturing",
+      "appliance-manufacturer"
+    ]
+  },
+  {
+    "name": "Bags & Luggage Company",
+    "slugs": [
+      "commercial-industrial",
+      "manufacturing",
+      "bags-luggage-company"
+    ]
+  },
+  {
+    "name": "Clothing Company",
+    "slugs": [
+      "commercial-industrial",
+      "manufacturing",
+      "clothing-company"
+    ]
+  },
+  {
+    "name": "Apparel Distributor",
+    "slugs": [
+      "commercial-industrial",
+      "manufacturing",
+      "clothing-supply-distribution"
+    ]
+  },
+  {
+    "name": "Glass Manufacturer",
+    "slugs": [
+      "commercial-industrial",
+      "manufacturing",
+      "glass-manufacturer"
+    ]
+  },
+  {
+    "name": "Jewelry Wholesaler",
+    "slugs": [
+      "commercial-industrial",
+      "manufacturing",
+      "jewelry-supplier"
+    ]
+  },
+  {
+    "name": "Jewelry & Watches Company",
+    "slugs": [
+      "commercial-industrial",
+      "manufacturing",
+      "jewelry-watches-company"
+    ]
+  },
+  {
+    "name": "Machine Shop",
+    "slugs": [
+      "commercial-industrial",
+      "manufacturing",
+      "machine-shop"
+    ]
+  },
+  {
+    "name": "Mattress Manufacturer",
+    "slugs": [
+      "commercial-industrial",
+      "manufacturing",
+      "mattress-manufacturing"
+    ]
+  },
+  {
+    "name": "Metal & Steel Company",
+    "slugs": [
+      "commercial-industrial",
+      "metal-steel-company"
+    ]
+  },
+  {
+    "name": "Metal Fabricator",
+    "slugs": [
+      "commercial-industrial",
+      "metal-steel-company",
+      "metal-fabricator"
+    ]
+  },
+  {
+    "name": "Metal Plating Service Company",
+    "slugs": [
+      "commercial-industrial",
+      "metal-steel-company",
+      "metal-plating-service"
+    ]
+  },
+  {
+    "name": "Metal Supplier",
+    "slugs": [
+      "commercial-industrial",
+      "metal-steel-company",
+      "metal-supplier"
+    ]
+  },
+  {
+    "name": "Mining Company",
+    "slugs": [
+      "commercial-industrial",
+      "mining-company"
+    ]
+  },
+  {
+    "name": "Granite & Marble Supplier",
+    "slugs": [
+      "commercial-industrial",
+      "mining-company",
+      "granite-marble-supplier"
+    ]
+  },
+  {
+    "name": "Plastic Company",
+    "slugs": [
+      "commercial-industrial",
+      "plastic-company"
+    ]
+  },
+  {
+    "name": "Plastic Fabricator",
+    "slugs": [
+      "commercial-industrial",
+      "plastic-company",
+      "plastic-fabricator"
+    ]
+  },
+  {
+    "name": "Plastic Manufacturer",
+    "slugs": [
+      "commercial-industrial",
+      "plastic-company",
+      "plastic-manufacturer"
+    ]
+  },
+  {
+    "name": "Textile Company",
+    "slugs": [
+      "commercial-industrial",
+      "textiles"
+    ]
+  },
+  {
+    "name": "Tobacco Company",
+    "slugs": [
+      "commercial-industrial",
+      "tobacco-company"
+    ]
+  },
+  {
+    "name": "Education",
+    "slugs": [
+      "education"
+    ]
+  },
+  {
+    "name": "Archaeological Service",
+    "slugs": [
+      "education",
+      "archaeological-services"
+    ]
+  },
+  {
+    "name": "Campus Building",
+    "slugs": [
+      "education",
+      "campus-building"
+    ]
+  },
+  {
+    "name": "Academic Camp",
+    "slugs": [
+      "education",
+      "educational-camp"
+    ]
+  },
+  {
+    "name": "Educational Consultant",
+    "slugs": [
+      "education",
+      "educational-consultant"
+    ]
+  },
+  {
+    "name": "Educational Research Center",
+    "slugs": [
+      "education",
+      "educational-research"
+    ]
+  },
+  {
+    "name": "School",
+    "slugs": [
+      "education",
+      "school"
+    ]
+  },
+  {
+    "name": "Art School",
+    "slugs": [
+      "education",
+      "school",
+      "art-school"
+    ]
+  },
+  {
+    "name": "Day Care",
+    "slugs": [
+      "education",
+      "school",
+      "day-care-preschool"
+    ]
+  },
+  {
+    "name": "Elementary School",
+    "slugs": [
+      "education",
+      "school",
+      "elementary-school"
+    ]
+  },
+  {
+    "name": "High School",
+    "slugs": [
+      "education",
+      "school",
+      "high-school"
+    ]
+  },
+  {
+    "name": "Junior High School",
+    "slugs": [
+      "education",
+      "school",
+      "junior-high-school"
+    ]
+  },
+  {
+    "name": "Medical School",
+    "slugs": [
+      "education",
+      "school",
+      "medical-school"
+    ]
+  },
+  {
+    "name": "Middle School",
+    "slugs": [
+      "education",
+      "school",
+      "middle-school"
+    ]
+  },
+  {
+    "name": "Performing Arts School",
+    "slugs": [
+      "education",
+      "school",
+      "performing-arts-education"
+    ]
+  },
+  {
+    "name": "Preschool",
+    "slugs": [
+      "education",
+      "school",
+      "preschool"
+    ]
+  },
+  {
+    "name": "Private School",
+    "slugs": [
+      "education",
+      "school",
+      "private-school"
+    ]
+  },
+  {
+    "name": "Public School",
+    "slugs": [
+      "education",
+      "school",
+      "public-school"
+    ]
+  },
+  {
+    "name": "Religious School",
+    "slugs": [
+      "education",
+      "school",
+      "religious-school"
+    ]
+  },
+  {
+    "name": "Specialty School",
+    "slugs": [
+      "education",
+      "specialty-school"
+    ]
+  },
+  {
+    "name": "Aviation School",
+    "slugs": [
+      "education",
+      "specialty-school",
+      "aviation-school"
+    ]
+  },
+  {
+    "name": "Bartending School",
+    "slugs": [
+      "education",
+      "specialty-school",
+      "bartending-school"
+    ]
+  },
+  {
+    "name": "Computer Training School",
+    "slugs": [
+      "education",
+      "specialty-school",
+      "computer-training"
+    ]
+  },
+  {
+    "name": "Cooking School",
+    "slugs": [
+      "education",
+      "specialty-school",
+      "cooking-lesson"
+    ]
+  },
+  {
+    "name": "Cosmetology School",
+    "slugs": [
+      "education",
+      "specialty-school",
+      "cosmetology-school"
+    ]
+  },
+  {
+    "name": "Dance School",
+    "slugs": [
+      "education",
+      "specialty-school",
+      "dance-school"
+    ]
+  },
+  {
+    "name": "Driving School",
+    "slugs": [
+      "education",
+      "specialty-school",
+      "driving-school"
+    ]
+  },
+  {
+    "name": "First Aid Class",
+    "slugs": [
+      "education",
+      "specialty-school",
+      "first-aid-class"
+    ]
+  },
+  {
+    "name": "Flight School",
+    "slugs": [
+      "education",
+      "specialty-school",
+      "flight-school"
+    ]
+  },
+  {
+    "name": "Language School",
+    "slugs": [
+      "education",
+      "specialty-school",
+      "language-school"
+    ]
+  },
+  {
+    "name": "Massage School",
+    "slugs": [
+      "education",
+      "specialty-school",
+      "massage-school"
+    ]
+  },
+  {
+    "name": "Music Lessons & Instruction School",
+    "slugs": [
+      "education",
+      "specialty-school",
+      "music-lessons-instruction"
+    ]
+  },
+  {
+    "name": "Nursing School",
+    "slugs": [
+      "education",
+      "specialty-school",
+      "nursing-school"
+    ]
+  },
+  {
+    "name": "Trade School",
+    "slugs": [
+      "education",
+      "specialty-school",
+      "trade-school"
+    ]
+  },
+  {
+    "name": "Traffic School",
+    "slugs": [
+      "education",
+      "specialty-school",
+      "traffic-school"
+    ]
+  },
+  {
+    "name": "Test Preparation Center",
+    "slugs": [
+      "education",
+      "test-preperation-center"
+    ]
+  },
+  {
+    "name": "Tutor/Teacher",
+    "slugs": [
+      "education",
+      "tutoring"
+    ]
+  },
+  {
+    "name": "College & University",
+    "slugs": [
+      "education",
+      "university"
+    ]
+  },
+  {
+    "name": "Community College",
+    "slugs": [
+      "education",
+      "university",
+      "community-college"
+    ]
+  },
+  {
+    "name": "Finance",
+    "slugs": [
+      "finance"
+    ]
+  },
+  {
+    "name": "Automated Teller Machine (ATM)",
+    "slugs": [
+      "finance",
+      "automated-teller-machine-atm"
+    ]
+  },
+  {
+    "name": "Bank",
+    "slugs": [
+      "finance",
+      "bank"
+    ]
+  },
+  {
+    "name": "Commercial Bank",
+    "slugs": [
+      "finance",
+      "bank",
+      "commercial-bank"
+    ]
+  },
+  {
+    "name": "Credit Union",
+    "slugs": [
+      "finance",
+      "bank",
+      "credit-union"
+    ]
+  },
+  {
+    "name": "Investment Bank",
+    "slugs": [
+      "finance",
+      "bank",
+      "investment-bank"
+    ]
+  },
+  {
+    "name": "Retail Bank",
+    "slugs": [
+      "finance",
+      "bank",
+      "retail-bank"
+    ]
+  },
+  {
+    "name": "Financial Service",
+    "slugs": [
+      "finance",
+      "financial-services"
+    ]
+  },
+  {
+    "name": "Accountant",
+    "slugs": [
+      "finance",
+      "financial-services",
+      "accountant"
+    ]
+  },
+  {
+    "name": "Bank Equipment & Service",
+    "slugs": [
+      "finance",
+      "financial-services",
+      "bank-equipment-service"
+    ]
+  },
+  {
+    "name": "Franchise Broker",
+    "slugs": [
+      "finance",
+      "financial-services",
+      "brokers-franchising"
+    ]
+  },
+  {
+    "name": "Cash Advance Service",
+    "slugs": [
+      "finance",
+      "financial-services",
+      "cash-advance-service"
+    ]
+  },
+  {
+    "name": "Collection Agency",
+    "slugs": [
+      "finance",
+      "financial-services",
+      "collection-agency"
+    ]
+  },
+  {
+    "name": "Credit Counseling Service",
+    "slugs": [
+      "finance",
+      "financial-services",
+      "credit-counseling"
+    ]
+  },
+  {
+    "name": "Currency Exchange",
+    "slugs": [
+      "finance",
+      "financial-services",
+      "currency-exchange"
+    ]
+  },
+  {
+    "name": "Financial Aid Service",
+    "slugs": [
+      "finance",
+      "financial-services",
+      "financial-aid"
+    ]
+  },
+  {
+    "name": "Financial Consultant",
+    "slugs": [
+      "finance",
+      "financial-services",
+      "financial-consultant"
+    ]
+  },
+  {
+    "name": "Financial Planner",
+    "slugs": [
+      "finance",
+      "financial-services",
+      "financial-planning"
+    ]
+  },
+  {
+    "name": "Loan Service",
+    "slugs": [
+      "finance",
+      "financial-services",
+      "loans"
+    ]
+  },
+  {
+    "name": "Tax Preparation Service",
+    "slugs": [
+      "finance",
+      "financial-services",
+      "tax-preparation"
+    ]
+  },
+  {
+    "name": "Insurance Company",
+    "slugs": [
+      "finance",
+      "insurance-company"
+    ]
+  },
+  {
+    "name": "Insurance Agent",
+    "slugs": [
+      "finance",
+      "insurance-company",
+      "insurance-agent"
+    ]
+  },
+  {
+    "name": "Insurance Broker",
+    "slugs": [
+      "finance",
+      "insurance-company",
+      "insurance-broker"
+    ]
+  },
+  {
+    "name": "Investing Service",
+    "slugs": [
+      "finance",
+      "investing-service"
+    ]
+  },
+  {
+    "name": "Brokerage Firm",
+    "slugs": [
+      "finance",
+      "investing-service",
+      "brokerage"
+    ]
+  },
+  {
+    "name": "Investment Management Company",
+    "slugs": [
+      "finance",
+      "investment-management-company"
+    ]
+  },
+  {
+    "name": "Hedge Fund",
+    "slugs": [
+      "finance",
+      "investment-management-company",
+      "hedge-fund"
+    ]
+  },
+  {
+    "name": "Food & Beverage",
+    "slugs": [
+      "food-beverage"
+    ]
+  },
+  {
+    "name": "Bagel Shop",
+    "slugs": [
+      "food-beverage",
+      "bagel-shop"
+    ]
+  },
+  {
+    "name": "Bakery",
+    "slugs": [
+      "food-beverage",
+      "bakery"
+    ]
+  },
+  {
+    "name": "Wholesale Bakery",
+    "slugs": [
+      "food-beverage",
+      "bakery",
+      "wholesale-bakery"
+    ]
+  },
+  {
+    "name": "Bar",
+    "slugs": [
+      "food-beverage",
+      "bar"
+    ]
+  },
+  {
+    "name": "Beer Bar",
+    "slugs": [
+      "food-beverage",
+      "bar",
+      "beer-bar"
+    ]
+  },
+  {
+    "name": "Beer Garden",
+    "slugs": [
+      "food-beverage",
+      "bar",
+      "beer-garden"
+    ]
+  },
+  {
+    "name": "Champagne Bar",
+    "slugs": [
+      "food-beverage",
+      "bar",
+      "champagne-bar"
+    ]
+  },
+  {
+    "name": "Cocktail Bar",
+    "slugs": [
+      "food-beverage",
+      "bar",
+      "cocktail-bar"
+    ]
+  },
+  {
+    "name": "Dive Bar",
+    "slugs": [
+      "food-beverage",
+      "bar",
+      "dive-bar"
+    ]
+  },
+  {
+    "name": "Gay Bar",
+    "slugs": [
+      "food-beverage",
+      "bar",
+      "gay-bar"
+    ]
+  },
+  {
+    "name": "Hookah Lounge",
+    "slugs": [
+      "food-beverage",
+      "bar",
+      "hookah-lounge"
+    ]
+  },
+  {
+    "name": "Hotel Bar",
+    "slugs": [
+      "food-beverage",
+      "bar",
+      "hotel-bar"
+    ]
+  },
+  {
+    "name": "Irish Pub",
+    "slugs": [
+      "food-beverage",
+      "bar",
+      "irish-pub"
+    ]
+  },
+  {
+    "name": "Lounge",
+    "slugs": [
+      "food-beverage",
+      "bar",
+      "lounge"
+    ]
+  },
+  {
+    "name": "Pub",
+    "slugs": [
+      "food-beverage",
+      "bar",
+      "pub"
+    ]
+  },
+  {
+    "name": "Sake Bar",
+    "slugs": [
+      "food-beverage",
+      "bar",
+      "sake-bar"
+    ]
+  },
+  {
+    "name": "Speakeasy",
+    "slugs": [
+      "food-beverage",
+      "bar",
+      "speakeasy"
+    ]
+  },
+  {
+    "name": "Sports Bar",
+    "slugs": [
+      "food-beverage",
+      "bar",
+      "sports-bar"
+    ]
+  },
+  {
+    "name": "Tiki Bar",
+    "slugs": [
+      "food-beverage",
+      "bar",
+      "tiki-bar"
+    ]
+  },
+  {
+    "name": "Whisky Bar",
+    "slugs": [
+      "food-beverage",
+      "bar",
+      "whisky-bar"
+    ]
+  },
+  {
+    "name": "Wine Bar",
+    "slugs": [
+      "food-beverage",
+      "bar",
+      "wine-bar"
+    ]
+  },
+  {
+    "name": "Bottled Water Company",
+    "slugs": [
+      "food-beverage",
+      "bottled-water-company"
+    ]
+  },
+  {
+    "name": "Brewery",
+    "slugs": [
+      "food-beverage",
+      "brewery"
+    ]
+  },
+  {
+    "name": "Bubble Tea Shop",
+    "slugs": [
+      "food-beverage",
+      "bubble-tea-shop"
+    ]
+  },
+  {
+    "name": "Butcher Shop",
+    "slugs": [
+      "food-beverage",
+      "butcher"
+    ]
+  },
+  {
+    "name": "Cafe",
+    "slugs": [
+      "food-beverage",
+      "cafe"
+    ]
+  },
+  {
+    "name": "Pet Cafe",
+    "slugs": [
+      "food-beverage",
+      "cafe",
+      "pet-cafe"
+    ]
+  },
+  {
+    "name": "Tea Room",
+    "slugs": [
+      "food-beverage",
+      "cafe",
+      "tea-room"
+    ]
+  },
+  {
+    "name": "Cafeteria",
+    "slugs": [
+      "food-beverage",
+      "cafeteria"
+    ]
+  },
+  {
+    "name": "Caterer",
+    "slugs": [
+      "food-beverage",
+      "caterer"
+    ]
+  },
+  {
+    "name": "Cheese Shop",
+    "slugs": [
+      "food-beverage",
+      "cheese-shop"
+    ]
+  },
+  {
+    "name": "Convenience Store",
+    "slugs": [
+      "food-beverage",
+      "convenience-store"
+    ]
+  },
+  {
+    "name": "Deli",
+    "slugs": [
+      "food-beverage",
+      "deli"
+    ]
+  },
+  {
+    "name": "Dessert Shop",
+    "slugs": [
+      "food-beverage",
+      "dessert-restaurant"
+    ]
+  },
+  {
+    "name": "Candy Store",
+    "slugs": [
+      "food-beverage",
+      "dessert-restaurant",
+      "candy-store"
+    ]
+  },
+  {
+    "name": "Chocolate Shop",
+    "slugs": [
+      "food-beverage",
+      "dessert-restaurant",
+      "chocolate-shop"
+    ]
+  },
+  {
+    "name": "Cupcake Shop",
+    "slugs": [
+      "food-beverage",
+      "dessert-restaurant",
+      "cupcake-shop"
+    ]
+  },
+  {
+    "name": "Frozen Yogurt Shop",
+    "slugs": [
+      "food-beverage",
+      "dessert-restaurant",
+      "frozen-yogurt-shop"
+    ]
+  },
+  {
+    "name": "Gelato Shop",
+    "slugs": [
+      "food-beverage",
+      "dessert-restaurant",
+      "gelato-shop"
+    ]
+  },
+  {
+    "name": "Ice Cream Shop",
+    "slugs": [
+      "food-beverage",
+      "dessert-restaurant",
+      "ice-cream-parlor"
+    ]
+  },
+  {
+    "name": "Shaved Ice Shop",
+    "slugs": [
+      "food-beverage",
+      "dessert-restaurant",
+      "shaved-ice-shop"
+    ]
+  },
+  {
+    "name": "Distillery",
+    "slugs": [
+      "food-beverage",
+      "distillery"
+    ]
+  },
+  {
+    "name": "Donut Shop",
+    "slugs": [
+      "food-beverage",
+      "donut-shop"
+    ]
+  },
+  {
+    "name": "Farmers Market",
+    "slugs": [
+      "food-beverage",
+      "farmers-market"
+    ]
+  },
+  {
+    "name": "Foodservice Distributor",
+    "slugs": [
+      "food-beverage",
+      "food-beverage-service-distribution"
+    ]
+  },
+  {
+    "name": "Food Consultant",
+    "slugs": [
+      "food-beverage",
+      "food-consultant"
+    ]
+  },
+  {
+    "name": "Food Delivery Service",
+    "slugs": [
+      "food-beverage",
+      "food-delivery-service"
+    ]
+  },
+  {
+    "name": "Grocery Store",
+    "slugs": [
+      "food-beverage",
+      "food-grocery"
+    ]
+  },
+  {
+    "name": "Ethnic Grocery Store",
+    "slugs": [
+      "food-beverage",
+      "food-grocery",
+      "ethnic-grocery-store"
+    ]
+  },
+  {
+    "name": "Fish Market",
+    "slugs": [
+      "food-beverage",
+      "food-grocery",
+      "fish-market"
+    ]
+  },
+  {
+    "name": "Fruit & Vegetable Store",
+    "slugs": [
+      "food-beverage",
+      "food-grocery",
+      "fruit-vegetable-store"
+    ]
+  },
+  {
+    "name": "Health Food Store",
+    "slugs": [
+      "food-beverage",
+      "food-grocery",
+      "health-food-store"
+    ]
+  },
+  {
+    "name": "Organic Grocery Store",
+    "slugs": [
+      "food-beverage",
+      "food-grocery",
+      "organic-grocery-store"
+    ]
+  },
+  {
+    "name": "Specialty Grocery Store",
+    "slugs": [
+      "food-beverage",
+      "food-grocery",
+      "specialty-grocery-store"
+    ]
+  },
+  {
+    "name": "Supermarket",
+    "slugs": [
+      "food-beverage",
+      "food-grocery",
+      "supermarket"
+    ]
+  },
+  {
+    "name": "Wholesale Grocer",
+    "slugs": [
+      "food-beverage",
+      "food-grocery",
+      "wholesale-grocer"
+    ]
+  },
+  {
+    "name": "Food Stand",
+    "slugs": [
+      "food-beverage",
+      "food-stand"
+    ]
+  },
+  {
+    "name": "Food Truck",
+    "slugs": [
+      "food-beverage",
+      "food-truck"
+    ]
+  },
+  {
+    "name": "Food Wholesaler",
+    "slugs": [
+      "food-beverage",
+      "food-wholesaler"
+    ]
+  },
+  {
+    "name": "Meat Wholesaler",
+    "slugs": [
+      "food-beverage",
+      "food-wholesaler",
+      "meat-wholesaler"
+    ]
+  },
+  {
+    "name": "Restaurant Wholesaler",
+    "slugs": [
+      "food-beverage",
+      "food-wholesaler",
+      "restaurant-wholesale"
+    ]
+  },
+  {
+    "name": "Wine, Beer & Spirits Store",
+    "slugs": [
+      "food-beverage",
+      "liquor-store"
+    ]
+  },
+  {
+    "name": "Homebrew Supply Store",
+    "slugs": [
+      "food-beverage",
+      "liquor-store",
+      "homebrew-supply-store"
+    ]
+  },
+  {
+    "name": "Personal Chef",
+    "slugs": [
+      "food-beverage",
+      "personal-chef"
+    ]
+  },
+  {
+    "name": "Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant"
+    ]
+  },
+  {
+    "name": "Afghani Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "afghani-restaurant"
+    ]
+  },
+  {
+    "name": "African Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "african-restaurant"
+    ]
+  },
+  {
+    "name": "Ethiopian Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "african-restaurant",
+      "ethiopian-restaurant"
+    ]
+  },
+  {
+    "name": "Nigerian Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "african-restaurant",
+      "nigerian-restaurant"
+    ]
+  },
+  {
+    "name": "Senegalese Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "african-restaurant",
+      "senegalese-restaurant"
+    ]
+  },
+  {
+    "name": "South African Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "african-restaurant",
+      "south-african-restaurant"
+    ]
+  },
+  {
+    "name": "American Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "american-restaurant"
+    ]
+  },
+  {
+    "name": "Arabian Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "arabian-restaurant"
+    ]
+  },
+  {
+    "name": "Asian Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "asian-restaurant"
+    ]
+  },
+  {
+    "name": "Asian Fusion Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "asian-restaurant",
+      "asian-fusion-restaurant"
+    ]
+  },
+  {
+    "name": "Burmese Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "asian-restaurant",
+      "burmese-restaurant"
+    ]
+  },
+  {
+    "name": "Cambodian Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "asian-restaurant",
+      "cambodian-restaurant"
+    ]
+  },
+  {
+    "name": "Chinese Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "asian-restaurant",
+      "chinese-restaurant"
+    ]
+  },
+  {
+    "name": "Anhui Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "asian-restaurant",
+      "chinese-restaurant",
+      "anhui-restaurant"
+    ]
+  },
+  {
+    "name": "Beijing Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "asian-restaurant",
+      "chinese-restaurant",
+      "beijing-restaurant"
+    ]
+  },
+  {
+    "name": "Cantonese Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "asian-restaurant",
+      "chinese-restaurant",
+      "cantonese-restaurant"
+    ]
+  },
+  {
+    "name": "Dim Sum Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "asian-restaurant",
+      "chinese-restaurant",
+      "dim-sum-restaurant"
+    ]
+  },
+  {
+    "name": "Dongbei Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "asian-restaurant",
+      "chinese-restaurant",
+      "dongbei-restaurant"
+    ]
+  },
+  {
+    "name": "Fujian Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "asian-restaurant",
+      "chinese-restaurant",
+      "fujian-restaurant"
+    ]
+  },
+  {
+    "name": "Guizhou Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "asian-restaurant",
+      "chinese-restaurant",
+      "guizhou-restaurant"
+    ]
+  },
+  {
+    "name": "Hainan Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "asian-restaurant",
+      "chinese-restaurant",
+      "hainan-restaurant"
+    ]
+  },
+  {
+    "name": "Henan Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "asian-restaurant",
+      "chinese-restaurant",
+      "henan-restaurant"
+    ]
+  },
+  {
+    "name": "Hong Kong Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "asian-restaurant",
+      "chinese-restaurant",
+      "hong-kong-restaurant"
+    ]
+  },
+  {
+    "name": "Hot Pot Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "asian-restaurant",
+      "chinese-restaurant",
+      "hot-pot-restaurant"
+    ]
+  },
+  {
+    "name": "Huaiyang Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "asian-restaurant",
+      "chinese-restaurant",
+      "huaiyang-restaurant"
+    ]
+  },
+  {
+    "name": "Hubei Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "asian-restaurant",
+      "chinese-restaurant",
+      "hubei-restaurant"
+    ]
+  },
+  {
+    "name": "Hunan Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "asian-restaurant",
+      "chinese-restaurant",
+      "hunan-restaurant"
+    ]
+  },
+  {
+    "name": "Imperial Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "asian-restaurant",
+      "chinese-restaurant",
+      "imperial-restaurant"
+    ]
+  },
+  {
+    "name": "Jiangsu Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "asian-restaurant",
+      "chinese-restaurant",
+      "jiangsu-restaurant"
+    ]
+  },
+  {
+    "name": "Jiangxi Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "asian-restaurant",
+      "chinese-restaurant",
+      "jiangxi-restaurant"
+    ]
+  },
+  {
+    "name": "Macanese Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "asian-restaurant",
+      "chinese-restaurant",
+      "macanese-restaurant"
+    ]
+  },
+  {
+    "name": "Manchu Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "asian-restaurant",
+      "chinese-restaurant",
+      "manchu-restaurant"
+    ]
+  },
+  {
+    "name": "Shaanxi Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "asian-restaurant",
+      "chinese-restaurant",
+      "shaanxi-restaurant"
+    ]
+  },
+  {
+    "name": "Shandong Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "asian-restaurant",
+      "chinese-restaurant",
+      "shandong-restaurant"
+    ]
+  },
+  {
+    "name": "Shanghainese Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "asian-restaurant",
+      "chinese-restaurant",
+      "shanghainese-restaurant"
+    ]
+  },
+  {
+    "name": "Shanxi Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "asian-restaurant",
+      "chinese-restaurant",
+      "shanxi-restaurant"
+    ]
+  },
+  {
+    "name": "Szechuan/Sichuan Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "asian-restaurant",
+      "chinese-restaurant",
+      "szechuan-sichuan-restaurant"
+    ]
+  },
+  {
+    "name": "Tianjin Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "asian-restaurant",
+      "chinese-restaurant",
+      "tianjin-restaurant"
+    ]
+  },
+  {
+    "name": "Xinjiang Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "asian-restaurant",
+      "chinese-restaurant",
+      "xinjiang-restaurant"
+    ]
+  },
+  {
+    "name": "Yunnan Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "asian-restaurant",
+      "chinese-restaurant",
+      "yunnan-restaurant"
+    ]
+  },
+  {
+    "name": "Zhejiang Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "asian-restaurant",
+      "chinese-restaurant",
+      "zhejiang-restaurant"
+    ]
+  },
+  {
+    "name": "Filipino Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "asian-restaurant",
+      "filipino-restaurant"
+    ]
+  },
+  {
+    "name": "Indo Chinese Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "asian-restaurant",
+      "indo-chinese-restaurant"
+    ]
+  },
+  {
+    "name": "Indonesian Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "asian-restaurant",
+      "indonesian-restaurant"
+    ]
+  },
+  {
+    "name": "Acehnese Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "asian-restaurant",
+      "indonesian-restaurant",
+      "acehnese-restaurant"
+    ]
+  },
+  {
+    "name": "Balinese Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "asian-restaurant",
+      "indonesian-restaurant",
+      "balinese-restaurant"
+    ]
+  },
+  {
+    "name": "Betawinese Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "asian-restaurant",
+      "indonesian-restaurant",
+      "betawinese-restaurant"
+    ]
+  },
+  {
+    "name": "Javanese Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "asian-restaurant",
+      "indonesian-restaurant",
+      "javanese-restaurant"
+    ]
+  },
+  {
+    "name": "Manadonese Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "asian-restaurant",
+      "indonesian-restaurant",
+      "manadonese-restaurant"
+    ]
+  },
+  {
+    "name": "Padangnese Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "asian-restaurant",
+      "indonesian-restaurant",
+      "padangnese-restaurant"
+    ]
+  },
+  {
+    "name": "Sundanese Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "asian-restaurant",
+      "indonesian-restaurant",
+      "sundanese-restaurant"
+    ]
+  },
+  {
+    "name": "Japanese Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "asian-restaurant",
+      "japanese-restaurant"
+    ]
+  },
+  {
+    "name": "Donburi Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "asian-restaurant",
+      "japanese-restaurant",
+      "donburi-restaurant"
+    ]
+  },
+  {
+    "name": "Kaiseki Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "asian-restaurant",
+      "japanese-restaurant",
+      "kaiseki-restaurant"
+    ]
+  },
+  {
+    "name": "Kushikatsu Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "asian-restaurant",
+      "japanese-restaurant",
+      "kushikatsu-restaurant"
+    ]
+  },
+  {
+    "name": "Monjayaki Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "asian-restaurant",
+      "japanese-restaurant",
+      "monjayaki-restaurant"
+    ]
+  },
+  {
+    "name": "Nabe Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "asian-restaurant",
+      "japanese-restaurant",
+      "nabe-restaurant"
+    ]
+  },
+  {
+    "name": "Okonomiyaki Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "asian-restaurant",
+      "japanese-restaurant",
+      "okonomiyaki-restaurant"
+    ]
+  },
+  {
+    "name": "Ramen Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "asian-restaurant",
+      "japanese-restaurant",
+      "ramen-restaurant"
+    ]
+  },
+  {
+    "name": "Shabu Shabu Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "asian-restaurant",
+      "japanese-restaurant",
+      "shabu-shabu-restaurant"
+    ]
+  },
+  {
+    "name": "Soba Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "asian-restaurant",
+      "japanese-restaurant",
+      "soba-restaurant"
+    ]
+  },
+  {
+    "name": "Sukiyaki Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "asian-restaurant",
+      "japanese-restaurant",
+      "sukiyaki-restaurant"
+    ]
+  },
+  {
+    "name": "Sushi Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "asian-restaurant",
+      "japanese-restaurant",
+      "sushi-restaurant"
+    ]
+  },
+  {
+    "name": "Takoyaki Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "asian-restaurant",
+      "japanese-restaurant",
+      "takoyaki-restaurant"
+    ]
+  },
+  {
+    "name": "Tempura Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "asian-restaurant",
+      "japanese-restaurant",
+      "tempura-restaurant"
+    ]
+  },
+  {
+    "name": "Teppanyaki Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "asian-restaurant",
+      "japanese-restaurant",
+      "teppanyaki-restaurant"
+    ]
+  },
+  {
+    "name": "Tonkatsu Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "asian-restaurant",
+      "japanese-restaurant",
+      "tonkatsu-restaurant"
+    ]
+  },
+  {
+    "name": "Udon Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "asian-restaurant",
+      "japanese-restaurant",
+      "udon-restaurant"
+    ]
+  },
+  {
+    "name": "Unagi Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "asian-restaurant",
+      "japanese-restaurant",
+      "unagi-restaurant"
+    ]
+  },
+  {
+    "name": "Wagashi Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "asian-restaurant",
+      "japanese-restaurant",
+      "wagashi-restaurant"
+    ]
+  },
+  {
+    "name": "Yakiniku Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "asian-restaurant",
+      "japanese-restaurant",
+      "yakiniku-restaurant"
+    ]
+  },
+  {
+    "name": "Yakitori Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "asian-restaurant",
+      "japanese-restaurant",
+      "yakitori-restaurant"
+    ]
+  },
+  {
+    "name": "Yoshoku Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "asian-restaurant",
+      "japanese-restaurant",
+      "yoshoku-restaurant"
+    ]
+  },
+  {
+    "name": "Korean Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "asian-restaurant",
+      "korean-restaurant"
+    ]
+  },
+  {
+    "name": "Bossam/Jokbal Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "asian-restaurant",
+      "korean-restaurant",
+      "bossam-jokbal-restaurant"
+    ]
+  },
+  {
+    "name": "Bunsik Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "asian-restaurant",
+      "korean-restaurant",
+      "bunsik-restaurant"
+    ]
+  },
+  {
+    "name": "Gukbap Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "asian-restaurant",
+      "korean-restaurant",
+      "gukbap-restaurant"
+    ]
+  },
+  {
+    "name": "Janguh Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "asian-restaurant",
+      "korean-restaurant",
+      "janguh-restaurant"
+    ]
+  },
+  {
+    "name": "Samgyetang Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "asian-restaurant",
+      "korean-restaurant",
+      "samgyetang-restaurant"
+    ]
+  },
+  {
+    "name": "Malaysian Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "asian-restaurant",
+      "malaysian-restaurant"
+    ]
+  },
+  {
+    "name": "Mongolian Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "asian-restaurant",
+      "mongolian-restaurant"
+    ]
+  },
+  {
+    "name": "Noodle House",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "asian-restaurant",
+      "noodle-house"
+    ]
+  },
+  {
+    "name": "Singaporean Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "asian-restaurant",
+      "singaporean-restaurant"
+    ]
+  },
+  {
+    "name": "Taiwanese Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "asian-restaurant",
+      "taiwanese-restaurant"
+    ]
+  },
+  {
+    "name": "Thai Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "asian-restaurant",
+      "thai-restaurant"
+    ]
+  },
+  {
+    "name": "Vietnamese Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "asian-restaurant",
+      "vietnamese-restaurant"
+    ]
+  },
+  {
+    "name": "Pho Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "asian-restaurant",
+      "vietnamese-restaurant",
+      "pho-restaurant"
+    ]
+  },
+  {
+    "name": "Australian Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "australian-restaurant"
+    ]
+  },
+  {
+    "name": "Austrian Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "austrian-restaurant"
+    ]
+  },
+  {
+    "name": "Bar & Grill",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "bar-grill"
+    ]
+  },
+  {
+    "name": "Barbecue Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "barbecue-restaurant"
+    ]
+  },
+  {
+    "name": "Basque Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "basque-restaurant"
+    ]
+  },
+  {
+    "name": "Belgian Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "belgian-restaurant"
+    ]
+  },
+  {
+    "name": "Breakfast & Brunch Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "breakfast-brunch-restaurant"
+    ]
+  },
+  {
+    "name": "British Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "british-restaurant"
+    ]
+  },
+  {
+    "name": "Buffet Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "buffet-restaurant"
+    ]
+  },
+  {
+    "name": "Burger Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "burger-restaurant"
+    ]
+  },
+  {
+    "name": "Cajun & Creole Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "cajun-creole-restaurant"
+    ]
+  },
+  {
+    "name": "Canadian Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "canadian-restaurant"
+    ]
+  },
+  {
+    "name": "Caribbean Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "caribbean-restaurant"
+    ]
+  },
+  {
+    "name": "Dominican Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "caribbean-restaurant",
+      "dominican-restaurant"
+    ]
+  },
+  {
+    "name": "Haitian Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "caribbean-restaurant",
+      "haitian-restaurant"
+    ]
+  },
+  {
+    "name": "Jamaican Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "caribbean-restaurant",
+      "jamaican-restaurant"
+    ]
+  },
+  {
+    "name": "Trinidadian Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "caribbean-restaurant",
+      "trinidadian-restaurant"
+    ]
+  },
+  {
+    "name": "Catalan Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "catalan-restaurant"
+    ]
+  },
+  {
+    "name": "Chicken Joint",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "chicken-restaurant"
+    ]
+  },
+  {
+    "name": "Comfort Food Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "comfort-food-restaurant"
+    ]
+  },
+  {
+    "name": "Continental Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "continental-restaurant"
+    ]
+  },
+  {
+    "name": "Cr\u00eaperie",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "creperie"
+    ]
+  },
+  {
+    "name": "Czech Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "czech-restaurant"
+    ]
+  },
+  {
+    "name": "Diner",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "diner"
+    ]
+  },
+  {
+    "name": "Drive In Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "drive-in-restaurant"
+    ]
+  },
+  {
+    "name": "Eastern European Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "eastern-european-restaurant"
+    ]
+  },
+  {
+    "name": "Belarusian Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "eastern-european-restaurant",
+      "belarusian-restaurant"
+    ]
+  },
+  {
+    "name": "Bulgarian Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "eastern-european-restaurant",
+      "bulgarian-restaurant"
+    ]
+  },
+  {
+    "name": "Romanian Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "eastern-european-restaurant",
+      "romanian-restaurant"
+    ]
+  },
+  {
+    "name": "Tatar Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "eastern-european-restaurant",
+      "tatar-restaurant"
+    ]
+  },
+  {
+    "name": "Egyptian Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "egyptian-restaurant"
+    ]
+  },
+  {
+    "name": "European Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "european-restaurant"
+    ]
+  },
+  {
+    "name": "Family Style Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "family-style-restaurant"
+    ]
+  },
+  {
+    "name": "Fast Food Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "fast-food-restaurant"
+    ]
+  },
+  {
+    "name": "Fish & Chips Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "fish-chips-shop"
+    ]
+  },
+  {
+    "name": "Fondue Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "fondue-restaurant"
+    ]
+  },
+  {
+    "name": "French Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "french-restaurant"
+    ]
+  },
+  {
+    "name": "Gastropub",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "gastropub"
+    ]
+  },
+  {
+    "name": "German Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "german-restaurant"
+    ]
+  },
+  {
+    "name": "Baden Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "german-restaurant",
+      "baden-restaurant"
+    ]
+  },
+  {
+    "name": "Bavarian Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "german-restaurant",
+      "bavarian-restaurant"
+    ]
+  },
+  {
+    "name": "Hessian Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "german-restaurant",
+      "hessian-restaurant"
+    ]
+  },
+  {
+    "name": "Palatine Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "german-restaurant",
+      "palatine-restaurant"
+    ]
+  },
+  {
+    "name": "Saxon Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "german-restaurant",
+      "saxon-restaurant"
+    ]
+  },
+  {
+    "name": "Swabian Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "german-restaurant",
+      "swabian-restaurant"
+    ]
+  },
+  {
+    "name": "Gluten-Free Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "glutenfree-restaurant"
+    ]
+  },
+  {
+    "name": "Halal Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "halal-restaurant"
+    ]
+  },
+  {
+    "name": "Hawaiian Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "hawaiian-restaurant"
+    ]
+  },
+  {
+    "name": "Health Food Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "health-food-restaurant"
+    ]
+  },
+  {
+    "name": "Himalayan Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "himalayan-restaurant"
+    ]
+  },
+  {
+    "name": "Hot Dog Joint",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "hot-dog-joint"
+    ]
+  },
+  {
+    "name": "Hungarian Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "hungarian-restaurant"
+    ]
+  },
+  {
+    "name": "Iberian Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "iberian-restaurant"
+    ]
+  },
+  {
+    "name": "Indian Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "indian-restaurant"
+    ]
+  },
+  {
+    "name": "Andhra Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "indian-restaurant",
+      "andhra-restaurant"
+    ]
+  },
+  {
+    "name": "Awadhi Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "indian-restaurant",
+      "awadhi-restaurant"
+    ]
+  },
+  {
+    "name": "Bengali/Bangladeshi Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "indian-restaurant",
+      "bengali-bangladeshi-restaurant"
+    ]
+  },
+  {
+    "name": "Chaat Place",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "indian-restaurant",
+      "chaat-place"
+    ]
+  },
+  {
+    "name": "Chettinad Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "indian-restaurant",
+      "chettinad-restaurant"
+    ]
+  },
+  {
+    "name": "Dhaba Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "indian-restaurant",
+      "dhaba-restaurant"
+    ]
+  },
+  {
+    "name": "Dosa Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "indian-restaurant",
+      "dosa-restaurant"
+    ]
+  },
+  {
+    "name": "Goan Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "indian-restaurant",
+      "goan-restaurant"
+    ]
+  },
+  {
+    "name": "Gujarati Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "indian-restaurant",
+      "gujarati-restaurant"
+    ]
+  },
+  {
+    "name": "Hyderabadi Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "indian-restaurant",
+      "hyderabadi-restaurant"
+    ]
+  },
+  {
+    "name": "Indian Chinese Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "indian-restaurant",
+      "indian-chinese-restaurant"
+    ]
+  },
+  {
+    "name": "Irani Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "indian-restaurant",
+      "irani-restaurant"
+    ]
+  },
+  {
+    "name": "Jain Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "indian-restaurant",
+      "jain-restaurant"
+    ]
+  },
+  {
+    "name": "Karnataka Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "indian-restaurant",
+      "karnataka-restaurant"
+    ]
+  },
+  {
+    "name": "Kashmiri Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "indian-restaurant",
+      "kashmiri-restaurant"
+    ]
+  },
+  {
+    "name": "Kerala Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "indian-restaurant",
+      "kerala-restaurant"
+    ]
+  },
+  {
+    "name": "Maharashtrian Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "indian-restaurant",
+      "maharashtrian-restaurant"
+    ]
+  },
+  {
+    "name": "Mughalai Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "indian-restaurant",
+      "mughalai-restaurant"
+    ]
+  },
+  {
+    "name": "North Indian Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "indian-restaurant",
+      "north-indian-restaurant"
+    ]
+  },
+  {
+    "name": "Parsi Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "indian-restaurant",
+      "parsi-restaurant"
+    ]
+  },
+  {
+    "name": "Punjabi Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "indian-restaurant",
+      "punjabi-restaurant"
+    ]
+  },
+  {
+    "name": "Rajasthani Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "indian-restaurant",
+      "rajasthani-restaurant"
+    ]
+  },
+  {
+    "name": "South Indian Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "indian-restaurant",
+      "south-indian-restaurant"
+    ]
+  },
+  {
+    "name": "Tamilian Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "indian-restaurant",
+      "tamilian-restaurant"
+    ]
+  },
+  {
+    "name": "Udupi Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "indian-restaurant",
+      "udupi-restaurant"
+    ]
+  },
+  {
+    "name": "Uttar Pradesh Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "indian-restaurant",
+      "uttar-pradesh-restaurant"
+    ]
+  },
+  {
+    "name": "Irish Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "irish-restaurant"
+    ]
+  },
+  {
+    "name": "Italian Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "italian-restaurant"
+    ]
+  },
+  {
+    "name": "Abruzzo Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "italian-restaurant",
+      "abruzzo-restaurant"
+    ]
+  },
+  {
+    "name": "Aosta Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "italian-restaurant",
+      "aosta-restaurant"
+    ]
+  },
+  {
+    "name": "Basilicata Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "italian-restaurant",
+      "basilicata-restaurant"
+    ]
+  },
+  {
+    "name": "Calabrian Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "italian-restaurant",
+      "calabrian-restaurant"
+    ]
+  },
+  {
+    "name": "Emilia Romagna Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "italian-restaurant",
+      "emilia-romagna-restaurant"
+    ]
+  },
+  {
+    "name": "Friuli Venezia Giulia Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "italian-restaurant",
+      "friuli-venezia-giulia-restaurant"
+    ]
+  },
+  {
+    "name": "Ligurian Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "italian-restaurant",
+      "ligurian-restaurant"
+    ]
+  },
+  {
+    "name": "Lombard Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "italian-restaurant",
+      "lombard-restaurant"
+    ]
+  },
+  {
+    "name": "Marche Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "italian-restaurant",
+      "marche-restaurant"
+    ]
+  },
+  {
+    "name": "Molise Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "italian-restaurant",
+      "molise-restaurant"
+    ]
+  },
+  {
+    "name": "Neapolitan Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "italian-restaurant",
+      "neapolitan-restaurant"
+    ]
+  },
+  {
+    "name": "Piedmont Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "italian-restaurant",
+      "piedmont-restaurant"
+    ]
+  },
+  {
+    "name": "Puglia Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "italian-restaurant",
+      "puglia-restaurant"
+    ]
+  },
+  {
+    "name": "Roman Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "italian-restaurant",
+      "roman-restaurant"
+    ]
+  },
+  {
+    "name": "Sardinian Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "italian-restaurant",
+      "sardinian-restaurant"
+    ]
+  },
+  {
+    "name": "Sicilian Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "italian-restaurant",
+      "sicilian-restaurant"
+    ]
+  },
+  {
+    "name": "South Tyrolean Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "italian-restaurant",
+      "south-tyrolean-restaurant"
+    ]
+  },
+  {
+    "name": "Trentino Alto Adige Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "italian-restaurant",
+      "trentino-alto-adige-restaurant"
+    ]
+  },
+  {
+    "name": "Tuscan Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "italian-restaurant",
+      "tuscan-restaurant"
+    ]
+  },
+  {
+    "name": "Umbrian Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "italian-restaurant",
+      "umbrian-restaurant"
+    ]
+  },
+  {
+    "name": "Venetian Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "italian-restaurant",
+      "venetian-restaurant"
+    ]
+  },
+  {
+    "name": "Kosher Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "kosher-restaurant"
+    ]
+  },
+  {
+    "name": "Latin American Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "latin-american-restaurant"
+    ]
+  },
+  {
+    "name": "Argentinian Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "latin-american-restaurant",
+      "argentine-restaurant"
+    ]
+  },
+  {
+    "name": "Belizean Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "latin-american-restaurant",
+      "belizean-restaurant"
+    ]
+  },
+  {
+    "name": "Bolivian Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "latin-american-restaurant",
+      "bolivian-restaurant"
+    ]
+  },
+  {
+    "name": "Brazilian Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "latin-american-restaurant",
+      "brazilian-restaurant"
+    ]
+  },
+  {
+    "name": "Chilean Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "latin-american-restaurant",
+      "chilean-restaurant"
+    ]
+  },
+  {
+    "name": "Colombian Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "latin-american-restaurant",
+      "colombian-restaurant"
+    ]
+  },
+  {
+    "name": "Costa Rican Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "latin-american-restaurant",
+      "costa-rican-restaurant"
+    ]
+  },
+  {
+    "name": "Cuban Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "latin-american-restaurant",
+      "cuban-restaurant"
+    ]
+  },
+  {
+    "name": "Ecuadorian Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "latin-american-restaurant",
+      "ecuadorian-restaurant"
+    ]
+  },
+  {
+    "name": "Guatemalan Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "latin-american-restaurant",
+      "guatamalan-restaurant"
+    ]
+  },
+  {
+    "name": "Honduran Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "latin-american-restaurant",
+      "honduran-restaurant"
+    ]
+  },
+  {
+    "name": "Mexican Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "latin-american-restaurant",
+      "mexican-restaurant"
+    ]
+  },
+  {
+    "name": "Tex-Mex Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "latin-american-restaurant",
+      "mexican-restaurant",
+      "texmex-restaurant"
+    ]
+  },
+  {
+    "name": "Nicaraguan Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "latin-american-restaurant",
+      "nicaraguan-restaurant"
+    ]
+  },
+  {
+    "name": "Panamanian Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "latin-american-restaurant",
+      "panamanian-restaurant"
+    ]
+  },
+  {
+    "name": "Paraguayan Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "latin-american-restaurant",
+      "paraguayan-restaurant"
+    ]
+  },
+  {
+    "name": "Peruvian Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "latin-american-restaurant",
+      "peruvian-restaurant"
+    ]
+  },
+  {
+    "name": "Puerto Rican Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "latin-american-restaurant",
+      "puerto-rican-restaurant"
+    ]
+  },
+  {
+    "name": "Salvadoran Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "latin-american-restaurant",
+      "salvadoran-restaurant"
+    ]
+  },
+  {
+    "name": "Uruguayan Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "latin-american-restaurant",
+      "uruguayan-restaurant"
+    ]
+  },
+  {
+    "name": "Venezuelan Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "latin-american-restaurant",
+      "venezuelan-restaurant"
+    ]
+  },
+  {
+    "name": "Live & Raw Food Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "live-raw-food-restaurant"
+    ]
+  },
+  {
+    "name": "Mediterranean Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "mediterranean-restaurant"
+    ]
+  },
+  {
+    "name": "Greek Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "mediterranean-restaurant",
+      "greek-restaurant"
+    ]
+  },
+  {
+    "name": "Middle Eastern Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "middle-eastern-restaurant"
+    ]
+  },
+  {
+    "name": "Armenian Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "middle-eastern-restaurant",
+      "armenian-restaurant"
+    ]
+  },
+  {
+    "name": "Azerbaijani Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "middle-eastern-restaurant",
+      "azerbaijani-restaurant"
+    ]
+  },
+  {
+    "name": "Georgian Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "middle-eastern-restaurant",
+      "georgian-restaurant"
+    ]
+  },
+  {
+    "name": "Israeli Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "middle-eastern-restaurant",
+      "israeli-restaurant"
+    ]
+  },
+  {
+    "name": "Kurdish Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "middle-eastern-restaurant",
+      "kurdish-restaurant"
+    ]
+  },
+  {
+    "name": "Lebanese Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "middle-eastern-restaurant",
+      "lebanese-restaurant"
+    ]
+  },
+  {
+    "name": "Persian/Iranian Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "middle-eastern-restaurant",
+      "persian-restaurant"
+    ]
+  },
+  {
+    "name": "Syrian Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "middle-eastern-restaurant",
+      "syrian-restaurant"
+    ]
+  },
+  {
+    "name": "Turkish Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "middle-eastern-restaurant",
+      "turkish-restaurant"
+    ]
+  },
+  {
+    "name": "Kebab Shop",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "middle-eastern-restaurant",
+      "turkish-restaurant",
+      "kebab-shop"
+    ]
+  },
+  {
+    "name": "Modern European Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "modern-european-restaurant"
+    ]
+  },
+  {
+    "name": "Molecular Gastronomy Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "molecular-gastronomy-restaurant"
+    ]
+  },
+  {
+    "name": "Moroccan Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "moroccan-restaurant"
+    ]
+  },
+  {
+    "name": "Nepalese Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "nepalese-restaurant"
+    ]
+  },
+  {
+    "name": "New American Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "new-american-restaurant"
+    ]
+  },
+  {
+    "name": "Pakistani Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "pakistani-restaurant"
+    ]
+  },
+  {
+    "name": "Pizza Place",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "pizza-place"
+    ]
+  },
+  {
+    "name": "Polish Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "polish-restaurant"
+    ]
+  },
+  {
+    "name": "Polynesian Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "polynesian-restaurant"
+    ]
+  },
+  {
+    "name": "Portuguese Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "portuguese-restaurant"
+    ]
+  },
+  {
+    "name": "Russian Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "russian-restaurant"
+    ]
+  },
+  {
+    "name": "Salad Bar",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "salad-bar"
+    ]
+  },
+  {
+    "name": "Scandinavian Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "scandinavian-restaurant"
+    ]
+  },
+  {
+    "name": "Scottish Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "scottish-restaurant"
+    ]
+  },
+  {
+    "name": "Seafood Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "seafood-restaurant"
+    ]
+  },
+  {
+    "name": "Slovakian Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "slovakian-restaurant"
+    ]
+  },
+  {
+    "name": "Soul Food Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "soul-food-restaurant"
+    ]
+  },
+  {
+    "name": "Soup Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "soup-restaurant"
+    ]
+  },
+  {
+    "name": "Southern Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "southern-restaurant"
+    ]
+  },
+  {
+    "name": "Southwestern Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "southwestern-restaurant"
+    ]
+  },
+  {
+    "name": "Spanish Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "spanish-restaurant"
+    ]
+  },
+  {
+    "name": "Sri Lankan Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "sri-lankan-restaurant"
+    ]
+  },
+  {
+    "name": "Steakhouse",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "steakhouse"
+    ]
+  },
+  {
+    "name": "Swiss Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "swiss-restaurant"
+    ]
+  },
+  {
+    "name": "Tapas Bar & Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "tapas-bar-restaurant"
+    ]
+  },
+  {
+    "name": "Theme Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "theme-restaurant"
+    ]
+  },
+  {
+    "name": "Ukrainian Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "ukrainian-restaurant"
+    ]
+  },
+  {
+    "name": "Uzbek Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "uzbek-restaurant"
+    ]
+  },
+  {
+    "name": "Vegetarian/Vegan Restaurant",
+    "slugs": [
+      "food-beverage",
+      "restaurant",
+      "vegetarian-vegan-restaurant"
+    ]
+  },
+  {
+    "name": "Sandwich Shop",
+    "slugs": [
+      "food-beverage",
+      "sandwich-shop"
+    ]
+  },
+  {
+    "name": "Smoothie & Juice Bar",
+    "slugs": [
+      "food-beverage",
+      "smoothie-juice-bar"
+    ]
+  },
+  {
+    "name": "Winery/Vineyard",
+    "slugs": [
+      "food-beverage",
+      "winery-vineyard"
+    ]
+  },
+  {
+    "name": "Government Building",
+    "slugs": [
+      "government-building"
+    ]
+  },
+  {
+    "name": "Capitol Building",
+    "slugs": [
+      "government-building",
+      "capitol-building"
+    ]
+  },
+  {
+    "name": "City Hall",
+    "slugs": [
+      "government-building",
+      "city-hall"
+    ]
+  },
+  {
+    "name": "Consulate & Embassy",
+    "slugs": [
+      "government-building",
+      "consulate-embassy"
+    ]
+  },
+  {
+    "name": "Courthouse",
+    "slugs": [
+      "government-building",
+      "courthouse"
+    ]
+  },
+  {
+    "name": "Fire Station",
+    "slugs": [
+      "government-building",
+      "fire-station"
+    ]
+  },
+  {
+    "name": "Military Base",
+    "slugs": [
+      "government-building",
+      "military-base"
+    ]
+  },
+  {
+    "name": "Police Station",
+    "slugs": [
+      "government-building",
+      "police-station"
+    ]
+  },
+  {
+    "name": "Post Office",
+    "slugs": [
+      "government-building",
+      "post-office"
+    ]
+  },
+  {
+    "name": "Prison & Correctional Facility",
+    "slugs": [
+      "government-building",
+      "prison-correctional-facility"
+    ]
+  },
+  {
+    "name": "Town Hall",
+    "slugs": [
+      "government-building",
+      "town-hall"
+    ]
+  },
+  {
+    "name": "Hotel & Lodging",
+    "slugs": [
+      "hotel-lodging"
+    ]
+  },
+  {
+    "name": "Bed and Breakfast",
+    "slugs": [
+      "hotel-lodging",
+      "bed-and-breakfast"
+    ]
+  },
+  {
+    "name": "Cabin",
+    "slugs": [
+      "hotel-lodging",
+      "cabin"
+    ]
+  },
+  {
+    "name": "Campground",
+    "slugs": [
+      "hotel-lodging",
+      "campground"
+    ]
+  },
+  {
+    "name": "Cottage",
+    "slugs": [
+      "hotel-lodging",
+      "cottage"
+    ]
+  },
+  {
+    "name": "Hostel",
+    "slugs": [
+      "hotel-lodging",
+      "hostel"
+    ]
+  },
+  {
+    "name": "Hotel",
+    "slugs": [
+      "hotel-lodging",
+      "hotel"
+    ]
+  },
+  {
+    "name": "Beach Resort",
+    "slugs": [
+      "hotel-lodging",
+      "hotel",
+      "beach-resort"
+    ]
+  },
+  {
+    "name": "Hotel Resort",
+    "slugs": [
+      "hotel-lodging",
+      "hotel",
+      "resort"
+    ]
+  },
+  {
+    "name": "Inn",
+    "slugs": [
+      "hotel-lodging",
+      "inn"
+    ]
+  },
+  {
+    "name": "Lodge",
+    "slugs": [
+      "hotel-lodging",
+      "lodge"
+    ]
+  },
+  {
+    "name": "Motel",
+    "slugs": [
+      "hotel-lodging",
+      "motel"
+    ]
+  },
+  {
+    "name": "RV Park",
+    "slugs": [
+      "hotel-lodging",
+      "rv-park"
+    ]
+  },
+  {
+    "name": "Service Apartments",
+    "slugs": [
+      "hotel-lodging",
+      "service-apartments"
+    ]
+  },
+  {
+    "name": "Vacation Home Rental",
+    "slugs": [
+      "hotel-lodging",
+      "vacation-home-rental"
+    ]
+  },
+  {
+    "name": "Legal",
+    "slugs": [
+      "legal"
+    ]
+  },
+  {
+    "name": "Lawyer & Law Firm",
+    "slugs": [
+      "legal",
+      "law-firm"
+    ]
+  },
+  {
+    "name": "Bankruptcy Lawyer",
+    "slugs": [
+      "legal",
+      "law-firm",
+      "bankruptcy-lawyer"
+    ]
+  },
+  {
+    "name": "Contract Lawyer",
+    "slugs": [
+      "legal",
+      "law-firm",
+      "contract-lawyer"
+    ]
+  },
+  {
+    "name": "Corporate Lawyer",
+    "slugs": [
+      "legal",
+      "law-firm",
+      "corporate-lawyer"
+    ]
+  },
+  {
+    "name": "Criminal Lawyer",
+    "slugs": [
+      "legal",
+      "law-firm",
+      "criminal-lawyer"
+    ]
+  },
+  {
+    "name": "Divorce & Family Lawyer",
+    "slugs": [
+      "legal",
+      "law-firm",
+      "divorce-family-lawyer"
+    ]
+  },
+  {
+    "name": "DUI Lawyer",
+    "slugs": [
+      "legal",
+      "law-firm",
+      "dui-lawyer"
+    ]
+  },
+  {
+    "name": "Entertainment Lawyer",
+    "slugs": [
+      "legal",
+      "law-firm",
+      "entertainment-lawyer"
+    ]
+  },
+  {
+    "name": "General Litigation",
+    "slugs": [
+      "legal",
+      "law-firm",
+      "general-litigation"
+    ]
+  },
+  {
+    "name": "Immigration Lawyer",
+    "slugs": [
+      "legal",
+      "law-firm",
+      "immigration-lawyer"
+    ]
+  },
+  {
+    "name": "Internet Lawyer",
+    "slugs": [
+      "legal",
+      "law-firm",
+      "internet-lawyer"
+    ]
+  },
+  {
+    "name": "Juvenile Lawyer",
+    "slugs": [
+      "legal",
+      "law-firm",
+      "juvenile-law"
+    ]
+  },
+  {
+    "name": "Labor & Employment Lawyer",
+    "slugs": [
+      "legal",
+      "law-firm",
+      "labor-employment-law"
+    ]
+  },
+  {
+    "name": "Landlord & Tenant Lawyer",
+    "slugs": [
+      "legal",
+      "law-firm",
+      "landlord-tenant-lawyer"
+    ]
+  },
+  {
+    "name": "Malpractice Lawyer",
+    "slugs": [
+      "legal",
+      "law-firm",
+      "malpractice-law"
+    ]
+  },
+  {
+    "name": "Medical Lawyer",
+    "slugs": [
+      "legal",
+      "law-firm",
+      "medical-lawyer"
+    ]
+  },
+  {
+    "name": "Military Lawyer",
+    "slugs": [
+      "legal",
+      "law-firm",
+      "military-lawyer"
+    ]
+  },
+  {
+    "name": "Intellectual Property Lawyer",
+    "slugs": [
+      "legal",
+      "law-firm",
+      "patent-trademark-copyright-law"
+    ]
+  },
+  {
+    "name": "Personal Injury Lawyer",
+    "slugs": [
+      "legal",
+      "law-firm",
+      "personal-injury-lawyer"
+    ]
+  },
+  {
+    "name": "Property Lawyer",
+    "slugs": [
+      "legal",
+      "law-firm",
+      "property-law"
+    ]
+  },
+  {
+    "name": "Real Estate Lawyer",
+    "slugs": [
+      "legal",
+      "law-firm",
+      "real-estate-lawyer"
+    ]
+  },
+  {
+    "name": "Tax Lawyer",
+    "slugs": [
+      "legal",
+      "law-firm",
+      "tax-lawyer"
+    ]
+  },
+  {
+    "name": "Estate Planning Lawyer",
+    "slugs": [
+      "legal",
+      "law-firm",
+      "wills-estate-lawyer"
+    ]
+  },
+  {
+    "name": "Legal Service",
+    "slugs": [
+      "legal",
+      "legal-services"
+    ]
+  },
+  {
+    "name": "Bail Bondsmen",
+    "slugs": [
+      "legal",
+      "legal-services",
+      "bail-bonds"
+    ]
+  },
+  {
+    "name": "Lobbyist",
+    "slugs": [
+      "legal",
+      "legal-services",
+      "lobbyist"
+    ]
+  },
+  {
+    "name": "Notary Public",
+    "slugs": [
+      "legal",
+      "legal-services",
+      "notary-public"
+    ]
+  },
+  {
+    "name": "Private Investigator",
+    "slugs": [
+      "legal",
+      "legal-services",
+      "private-investigator"
+    ]
+  },
+  {
+    "name": "Process Service",
+    "slugs": [
+      "legal",
+      "legal-services",
+      "process-service"
+    ]
+  },
+  {
+    "name": "Local Service",
+    "slugs": [
+      "local-services"
+    ]
+  },
+  {
+    "name": "Adoption Service",
+    "slugs": [
+      "local-services",
+      "adoption-service"
+    ]
+  },
+  {
+    "name": "Astrologist",
+    "slugs": [
+      "local-services",
+      "astrologist"
+    ]
+  },
+  {
+    "name": "Bicycle Repair Service",
+    "slugs": [
+      "local-services",
+      "bicycle-repair-service"
+    ]
+  },
+  {
+    "name": "Bottled Water Supplier",
+    "slugs": [
+      "local-services",
+      "bottled-water-supplier"
+    ]
+  },
+  {
+    "name": "Business Service",
+    "slugs": [
+      "local-services",
+      "business-services"
+    ]
+  },
+  {
+    "name": "Business Consultant",
+    "slugs": [
+      "local-services",
+      "business-services",
+      "business-consultant"
+    ]
+  },
+  {
+    "name": "Business Supply Service",
+    "slugs": [
+      "local-services",
+      "business-services",
+      "business-supply-service"
+    ]
+  },
+  {
+    "name": "Cargo & Freight Company",
+    "slugs": [
+      "local-services",
+      "business-services",
+      "cargo-freight"
+    ]
+  },
+  {
+    "name": "Consulting Agency",
+    "slugs": [
+      "local-services",
+      "business-services",
+      "consulting-company"
+    ]
+  },
+  {
+    "name": "Employment Agency",
+    "slugs": [
+      "local-services",
+      "business-services",
+      "employment-agency"
+    ]
+  },
+  {
+    "name": "Recruiter",
+    "slugs": [
+      "local-services",
+      "business-services",
+      "employment-agency",
+      "recruiter"
+    ]
+  },
+  {
+    "name": "Franchising Service",
+    "slugs": [
+      "local-services",
+      "business-services",
+      "franchising-service"
+    ]
+  },
+  {
+    "name": "Graphic Designer",
+    "slugs": [
+      "local-services",
+      "business-services",
+      "graphic-design"
+    ]
+  },
+  {
+    "name": "Hospitality Service",
+    "slugs": [
+      "local-services",
+      "business-services",
+      "hospitality-service"
+    ]
+  },
+  {
+    "name": "Janitorial Service",
+    "slugs": [
+      "local-services",
+      "business-services",
+      "janitorial-service"
+    ]
+  },
+  {
+    "name": "Management Service",
+    "slugs": [
+      "local-services",
+      "business-services",
+      "management-service"
+    ]
+  },
+  {
+    "name": "Security Guard Service",
+    "slugs": [
+      "local-services",
+      "business-services",
+      "patrol-security"
+    ]
+  },
+  {
+    "name": "Personal Assistant",
+    "slugs": [
+      "local-services",
+      "business-services",
+      "personal-assistant"
+    ]
+  },
+  {
+    "name": "Personal Coach",
+    "slugs": [
+      "local-services",
+      "business-services",
+      "personal-coaching"
+    ]
+  },
+  {
+    "name": "Secretarial Service",
+    "slugs": [
+      "local-services",
+      "business-services",
+      "secretarial-service"
+    ]
+  },
+  {
+    "name": "Shredding Service",
+    "slugs": [
+      "local-services",
+      "business-services",
+      "shredding-service"
+    ]
+  },
+  {
+    "name": "Translator",
+    "slugs": [
+      "local-services",
+      "business-services",
+      "translator"
+    ]
+  },
+  {
+    "name": "Uniform Supplier",
+    "slugs": [
+      "local-services",
+      "business-services",
+      "uniform-supplier"
+    ]
+  },
+  {
+    "name": "Vending Machine Sales & Service",
+    "slugs": [
+      "local-services",
+      "business-services",
+      "vending-machine-service"
+    ]
+  },
+  {
+    "name": "Web Designer",
+    "slugs": [
+      "local-services",
+      "business-services",
+      "web-design"
+    ]
+  },
+  {
+    "name": "Career Counselor",
+    "slugs": [
+      "local-services",
+      "career-counselor"
+    ]
+  },
+  {
+    "name": "Computer Repair Service",
+    "slugs": [
+      "local-services",
+      "computer-services"
+    ]
+  },
+  {
+    "name": "Dating Service",
+    "slugs": [
+      "local-services",
+      "dating-service"
+    ]
+  },
+  {
+    "name": "Design & Fashion",
+    "slugs": [
+      "local-services",
+      "design"
+    ]
+  },
+  {
+    "name": "Modeling Agency",
+    "slugs": [
+      "local-services",
+      "design",
+      "modeling-agency"
+    ]
+  },
+  {
+    "name": "Dry Cleaner",
+    "slugs": [
+      "local-services",
+      "dry-cleaner"
+    ]
+  },
+  {
+    "name": "Event Planner",
+    "slugs": [
+      "local-services",
+      "event-planning"
+    ]
+  },
+  {
+    "name": "Bartending Service",
+    "slugs": [
+      "local-services",
+      "event-planning",
+      "bartending-service"
+    ]
+  },
+  {
+    "name": "Wedding Planning Service",
+    "slugs": [
+      "local-services",
+      "event-planning",
+      "wedding-planning"
+    ]
+  },
+  {
+    "name": "Event Space",
+    "slugs": [
+      "local-services",
+      "event-space"
+    ]
+  },
+  {
+    "name": "Ballroom",
+    "slugs": [
+      "local-services",
+      "event-space",
+      "ballroom"
+    ]
+  },
+  {
+    "name": "Business Center",
+    "slugs": [
+      "local-services",
+      "event-space",
+      "business-center"
+    ]
+  },
+  {
+    "name": "Convention Center",
+    "slugs": [
+      "local-services",
+      "event-space",
+      "convention-center"
+    ]
+  },
+  {
+    "name": "Wedding Venue",
+    "slugs": [
+      "local-services",
+      "event-space",
+      "wedding-venue"
+    ]
+  },
+  {
+    "name": "Florist",
+    "slugs": [
+      "local-services",
+      "florist"
+    ]
+  },
+  {
+    "name": "Funeral Service & Cemetery",
+    "slugs": [
+      "local-services",
+      "funeral-service"
+    ]
+  },
+  {
+    "name": "Genealogist",
+    "slugs": [
+      "local-services",
+      "genealogist"
+    ]
+  },
+  {
+    "name": "Glass Blower",
+    "slugs": [
+      "local-services",
+      "glass-blower"
+    ]
+  },
+  {
+    "name": "Home Improvement",
+    "slugs": [
+      "local-services",
+      "home-improvement"
+    ]
+  },
+  {
+    "name": "Appliance Repair Service",
+    "slugs": [
+      "local-services",
+      "home-improvement",
+      "appliance-repair-service"
+    ]
+  },
+  {
+    "name": "Heating, Ventilating & Air Conditioning Service",
+    "slugs": [
+      "local-services",
+      "home-improvement",
+      "appliance-repair-service",
+      "heating-ventilating-air-conditioning"
+    ]
+  },
+  {
+    "name": "Refrigeration Service",
+    "slugs": [
+      "local-services",
+      "home-improvement",
+      "appliance-repair-service",
+      "refrigeration-sales-service"
+    ]
+  },
+  {
+    "name": "Water Heater Installation & Repair Service",
+    "slugs": [
+      "local-services",
+      "home-improvement",
+      "appliance-repair-service",
+      "water-heater-installation-repair-service"
+    ]
+  },
+  {
+    "name": "Architectural Designer",
+    "slugs": [
+      "local-services",
+      "home-improvement",
+      "architectural-designer"
+    ]
+  },
+  {
+    "name": "Carpenter",
+    "slugs": [
+      "local-services",
+      "home-improvement",
+      "carpenter"
+    ]
+  },
+  {
+    "name": "Carpet Cleaner",
+    "slugs": [
+      "local-services",
+      "home-improvement",
+      "carpet-cleaner"
+    ]
+  },
+  {
+    "name": "Chimney Sweeper",
+    "slugs": [
+      "local-services",
+      "home-improvement",
+      "chimney-sweeper"
+    ]
+  },
+  {
+    "name": "Concrete Contractor",
+    "slugs": [
+      "local-services",
+      "home-improvement",
+      "concrete-contractor"
+    ]
+  },
+  {
+    "name": "Construction Company",
+    "slugs": [
+      "local-services",
+      "home-improvement",
+      "construction-company"
+    ]
+  },
+  {
+    "name": "Contractor",
+    "slugs": [
+      "local-services",
+      "home-improvement",
+      "contractor"
+    ]
+  },
+  {
+    "name": "Damage Restoration Service",
+    "slugs": [
+      "local-services",
+      "home-improvement",
+      "damage-restoration-service"
+    ]
+  },
+  {
+    "name": "Deck & Patio Builder",
+    "slugs": [
+      "local-services",
+      "home-improvement",
+      "deck-patio"
+    ]
+  },
+  {
+    "name": "Electrician",
+    "slugs": [
+      "local-services",
+      "home-improvement",
+      "electrician"
+    ]
+  },
+  {
+    "name": "Elevator Service",
+    "slugs": [
+      "local-services",
+      "home-improvement",
+      "elevator-services"
+    ]
+  },
+  {
+    "name": "Demolition & Excavation Company",
+    "slugs": [
+      "local-services",
+      "home-improvement",
+      "excavation-wrecking"
+    ]
+  },
+  {
+    "name": "Fence & Gate Contractor",
+    "slugs": [
+      "local-services",
+      "home-improvement",
+      "fence-gate-contractor"
+    ]
+  },
+  {
+    "name": "Fire Protection Service",
+    "slugs": [
+      "local-services",
+      "home-improvement",
+      "fire-protection"
+    ]
+  },
+  {
+    "name": "Furniture Repair & Upholstery Service",
+    "slugs": [
+      "local-services",
+      "home-improvement",
+      "furniture-repair"
+    ]
+  },
+  {
+    "name": "Garage Door Service",
+    "slugs": [
+      "local-services",
+      "home-improvement",
+      "garage-door-services"
+    ]
+  },
+  {
+    "name": "Gardener",
+    "slugs": [
+      "local-services",
+      "home-improvement",
+      "gardener"
+    ]
+  },
+  {
+    "name": "Glass Service",
+    "slugs": [
+      "local-services",
+      "home-improvement",
+      "glass-service"
+    ]
+  },
+  {
+    "name": "Gutter Cleaning Service",
+    "slugs": [
+      "local-services",
+      "home-improvement",
+      "gutter-cleaning-service"
+    ]
+  },
+  {
+    "name": "Handyman",
+    "slugs": [
+      "local-services",
+      "home-improvement",
+      "handyman"
+    ]
+  },
+  {
+    "name": "Home Security Company",
+    "slugs": [
+      "local-services",
+      "home-improvement",
+      "home-security"
+    ]
+  },
+  {
+    "name": "Home Window Service",
+    "slugs": [
+      "local-services",
+      "home-improvement",
+      "home-window-service"
+    ]
+  },
+  {
+    "name": "House Painting",
+    "slugs": [
+      "local-services",
+      "home-improvement",
+      "house-painter"
+    ]
+  },
+  {
+    "name": "Interior Design Studio",
+    "slugs": [
+      "local-services",
+      "home-improvement",
+      "interior-designer"
+    ]
+  },
+  {
+    "name": "Kitchen & Bath Contractor",
+    "slugs": [
+      "local-services",
+      "home-improvement",
+      "kitchen-bath-contractor"
+    ]
+  },
+  {
+    "name": "Landscape Company",
+    "slugs": [
+      "local-services",
+      "home-improvement",
+      "landscaping"
+    ]
+  },
+  {
+    "name": "Lumber Yard",
+    "slugs": [
+      "local-services",
+      "home-improvement",
+      "lumber-yard"
+    ]
+  },
+  {
+    "name": "Masonry Contractor",
+    "slugs": [
+      "local-services",
+      "home-improvement",
+      "masonry"
+    ]
+  },
+  {
+    "name": "Paving & Asphalt Service",
+    "slugs": [
+      "local-services",
+      "home-improvement",
+      "paving-asphalt-service"
+    ]
+  },
+  {
+    "name": "Pest Control Service",
+    "slugs": [
+      "local-services",
+      "home-improvement",
+      "pest-control"
+    ]
+  },
+  {
+    "name": "Plumbing Service",
+    "slugs": [
+      "local-services",
+      "home-improvement",
+      "plumber"
+    ]
+  },
+  {
+    "name": "Portable Building Service",
+    "slugs": [
+      "local-services",
+      "home-improvement",
+      "portable-building-service"
+    ]
+  },
+  {
+    "name": "Portable Toilet Rentals",
+    "slugs": [
+      "local-services",
+      "home-improvement",
+      "portable-toilet-rentals"
+    ]
+  },
+  {
+    "name": "Powder Coating Service",
+    "slugs": [
+      "local-services",
+      "home-improvement",
+      "powder-coating-service"
+    ]
+  },
+  {
+    "name": "Roofing Service",
+    "slugs": [
+      "local-services",
+      "home-improvement",
+      "roofer"
+    ]
+  },
+  {
+    "name": "Sandblasting Service",
+    "slugs": [
+      "local-services",
+      "home-improvement",
+      "sandblasting-service"
+    ]
+  },
+  {
+    "name": "Septic Tank Service",
+    "slugs": [
+      "local-services",
+      "home-improvement",
+      "septic-tank-service"
+    ]
+  },
+  {
+    "name": "Sewer Service",
+    "slugs": [
+      "local-services",
+      "home-improvement",
+      "sewer-service"
+    ]
+  },
+  {
+    "name": "Solar Energy Service",
+    "slugs": [
+      "local-services",
+      "home-improvement",
+      "solar-energy-service"
+    ]
+  },
+  {
+    "name": "Swimming Pool Cleaner",
+    "slugs": [
+      "local-services",
+      "home-improvement",
+      "swimming-pool-cleaner"
+    ]
+  },
+  {
+    "name": "Swimming Pool & Hot Tub Service",
+    "slugs": [
+      "local-services",
+      "home-improvement",
+      "swimming-pool-maintenance"
+    ]
+  },
+  {
+    "name": "Tiling Service",
+    "slugs": [
+      "local-services",
+      "home-improvement",
+      "tiling-service"
+    ]
+  },
+  {
+    "name": "Tree Cutting Service",
+    "slugs": [
+      "local-services",
+      "home-improvement",
+      "tree-cutting-service"
+    ]
+  },
+  {
+    "name": "Vinyl Siding Company",
+    "slugs": [
+      "local-services",
+      "home-improvement",
+      "vinyl-siding-company"
+    ]
+  },
+  {
+    "name": "Water Treatment Service",
+    "slugs": [
+      "local-services",
+      "home-improvement",
+      "water-treatment-plant"
+    ]
+  },
+  {
+    "name": "Well Water Drilling Service",
+    "slugs": [
+      "local-services",
+      "home-improvement",
+      "well-water-drilling-service"
+    ]
+  },
+  {
+    "name": "Window Installation Service",
+    "slugs": [
+      "local-services",
+      "home-improvement",
+      "window-service-repair"
+    ]
+  },
+  {
+    "name": "In-Home Service",
+    "slugs": [
+      "local-services",
+      "home-services"
+    ]
+  },
+  {
+    "name": "Babysitter",
+    "slugs": [
+      "local-services",
+      "home-services",
+      "babysitter"
+    ]
+  },
+  {
+    "name": "Child Care Service",
+    "slugs": [
+      "local-services",
+      "home-services",
+      "child-care"
+    ]
+  },
+  {
+    "name": "Cleaning Service",
+    "slugs": [
+      "local-services",
+      "home-services",
+      "cleaning-service"
+    ]
+  },
+  {
+    "name": "House Sitter",
+    "slugs": [
+      "local-services",
+      "home-services",
+      "house-sitter"
+    ]
+  },
+  {
+    "name": "Maid & Butler",
+    "slugs": [
+      "local-services",
+      "home-services",
+      "maid-butler"
+    ]
+  },
+  {
+    "name": "Nanny",
+    "slugs": [
+      "local-services",
+      "home-services",
+      "nanny"
+    ]
+  },
+  {
+    "name": "Internet Cafe",
+    "slugs": [
+      "local-services",
+      "internet-cafe"
+    ]
+  },
+  {
+    "name": "Junkyard",
+    "slugs": [
+      "local-services",
+      "junkyard"
+    ]
+  },
+  {
+    "name": "Laundromat",
+    "slugs": [
+      "local-services",
+      "laundromat"
+    ]
+  },
+  {
+    "name": "Locksmith",
+    "slugs": [
+      "local-services",
+      "locksmith"
+    ]
+  },
+  {
+    "name": "Parking Garage / Lot",
+    "slugs": [
+      "local-services",
+      "parking"
+    ]
+  },
+  {
+    "name": "Party Entertainment Service",
+    "slugs": [
+      "local-services",
+      "party-center"
+    ]
+  },
+  {
+    "name": "Adult Entertainment Service",
+    "slugs": [
+      "local-services",
+      "party-center",
+      "adult-entertainment"
+    ]
+  },
+  {
+    "name": "DJ",
+    "slugs": [
+      "local-services",
+      "party-center",
+      "dj"
+    ]
+  },
+  {
+    "name": "Kids Entertainment Service",
+    "slugs": [
+      "local-services",
+      "party-center",
+      "kids-entertainment-service"
+    ]
+  },
+  {
+    "name": "Magician",
+    "slugs": [
+      "local-services",
+      "party-center",
+      "magician"
+    ]
+  },
+  {
+    "name": "Party & Entertainment Service",
+    "slugs": [
+      "local-services",
+      "party-entertainment-service"
+    ]
+  },
+  {
+    "name": "Pet Service",
+    "slugs": [
+      "local-services",
+      "pet-service"
+    ]
+  },
+  {
+    "name": "Animal Shelter",
+    "slugs": [
+      "local-services",
+      "pet-service",
+      "animal-shelter"
+    ]
+  },
+  {
+    "name": "Dog Day Care Center",
+    "slugs": [
+      "local-services",
+      "pet-service",
+      "dog-day-care-center"
+    ]
+  },
+  {
+    "name": "Dog Trainer",
+    "slugs": [
+      "local-services",
+      "pet-service",
+      "dog-training"
+    ]
+  },
+  {
+    "name": "Dog Walker",
+    "slugs": [
+      "local-services",
+      "pet-service",
+      "dog-walker"
+    ]
+  },
+  {
+    "name": "Horse Trainer",
+    "slugs": [
+      "local-services",
+      "pet-service",
+      "horse-trainer"
+    ]
+  },
+  {
+    "name": "Kennel",
+    "slugs": [
+      "local-services",
+      "pet-service",
+      "kennel"
+    ]
+  },
+  {
+    "name": "Livery Stable",
+    "slugs": [
+      "local-services",
+      "pet-service",
+      "livery-stable"
+    ]
+  },
+  {
+    "name": "Pet Adoption Service",
+    "slugs": [
+      "local-services",
+      "pet-service",
+      "pet-adoption-service"
+    ]
+  },
+  {
+    "name": "Pet Breeder",
+    "slugs": [
+      "local-services",
+      "pet-service",
+      "pet-breeder"
+    ]
+  },
+  {
+    "name": "Pet Groomer",
+    "slugs": [
+      "local-services",
+      "pet-service",
+      "pet-groomer"
+    ]
+  },
+  {
+    "name": "Pet Sitter",
+    "slugs": [
+      "local-services",
+      "pet-service",
+      "pet-sitter"
+    ]
+  },
+  {
+    "name": "Taxidermist",
+    "slugs": [
+      "local-services",
+      "pet-service",
+      "taxidermist"
+    ]
+  },
+  {
+    "name": "Veterinarian",
+    "slugs": [
+      "local-services",
+      "pet-service",
+      "veterinarian"
+    ]
+  },
+  {
+    "name": "Photography Videography",
+    "slugs": [
+      "local-services",
+      "photographic-services-equipment"
+    ]
+  },
+  {
+    "name": "Amateur Photographer",
+    "slugs": [
+      "local-services",
+      "photographic-services-equipment",
+      "amateur-photographer"
+    ]
+  },
+  {
+    "name": "Camera Store",
+    "slugs": [
+      "local-services",
+      "photographic-services-equipment",
+      "camera-store"
+    ]
+  },
+  {
+    "name": "Event Photographer",
+    "slugs": [
+      "local-services",
+      "photographic-services-equipment",
+      "event-photographer"
+    ]
+  },
+  {
+    "name": "Photo Booth Service",
+    "slugs": [
+      "local-services",
+      "photographic-services-equipment",
+      "photo-booth-service"
+    ]
+  },
+  {
+    "name": "Photographer",
+    "slugs": [
+      "local-services",
+      "photographic-services-equipment",
+      "photographer"
+    ]
+  },
+  {
+    "name": "Event Videographer",
+    "slugs": [
+      "local-services",
+      "photographic-services-equipment",
+      "videographer"
+    ]
+  },
+  {
+    "name": "Printing Service",
+    "slugs": [
+      "local-services",
+      "printing-service"
+    ]
+  },
+  {
+    "name": "Screen Printing & Embroidery",
+    "slugs": [
+      "local-services",
+      "printing-service",
+      "screen-printing-embroidery"
+    ]
+  },
+  {
+    "name": "Signs & Banner Service",
+    "slugs": [
+      "local-services",
+      "printing-service",
+      "signs-banner-service"
+    ]
+  },
+  {
+    "name": "Astrologist & Psychic",
+    "slugs": [
+      "local-services",
+      "psychic"
+    ]
+  },
+  {
+    "name": "Sewing & Alterations",
+    "slugs": [
+      "local-services",
+      "sewing-seamstress"
+    ]
+  },
+  {
+    "name": "Shoe Repair Shop",
+    "slugs": [
+      "local-services",
+      "shoe-repair-shop"
+    ]
+  },
+  {
+    "name": "Moving & Storage Service",
+    "slugs": [
+      "local-services",
+      "storage-service"
+    ]
+  },
+  {
+    "name": "Home Mover",
+    "slugs": [
+      "local-services",
+      "storage-service",
+      "mover"
+    ]
+  },
+  {
+    "name": "Self-Storage Facility",
+    "slugs": [
+      "local-services",
+      "storage-service",
+      "selfstorage-facility"
+    ]
+  },
+  {
+    "name": "Storage Facility",
+    "slugs": [
+      "local-services",
+      "storage-service",
+      "storage"
+    ]
+  },
+  {
+    "name": "Weight Loss Center",
+    "slugs": [
+      "local-services",
+      "weight-loss-center"
+    ]
+  },
+  {
+    "name": "Writing Service",
+    "slugs": [
+      "local-services",
+      "writing-service"
+    ]
+  },
+  {
+    "name": "Locality",
+    "slugs": [
+      "locality"
+    ]
+  },
+  {
+    "name": "Borough",
+    "slugs": [
+      "locality",
+      "borough"
+    ]
+  },
+  {
+    "name": "Cemetery",
+    "slugs": [
+      "locality",
+      "cemetery"
+    ]
+  },
+  {
+    "name": "Pet Cemetery",
+    "slugs": [
+      "locality",
+      "cemetery",
+      "pet-cemetery"
+    ]
+  },
+  {
+    "name": "City",
+    "slugs": [
+      "locality",
+      "city"
+    ]
+  },
+  {
+    "name": "Congressional District",
+    "slugs": [
+      "locality",
+      "congressional-district"
+    ]
+  },
+  {
+    "name": "Continental Region",
+    "slugs": [
+      "locality",
+      "continental-region"
+    ]
+  },
+  {
+    "name": "Country",
+    "slugs": [
+      "locality",
+      "country"
+    ]
+  },
+  {
+    "name": "County",
+    "slugs": [
+      "locality",
+      "county"
+    ]
+  },
+  {
+    "name": "Designated Market Area",
+    "slugs": [
+      "locality",
+      "designated-market-area"
+    ]
+  },
+  {
+    "name": "Harbor",
+    "slugs": [
+      "locality",
+      "harbor"
+    ]
+  },
+  {
+    "name": "Metro Area",
+    "slugs": [
+      "locality",
+      "metro-area"
+    ]
+  },
+  {
+    "name": "Neighborhood",
+    "slugs": [
+      "locality",
+      "neighborhood"
+    ]
+  },
+  {
+    "name": "Port",
+    "slugs": [
+      "locality",
+      "port"
+    ]
+  },
+  {
+    "name": "Postal Code",
+    "slugs": [
+      "locality",
+      "postal-code"
+    ]
+  },
+  {
+    "name": "Province",
+    "slugs": [
+      "locality",
+      "province"
+    ]
+  },
+  {
+    "name": "Region",
+    "slugs": [
+      "locality",
+      "region"
+    ]
+  },
+  {
+    "name": "Shopping District",
+    "slugs": [
+      "locality",
+      "shopping-district"
+    ]
+  },
+  {
+    "name": "State",
+    "slugs": [
+      "locality",
+      "state"
+    ]
+  },
+  {
+    "name": "Township",
+    "slugs": [
+      "locality",
+      "township"
+    ]
+  },
+  {
+    "name": "Village",
+    "slugs": [
+      "locality",
+      "village"
+    ]
+  },
+  {
+    "name": "Media/News Company",
+    "slugs": [
+      "media-news-company"
+    ]
+  },
+  {
+    "name": "Animation Studio",
+    "slugs": [
+      "media-news-company",
+      "animation-studio"
+    ]
+  },
+  {
+    "name": "Book & Magazine Distributor",
+    "slugs": [
+      "media-news-company",
+      "book-magazine-distribution"
+    ]
+  },
+  {
+    "name": "Broadcasting & Media Production Company",
+    "slugs": [
+      "media-news-company",
+      "broadcasting-media-production"
+    ]
+  },
+  {
+    "name": "Game Publisher",
+    "slugs": [
+      "media-news-company",
+      "game-publisher"
+    ]
+  },
+  {
+    "name": "Movie/Television Studio",
+    "slugs": [
+      "media-news-company",
+      "movie-television-studio"
+    ]
+  },
+  {
+    "name": "Music Production Studio",
+    "slugs": [
+      "media-news-company",
+      "music-production"
+    ]
+  },
+  {
+    "name": "Publisher",
+    "slugs": [
+      "media-news-company",
+      "publisher"
+    ]
+  },
+  {
+    "name": "Radio Station",
+    "slugs": [
+      "media-news-company",
+      "radio-station"
+    ]
+  },
+  {
+    "name": "Social Media Company",
+    "slugs": [
+      "media-news-company",
+      "social-media-company"
+    ]
+  },
+  {
+    "name": "Medical & Health",
+    "slugs": [
+      "medical-health"
+    ]
+  },
+  {
+    "name": "Dentist & Dental Office",
+    "slugs": [
+      "medical-health",
+      "dentist"
+    ]
+  },
+  {
+    "name": "Cosmetic Dentist",
+    "slugs": [
+      "medical-health",
+      "dentist",
+      "cosmetic-dentist"
+    ]
+  },
+  {
+    "name": "Endodontist",
+    "slugs": [
+      "medical-health",
+      "dentist",
+      "endodontist"
+    ]
+  },
+  {
+    "name": "General Dentist",
+    "slugs": [
+      "medical-health",
+      "dentist",
+      "general-dentist"
+    ]
+  },
+  {
+    "name": "Oral Surgeon",
+    "slugs": [
+      "medical-health",
+      "dentist",
+      "oral-surgeon"
+    ]
+  },
+  {
+    "name": "Orthodontist",
+    "slugs": [
+      "medical-health",
+      "dentist",
+      "orthodontist"
+    ]
+  },
+  {
+    "name": "Pediatric Dentist",
+    "slugs": [
+      "medical-health",
+      "dentist",
+      "pediatric-dentist"
+    ]
+  },
+  {
+    "name": "Periodontist",
+    "slugs": [
+      "medical-health",
+      "dentist",
+      "periodontist"
+    ]
+  },
+  {
+    "name": "Prosthodontist",
+    "slugs": [
+      "medical-health",
+      "dentist",
+      "prosthodontists"
+    ]
+  },
+  {
+    "name": "Teeth Whitening Service",
+    "slugs": [
+      "medical-health",
+      "dentist",
+      "teeth-whitening"
+    ]
+  },
+  {
+    "name": "Doctor",
+    "slugs": [
+      "medical-health",
+      "doctor"
+    ]
+  },
+  {
+    "name": "Allergist",
+    "slugs": [
+      "medical-health",
+      "doctor",
+      "allergist"
+    ]
+  },
+  {
+    "name": "Anesthesiologist",
+    "slugs": [
+      "medical-health",
+      "doctor",
+      "anesthesiologists"
+    ]
+  },
+  {
+    "name": "Audiologist",
+    "slugs": [
+      "medical-health",
+      "doctor",
+      "audiologist"
+    ]
+  },
+  {
+    "name": "Cardiologist",
+    "slugs": [
+      "medical-health",
+      "doctor",
+      "cardiologists"
+    ]
+  },
+  {
+    "name": "Dermatologist",
+    "slugs": [
+      "medical-health",
+      "doctor",
+      "dermatologist"
+    ]
+  },
+  {
+    "name": "Endocrinologist",
+    "slugs": [
+      "medical-health",
+      "doctor",
+      "endocrinologists"
+    ]
+  },
+  {
+    "name": "Family Doctor",
+    "slugs": [
+      "medical-health",
+      "doctor",
+      "family-doctor"
+    ]
+  },
+  {
+    "name": "Fertility Doctor",
+    "slugs": [
+      "medical-health",
+      "doctor",
+      "fertility-doctor"
+    ]
+  },
+  {
+    "name": "Gastroenterologist",
+    "slugs": [
+      "medical-health",
+      "doctor",
+      "gastroenterologist"
+    ]
+  },
+  {
+    "name": "Gerontologist",
+    "slugs": [
+      "medical-health",
+      "doctor",
+      "gerontologists"
+    ]
+  },
+  {
+    "name": "Internist (Internal Medicine)",
+    "slugs": [
+      "medical-health",
+      "doctor",
+      "internal-medicine"
+    ]
+  },
+  {
+    "name": "Lasik/Laser Eye Surgeon",
+    "slugs": [
+      "medical-health",
+      "doctor",
+      "lasik-laser-eye-surgeon"
+    ]
+  },
+  {
+    "name": "Nephrologist",
+    "slugs": [
+      "medical-health",
+      "doctor",
+      "nephrologists"
+    ]
+  },
+  {
+    "name": "Neurologist",
+    "slugs": [
+      "medical-health",
+      "doctor",
+      "neurologist"
+    ]
+  },
+  {
+    "name": "Neurosurgery",
+    "slugs": [
+      "medical-health",
+      "doctor",
+      "neurosurgery"
+    ]
+  },
+  {
+    "name": "Obstetrician-Gynecologist (OBGYN)",
+    "slugs": [
+      "medical-health",
+      "doctor",
+      "obgyn"
+    ]
+  },
+  {
+    "name": "Oncologist",
+    "slugs": [
+      "medical-health",
+      "doctor",
+      "oncologist"
+    ]
+  },
+  {
+    "name": "Ophthalmologist",
+    "slugs": [
+      "medical-health",
+      "doctor",
+      "ophthalmologist"
+    ]
+  },
+  {
+    "name": "Optometrist",
+    "slugs": [
+      "medical-health",
+      "doctor",
+      "optometrist"
+    ]
+  },
+  {
+    "name": "Orthopedist",
+    "slugs": [
+      "medical-health",
+      "doctor",
+      "orthopedists"
+    ]
+  },
+  {
+    "name": "Osteopathic Doctor",
+    "slugs": [
+      "medical-health",
+      "doctor",
+      "osteopathic-physicians"
+    ]
+  },
+  {
+    "name": "Otolaryngologist (ENT)",
+    "slugs": [
+      "medical-health",
+      "doctor",
+      "otolaryngologist"
+    ]
+  },
+  {
+    "name": "Pediatrician",
+    "slugs": [
+      "medical-health",
+      "doctor",
+      "pediatrics"
+    ]
+  },
+  {
+    "name": "Plastic Surgeon",
+    "slugs": [
+      "medical-health",
+      "doctor",
+      "plastic-surgery"
+    ]
+  },
+  {
+    "name": "Podiatrist",
+    "slugs": [
+      "medical-health",
+      "doctor",
+      "podiatrist"
+    ]
+  },
+  {
+    "name": "Proctologist",
+    "slugs": [
+      "medical-health",
+      "doctor",
+      "proctologists"
+    ]
+  },
+  {
+    "name": "Psychiatrist",
+    "slugs": [
+      "medical-health",
+      "doctor",
+      "psychiatrist"
+    ]
+  },
+  {
+    "name": "Psychologist",
+    "slugs": [
+      "medical-health",
+      "doctor",
+      "psychologist"
+    ]
+  },
+  {
+    "name": "Pulmonologist",
+    "slugs": [
+      "medical-health",
+      "doctor",
+      "pulmonologist"
+    ]
+  },
+  {
+    "name": "Radiologist",
+    "slugs": [
+      "medical-health",
+      "doctor",
+      "radiologists"
+    ]
+  },
+  {
+    "name": "Rheumatologist",
+    "slugs": [
+      "medical-health",
+      "doctor",
+      "rheumatologists"
+    ]
+  },
+  {
+    "name": "Surgeon",
+    "slugs": [
+      "medical-health",
+      "doctor",
+      "surgeon"
+    ]
+  },
+  {
+    "name": "Urologist",
+    "slugs": [
+      "medical-health",
+      "doctor",
+      "urologists"
+    ]
+  },
+  {
+    "name": "Medical Center",
+    "slugs": [
+      "medical-health",
+      "medical-center"
+    ]
+  },
+  {
+    "name": "AIDS Resource Center",
+    "slugs": [
+      "medical-health",
+      "medical-center",
+      "aids-resources"
+    ]
+  },
+  {
+    "name": "Blood Bank",
+    "slugs": [
+      "medical-health",
+      "medical-center",
+      "blood-bank"
+    ]
+  },
+  {
+    "name": "Crisis Prevention Center",
+    "slugs": [
+      "medical-health",
+      "medical-center",
+      "crisis-prevention-center"
+    ]
+  },
+  {
+    "name": "Diagnostic Center",
+    "slugs": [
+      "medical-health",
+      "medical-center",
+      "diagnostic-center"
+    ]
+  },
+  {
+    "name": "Dialysis Clinic",
+    "slugs": [
+      "medical-health",
+      "medical-center",
+      "dialysis-clinic"
+    ]
+  },
+  {
+    "name": "Emergency Room",
+    "slugs": [
+      "medical-health",
+      "medical-center",
+      "emergency-room"
+    ]
+  },
+  {
+    "name": "Family Medicine Practice",
+    "slugs": [
+      "medical-health",
+      "medical-center",
+      "family-medicine-practice"
+    ]
+  },
+  {
+    "name": "Halfway House",
+    "slugs": [
+      "medical-health",
+      "medical-center",
+      "halfway-house"
+    ]
+  },
+  {
+    "name": "Hospice",
+    "slugs": [
+      "medical-health",
+      "medical-center",
+      "hospice"
+    ]
+  },
+  {
+    "name": "Hospital",
+    "slugs": [
+      "medical-health",
+      "medical-center",
+      "hospital"
+    ]
+  },
+  {
+    "name": "Maternity Clinic",
+    "slugs": [
+      "medical-health",
+      "medical-center",
+      "maternity-clinic"
+    ]
+  },
+  {
+    "name": "Medical Lab",
+    "slugs": [
+      "medical-health",
+      "medical-center",
+      "medical-lab"
+    ]
+  },
+  {
+    "name": "Nursing Home",
+    "slugs": [
+      "medical-health",
+      "medical-center",
+      "nursing-home"
+    ]
+  },
+  {
+    "name": "Pregnancy Care Center",
+    "slugs": [
+      "medical-health",
+      "medical-center",
+      "pregnancy-childbirth-service"
+    ]
+  },
+  {
+    "name": "Retirement & Assisted Living Facility",
+    "slugs": [
+      "medical-health",
+      "medical-center",
+      "retirement-assisted-living-facility"
+    ]
+  },
+  {
+    "name": "STD Testing Center",
+    "slugs": [
+      "medical-health",
+      "medical-center",
+      "std-testing-center"
+    ]
+  },
+  {
+    "name": "Surgical Center",
+    "slugs": [
+      "medical-health",
+      "medical-center",
+      "surgical-center"
+    ]
+  },
+  {
+    "name": "Women's Health Clinic",
+    "slugs": [
+      "medical-health",
+      "medical-center",
+      "womens-health-clinic"
+    ]
+  },
+  {
+    "name": "Medical Device Company",
+    "slugs": [
+      "medical-health",
+      "medical-device-company"
+    ]
+  },
+  {
+    "name": "Medical Equipment Manufacturer",
+    "slugs": [
+      "medical-health",
+      "medical-equipment-manufacturer"
+    ]
+  },
+  {
+    "name": "Medical Equipment Supplier",
+    "slugs": [
+      "medical-health",
+      "medical-equipment-supplier"
+    ]
+  },
+  {
+    "name": "Medical Research Center",
+    "slugs": [
+      "medical-health",
+      "medical-research"
+    ]
+  },
+  {
+    "name": "Medical Service",
+    "slugs": [
+      "medical-health",
+      "medical-service"
+    ]
+  },
+  {
+    "name": "Addiction Service",
+    "slugs": [
+      "medical-health",
+      "medical-service",
+      "addiction-service"
+    ]
+  },
+  {
+    "name": "Addiction Resources Center",
+    "slugs": [
+      "medical-health",
+      "medical-service",
+      "addiction-service",
+      "addiction-resources"
+    ]
+  },
+  {
+    "name": "Addiction Treatment Center",
+    "slugs": [
+      "medical-health",
+      "medical-service",
+      "addiction-service",
+      "addiction-treatment-center"
+    ]
+  },
+  {
+    "name": "Alcohol Addiction Treatment Center",
+    "slugs": [
+      "medical-health",
+      "medical-service",
+      "addiction-service",
+      "alcohol-addiction-treatment-center"
+    ]
+  },
+  {
+    "name": "Drug Addiction Treatment Center",
+    "slugs": [
+      "medical-health",
+      "medical-service",
+      "addiction-service",
+      "drug-addiction-treatment-center"
+    ]
+  },
+  {
+    "name": "Tobacco Cessation Treatment Center",
+    "slugs": [
+      "medical-health",
+      "medical-service",
+      "addiction-service",
+      "tobacco-cessation-treatment-center"
+    ]
+  },
+  {
+    "name": "Alternative & Holistic Health Service",
+    "slugs": [
+      "medical-health",
+      "medical-service",
+      "alternative-holistic-health"
+    ]
+  },
+  {
+    "name": "Acupuncturist",
+    "slugs": [
+      "medical-health",
+      "medical-service",
+      "alternative-holistic-health",
+      "acupuncture"
+    ]
+  },
+  {
+    "name": "Medical Cannabis Dispensary",
+    "slugs": [
+      "medical-health",
+      "medical-service",
+      "alternative-holistic-health",
+      "cannabis-clinic"
+    ]
+  },
+  {
+    "name": "Chiropractor",
+    "slugs": [
+      "medical-health",
+      "medical-service",
+      "alternative-holistic-health",
+      "chiropractor"
+    ]
+  },
+  {
+    "name": "Massage Therapist",
+    "slugs": [
+      "medical-health",
+      "medical-service",
+      "alternative-holistic-health",
+      "massage-therapist"
+    ]
+  },
+  {
+    "name": "Medical Spa",
+    "slugs": [
+      "medical-health",
+      "medical-service",
+      "alternative-holistic-health",
+      "medical-spa"
+    ]
+  },
+  {
+    "name": "Meditation Center",
+    "slugs": [
+      "medical-health",
+      "medical-service",
+      "alternative-holistic-health",
+      "meditation-center"
+    ]
+  },
+  {
+    "name": "Naturopath",
+    "slugs": [
+      "medical-health",
+      "medical-service",
+      "alternative-holistic-health",
+      "naturopath"
+    ]
+  },
+  {
+    "name": "Nutritionist",
+    "slugs": [
+      "medical-health",
+      "medical-service",
+      "alternative-holistic-health",
+      "nutritionist"
+    ]
+  },
+  {
+    "name": "Reflexologist",
+    "slugs": [
+      "medical-health",
+      "medical-service",
+      "alternative-holistic-health",
+      "reflexologist"
+    ]
+  },
+  {
+    "name": "Emergency Rescue Service",
+    "slugs": [
+      "medical-health",
+      "medical-service",
+      "ambulance-rescue"
+    ]
+  },
+  {
+    "name": "Mental Health Service",
+    "slugs": [
+      "medical-health",
+      "medical-service",
+      "counseling-mental-health"
+    ]
+  },
+  {
+    "name": "Disability Service",
+    "slugs": [
+      "medical-health",
+      "medical-service",
+      "disability-services"
+    ]
+  },
+  {
+    "name": "Healthcare Administrator",
+    "slugs": [
+      "medical-health",
+      "medical-service",
+      "healthcare-administrator"
+    ]
+  },
+  {
+    "name": "Home Health Care Service",
+    "slugs": [
+      "medical-health",
+      "medical-service",
+      "home-health-care-service"
+    ]
+  },
+  {
+    "name": "Nursing Agency",
+    "slugs": [
+      "medical-health",
+      "medical-service",
+      "nursing-agency"
+    ]
+  },
+  {
+    "name": "Orthotics & Prosthetics Service",
+    "slugs": [
+      "medical-health",
+      "medical-service",
+      "orthotics-prosthetics-service"
+    ]
+  },
+  {
+    "name": "Reproductive Service",
+    "slugs": [
+      "medical-health",
+      "medical-service",
+      "reproductive-services"
+    ]
+  },
+  {
+    "name": "Safety & First Aid Service",
+    "slugs": [
+      "medical-health",
+      "medical-service",
+      "safety-first-aid-service"
+    ]
+  },
+  {
+    "name": "Optician",
+    "slugs": [
+      "medical-health",
+      "optician"
+    ]
+  },
+  {
+    "name": "Pharmaceutical Company",
+    "slugs": [
+      "medical-health",
+      "pharmaceutical-company"
+    ]
+  },
+  {
+    "name": "Pharmacy / Drugstore",
+    "slugs": [
+      "medical-health",
+      "pharmacy"
+    ]
+  },
+  {
+    "name": "Medical Supply Store",
+    "slugs": [
+      "medical-health",
+      "pharmacy",
+      "medical-supplies"
+    ]
+  },
+  {
+    "name": "Vitamin Supplement Shop",
+    "slugs": [
+      "medical-health",
+      "pharmacy",
+      "vitamin-supplement-shop"
+    ]
+  },
+  {
+    "name": "Therapist",
+    "slugs": [
+      "medical-health",
+      "therapist"
+    ]
+  },
+  {
+    "name": "Counselor",
+    "slugs": [
+      "medical-health",
+      "therapist",
+      "counselor"
+    ]
+  },
+  {
+    "name": "Family Therapist",
+    "slugs": [
+      "medical-health",
+      "therapist",
+      "family-therapist"
+    ]
+  },
+  {
+    "name": "Marriage Therapist",
+    "slugs": [
+      "medical-health",
+      "therapist",
+      "marriage-therapist"
+    ]
+  },
+  {
+    "name": "Occupational Therapist",
+    "slugs": [
+      "medical-health",
+      "therapist",
+      "occupational-therapist"
+    ]
+  },
+  {
+    "name": "Physical Therapist",
+    "slugs": [
+      "medical-health",
+      "therapist",
+      "physical-therapist"
+    ]
+  },
+  {
+    "name": "Psychotherapist",
+    "slugs": [
+      "medical-health",
+      "therapist",
+      "psychotherapist"
+    ]
+  },
+  {
+    "name": "Sex Therapist",
+    "slugs": [
+      "medical-health",
+      "therapist",
+      "sex-therapist"
+    ]
+  },
+  {
+    "name": "Speech Pathologist",
+    "slugs": [
+      "medical-health",
+      "therapist",
+      "speech-pathologist"
+    ]
+  },
+  {
+    "name": "Speech Therapist",
+    "slugs": [
+      "medical-health",
+      "therapist",
+      "speech-therapist"
+    ]
+  },
+  {
+    "name": "Sport Psychologist",
+    "slugs": [
+      "medical-health",
+      "therapist",
+      "sport-psychologlist"
+    ]
+  },
+  {
+    "name": "Meeting Room",
+    "slugs": [
+      "meeting-room"
+    ]
+  },
+  {
+    "name": "Outdoor Recreation",
+    "slugs": [
+      "outdoor-places"
+    ]
+  },
+  {
+    "name": "Fairground",
+    "slugs": [
+      "outdoor-places",
+      "fairground"
+    ]
+  },
+  {
+    "name": "Geographical Place",
+    "slugs": [
+      "outdoor-places",
+      "geography-general"
+    ]
+  },
+  {
+    "name": "Bay",
+    "slugs": [
+      "outdoor-places",
+      "geography-general",
+      "bay"
+    ]
+  },
+  {
+    "name": "Beach",
+    "slugs": [
+      "outdoor-places",
+      "geography-general",
+      "beach"
+    ]
+  },
+  {
+    "name": "Cape",
+    "slugs": [
+      "outdoor-places",
+      "geography-general",
+      "cape"
+    ]
+  },
+  {
+    "name": "Cave",
+    "slugs": [
+      "outdoor-places",
+      "geography-general",
+      "cave"
+    ]
+  },
+  {
+    "name": "Continent",
+    "slugs": [
+      "outdoor-places",
+      "geography-general",
+      "continent"
+    ]
+  },
+  {
+    "name": "Desert",
+    "slugs": [
+      "outdoor-places",
+      "geography-general",
+      "desert"
+    ]
+  },
+  {
+    "name": "Fjord/Loch",
+    "slugs": [
+      "outdoor-places",
+      "geography-general",
+      "fjord-loch"
+    ]
+  },
+  {
+    "name": "Glacier",
+    "slugs": [
+      "outdoor-places",
+      "geography-general",
+      "glacier"
+    ]
+  },
+  {
+    "name": "Hot Spring",
+    "slugs": [
+      "outdoor-places",
+      "geography-general",
+      "hot-spring"
+    ]
+  },
+  {
+    "name": "Island",
+    "slugs": [
+      "outdoor-places",
+      "geography-general",
+      "island"
+    ]
+  },
+  {
+    "name": "Lake",
+    "slugs": [
+      "outdoor-places",
+      "geography-general",
+      "lake"
+    ]
+  },
+  {
+    "name": "Mountain",
+    "slugs": [
+      "outdoor-places",
+      "geography-general",
+      "mountain"
+    ]
+  },
+  {
+    "name": "Ocean",
+    "slugs": [
+      "outdoor-places",
+      "geography-general",
+      "ocean"
+    ]
+  },
+  {
+    "name": "Pond",
+    "slugs": [
+      "outdoor-places",
+      "geography-general",
+      "pond"
+    ]
+  },
+  {
+    "name": "Reservoir",
+    "slugs": [
+      "outdoor-places",
+      "geography-general",
+      "reservoir"
+    ]
+  },
+  {
+    "name": "River",
+    "slugs": [
+      "outdoor-places",
+      "geography-general",
+      "river"
+    ]
+  },
+  {
+    "name": "Volcano",
+    "slugs": [
+      "outdoor-places",
+      "geography-general",
+      "volcano"
+    ]
+  },
+  {
+    "name": "Waterfall",
+    "slugs": [
+      "outdoor-places",
+      "geography-general",
+      "waterfall"
+    ]
+  },
+  {
+    "name": "Landmark & Historical Place",
+    "slugs": [
+      "outdoor-places",
+      "landmark"
+    ]
+  },
+  {
+    "name": "Monument",
+    "slugs": [
+      "outdoor-places",
+      "landmark",
+      "monument"
+    ]
+  },
+  {
+    "name": "Statue & Fountain",
+    "slugs": [
+      "outdoor-places",
+      "landmark",
+      "statue-fountain"
+    ]
+  },
+  {
+    "name": "Park",
+    "slugs": [
+      "outdoor-places",
+      "park"
+    ]
+  },
+  {
+    "name": "Arboretum",
+    "slugs": [
+      "outdoor-places",
+      "park",
+      "arboretum"
+    ]
+  },
+  {
+    "name": "Dog Park",
+    "slugs": [
+      "outdoor-places",
+      "park",
+      "dog-park"
+    ]
+  },
+  {
+    "name": "Field",
+    "slugs": [
+      "outdoor-places",
+      "park",
+      "field"
+    ]
+  },
+  {
+    "name": "National Forest",
+    "slugs": [
+      "outdoor-places",
+      "park",
+      "national-forest"
+    ]
+  },
+  {
+    "name": "National Park",
+    "slugs": [
+      "outdoor-places",
+      "park",
+      "national-park"
+    ]
+  },
+  {
+    "name": "Nature Preserve",
+    "slugs": [
+      "outdoor-places",
+      "park",
+      "nature-preserve"
+    ]
+  },
+  {
+    "name": "Picnic Ground",
+    "slugs": [
+      "outdoor-places",
+      "park",
+      "picnic-ground"
+    ]
+  },
+  {
+    "name": "Playground",
+    "slugs": [
+      "outdoor-places",
+      "park",
+      "playground"
+    ]
+  },
+  {
+    "name": "Public Square / Plaza",
+    "slugs": [
+      "outdoor-places",
+      "park",
+      "public-square"
+    ]
+  },
+  {
+    "name": "State Park",
+    "slugs": [
+      "outdoor-places",
+      "park",
+      "state-park"
+    ]
+  },
+  {
+    "name": "Public Garden",
+    "slugs": [
+      "outdoor-places",
+      "public-garden"
+    ]
+  },
+  {
+    "name": "Botanical Garden",
+    "slugs": [
+      "outdoor-places",
+      "public-garden",
+      "botanical-garden"
+    ]
+  },
+  {
+    "name": "Community Garden",
+    "slugs": [
+      "outdoor-places",
+      "public-garden",
+      "community-garden"
+    ]
+  },
+  {
+    "name": "Rose Garden",
+    "slugs": [
+      "outdoor-places",
+      "public-garden",
+      "rose-garden"
+    ]
+  },
+  {
+    "name": "Sculpture Garden",
+    "slugs": [
+      "outdoor-places",
+      "public-garden",
+      "sculpture-garden"
+    ]
+  },
+  {
+    "name": "Recreation Spot",
+    "slugs": [
+      "outdoor-places",
+      "recreation-spot"
+    ]
+  },
+  {
+    "name": "Bike Trail",
+    "slugs": [
+      "outdoor-places",
+      "recreation-spot",
+      "bike-trail"
+    ]
+  },
+  {
+    "name": "Dive Spot",
+    "slugs": [
+      "outdoor-places",
+      "recreation-spot",
+      "dive-spot"
+    ]
+  },
+  {
+    "name": "Fishing Spot",
+    "slugs": [
+      "outdoor-places",
+      "recreation-spot",
+      "fishing-spot"
+    ]
+  },
+  {
+    "name": "Hiking Trail",
+    "slugs": [
+      "outdoor-places",
+      "recreation-spot",
+      "hiking-trail"
+    ]
+  },
+  {
+    "name": "Rock Climbing Spot",
+    "slugs": [
+      "outdoor-places",
+      "recreation-spot",
+      "rock-climbing-spot"
+    ]
+  },
+  {
+    "name": "Snorkeling Spot",
+    "slugs": [
+      "outdoor-places",
+      "recreation-spot",
+      "snorkeling-spot"
+    ]
+  },
+  {
+    "name": "Surfing Spot",
+    "slugs": [
+      "outdoor-places",
+      "recreation-spot",
+      "surfing-spot"
+    ]
+  },
+  {
+    "name": "Public & Government Service",
+    "slugs": [
+      "public-services-government"
+    ]
+  },
+  {
+    "name": "Automotive Registration Center",
+    "slugs": [
+      "public-services-government",
+      "automotive-registration-center"
+    ]
+  },
+  {
+    "name": "Child Protective Service",
+    "slugs": [
+      "public-services-government",
+      "child-protective-services"
+    ]
+  },
+  {
+    "name": "Community Center",
+    "slugs": [
+      "public-services-government",
+      "community-center"
+    ]
+  },
+  {
+    "name": "Senior Center",
+    "slugs": [
+      "public-services-government",
+      "community-center",
+      "senior-center"
+    ]
+  },
+  {
+    "name": "Cultural Center",
+    "slugs": [
+      "public-services-government",
+      "cultural-center"
+    ]
+  },
+  {
+    "name": "Defense Company",
+    "slugs": [
+      "public-services-government",
+      "defense-company"
+    ]
+  },
+  {
+    "name": "DMV",
+    "slugs": [
+      "public-services-government",
+      "dmv"
+    ]
+  },
+  {
+    "name": "Food Bank",
+    "slugs": [
+      "public-services-government",
+      "food-bank"
+    ]
+  },
+  {
+    "name": "Housing & Homeless Shelter",
+    "slugs": [
+      "public-services-government",
+      "housing-homeless-shelter"
+    ]
+  },
+  {
+    "name": "Law Enforcement Agency",
+    "slugs": [
+      "public-services-government",
+      "law-enforcement"
+    ]
+  },
+  {
+    "name": "Library",
+    "slugs": [
+      "public-services-government",
+      "library"
+    ]
+  },
+  {
+    "name": "Non-Governmental Organization (NGO)",
+    "slugs": [
+      "public-services-government",
+      "ngo"
+    ]
+  },
+  {
+    "name": "Nonprofit Organization",
+    "slugs": [
+      "public-services-government",
+      "non-profit"
+    ]
+  },
+  {
+    "name": "Passport & Visa Service",
+    "slugs": [
+      "public-services-government",
+      "passport-visa-service"
+    ]
+  },
+  {
+    "name": "Public Service",
+    "slugs": [
+      "public-services-government",
+      "public-services"
+    ]
+  },
+  {
+    "name": "Public Utility Company",
+    "slugs": [
+      "public-services-government",
+      "public-utility"
+    ]
+  },
+  {
+    "name": "Electric Utility Provider",
+    "slugs": [
+      "public-services-government",
+      "public-utility",
+      "electric-utility-provider"
+    ]
+  },
+  {
+    "name": "Energy Company",
+    "slugs": [
+      "public-services-government",
+      "public-utility",
+      "energy-company"
+    ]
+  },
+  {
+    "name": "Internet Service Provider",
+    "slugs": [
+      "public-services-government",
+      "public-utility",
+      "internet-service-provider"
+    ]
+  },
+  {
+    "name": "Television Service Provider",
+    "slugs": [
+      "public-services-government",
+      "public-utility",
+      "television-service-provider"
+    ]
+  },
+  {
+    "name": "Water Utility Company",
+    "slugs": [
+      "public-services-government",
+      "public-utility",
+      "water-utility-company"
+    ]
+  },
+  {
+    "name": "Social Service",
+    "slugs": [
+      "public-services-government",
+      "social-services"
+    ]
+  },
+  {
+    "name": "Waste Management Company",
+    "slugs": [
+      "public-services-government",
+      "waste-management"
+    ]
+  },
+  {
+    "name": "Real Estate",
+    "slugs": [
+      "real-estate"
+    ]
+  },
+  {
+    "name": "Commercial Real Estate Agency",
+    "slugs": [
+      "real-estate",
+      "commercial-real-estate"
+    ]
+  },
+  {
+    "name": "Escrow Service",
+    "slugs": [
+      "real-estate",
+      "escrow-services"
+    ]
+  },
+  {
+    "name": "Home Inspector",
+    "slugs": [
+      "real-estate",
+      "home-inspection"
+    ]
+  },
+  {
+    "name": "Home Staging Service",
+    "slugs": [
+      "real-estate",
+      "home-staging-service"
+    ]
+  },
+  {
+    "name": "Housing Assistance Service",
+    "slugs": [
+      "real-estate",
+      "housing-assistance-service"
+    ]
+  },
+  {
+    "name": "Mobile Home Park",
+    "slugs": [
+      "real-estate",
+      "mobile-home-park"
+    ]
+  },
+  {
+    "name": "Mobile Home Dealer",
+    "slugs": [
+      "real-estate",
+      "mobile-homes"
+    ]
+  },
+  {
+    "name": "Mortgage Brokers",
+    "slugs": [
+      "real-estate",
+      "mortgage-brokers"
+    ]
+  },
+  {
+    "name": "Property Management Company",
+    "slugs": [
+      "real-estate",
+      "property-management"
+    ]
+  },
+  {
+    "name": "Real Estate Agent",
+    "slugs": [
+      "real-estate",
+      "real-estate-agent"
+    ]
+  },
+  {
+    "name": "Real Estate Appraiser",
+    "slugs": [
+      "real-estate",
+      "real-estate-appraiser"
+    ]
+  },
+  {
+    "name": "Real Estate Company",
+    "slugs": [
+      "real-estate",
+      "real-estate-company"
+    ]
+  },
+  {
+    "name": "Real Estate Developer",
+    "slugs": [
+      "real-estate",
+      "real-estate-developer"
+    ]
+  },
+  {
+    "name": "Real Estate Investment Firm",
+    "slugs": [
+      "real-estate",
+      "real-estate-investment"
+    ]
+  },
+  {
+    "name": "Real Estate Service",
+    "slugs": [
+      "real-estate",
+      "real-estate-service"
+    ]
+  },
+  {
+    "name": "Real Estate Title & Development",
+    "slugs": [
+      "real-estate",
+      "real-estate-title-development"
+    ]
+  },
+  {
+    "name": "Religious Place of Worship",
+    "slugs": [
+      "religion"
+    ]
+  },
+  {
+    "name": "Assemblies of God",
+    "slugs": [
+      "religion",
+      "assembly-of-god"
+    ]
+  },
+  {
+    "name": "Buddhist Temple",
+    "slugs": [
+      "religion",
+      "buddhist-temple"
+    ]
+  },
+  {
+    "name": "Church",
+    "slugs": [
+      "religion",
+      "church"
+    ]
+  },
+  {
+    "name": "African Methodist Episcopal Church",
+    "slugs": [
+      "religion",
+      "church",
+      "african-methodist-episcopal-church"
+    ]
+  },
+  {
+    "name": "Anglican Church",
+    "slugs": [
+      "religion",
+      "church",
+      "anglican-church"
+    ]
+  },
+  {
+    "name": "Apostolic Church",
+    "slugs": [
+      "religion",
+      "church",
+      "apostolic-church"
+    ]
+  },
+  {
+    "name": "Baptist Church",
+    "slugs": [
+      "religion",
+      "church",
+      "baptist-church"
+    ]
+  },
+  {
+    "name": "Catholic Church",
+    "slugs": [
+      "religion",
+      "church",
+      "catholic-church"
+    ]
+  },
+  {
+    "name": "Charismatic Church",
+    "slugs": [
+      "religion",
+      "church",
+      "charismatic-church"
+    ]
+  },
+  {
+    "name": "Christian Church",
+    "slugs": [
+      "religion",
+      "church",
+      "christian-church"
+    ]
+  },
+  {
+    "name": "Christian Science Church",
+    "slugs": [
+      "religion",
+      "church",
+      "christian-science-church"
+    ]
+  },
+  {
+    "name": "Church of Christ",
+    "slugs": [
+      "religion",
+      "church",
+      "church-of-christ"
+    ]
+  },
+  {
+    "name": "Church of God",
+    "slugs": [
+      "religion",
+      "church",
+      "church-of-god"
+    ]
+  },
+  {
+    "name": "Church of Jesus Christ of Latter-day Saints",
+    "slugs": [
+      "religion",
+      "church",
+      "church-of-jesus-christ-of-latterday-saints"
+    ]
+  },
+  {
+    "name": "Congregational Church",
+    "slugs": [
+      "religion",
+      "church",
+      "congregational-church"
+    ]
+  },
+  {
+    "name": "Eastern Orthodox Church",
+    "slugs": [
+      "religion",
+      "church",
+      "eastern-orthodox-church"
+    ]
+  },
+  {
+    "name": "Episcopal Church",
+    "slugs": [
+      "religion",
+      "church",
+      "episcopal-church"
+    ]
+  },
+  {
+    "name": "Evangelical Church",
+    "slugs": [
+      "religion",
+      "church",
+      "evangelical-church"
+    ]
+  },
+  {
+    "name": "Full Gospel Church",
+    "slugs": [
+      "religion",
+      "church",
+      "full-gospel-church"
+    ]
+  },
+  {
+    "name": "Holiness Church",
+    "slugs": [
+      "religion",
+      "church",
+      "holiness-church"
+    ]
+  },
+  {
+    "name": "Independent Church",
+    "slugs": [
+      "religion",
+      "church",
+      "independent-church"
+    ]
+  },
+  {
+    "name": "Interdenominational Church",
+    "slugs": [
+      "religion",
+      "church",
+      "interdenominational-church"
+    ]
+  },
+  {
+    "name": "Lutheran Church",
+    "slugs": [
+      "religion",
+      "church",
+      "lutheran-church"
+    ]
+  },
+  {
+    "name": "Mennonite Church",
+    "slugs": [
+      "religion",
+      "church",
+      "mennonite-church"
+    ]
+  },
+  {
+    "name": "Methodist Church",
+    "slugs": [
+      "religion",
+      "church",
+      "methodist-church"
+    ]
+  },
+  {
+    "name": "Nazarene Church",
+    "slugs": [
+      "religion",
+      "church",
+      "nazarene-church"
+    ]
+  },
+  {
+    "name": "Nondenominational Church",
+    "slugs": [
+      "religion",
+      "church",
+      "nondenominational-church"
+    ]
+  },
+  {
+    "name": "Pentecostal Church",
+    "slugs": [
+      "religion",
+      "church",
+      "pentecostal-church"
+    ]
+  },
+  {
+    "name": "Presbyterian Church",
+    "slugs": [
+      "religion",
+      "church",
+      "presbyterian-church"
+    ]
+  },
+  {
+    "name": "Seventh Day Adventist Church",
+    "slugs": [
+      "religion",
+      "church",
+      "seventh-day-adventist-church"
+    ]
+  },
+  {
+    "name": "Convent & Monastery",
+    "slugs": [
+      "religion",
+      "convent-monastery"
+    ]
+  },
+  {
+    "name": "Hindu Temple",
+    "slugs": [
+      "religion",
+      "hindu-temple"
+    ]
+  },
+  {
+    "name": "Kingdom Hall",
+    "slugs": [
+      "religion",
+      "kingdom-hall"
+    ]
+  },
+  {
+    "name": "Mission",
+    "slugs": [
+      "religion",
+      "mission"
+    ]
+  },
+  {
+    "name": "Mosque",
+    "slugs": [
+      "religion",
+      "mosque"
+    ]
+  },
+  {
+    "name": "Religious Center",
+    "slugs": [
+      "religion",
+      "religious-center"
+    ]
+  },
+  {
+    "name": "Sikh Temple",
+    "slugs": [
+      "religion",
+      "sikh-temple"
+    ]
+  },
+  {
+    "name": "Synagogue",
+    "slugs": [
+      "religion",
+      "synagogue"
+    ]
+  },
+  {
+    "name": "Residence",
+    "slugs": [
+      "residence-other"
+    ]
+  },
+  {
+    "name": "Apartment & Condo Building",
+    "slugs": [
+      "residence-other",
+      "apartment-condo-building"
+    ]
+  },
+  {
+    "name": "Castle",
+    "slugs": [
+      "residence-other",
+      "castle"
+    ]
+  },
+  {
+    "name": "Dorm",
+    "slugs": [
+      "residence-other",
+      "dorm"
+    ]
+  },
+  {
+    "name": "Fort",
+    "slugs": [
+      "residence-other",
+      "fort"
+    ]
+  },
+  {
+    "name": "Home",
+    "slugs": [
+      "residence-other",
+      "home"
+    ]
+  },
+  {
+    "name": "Palace",
+    "slugs": [
+      "residence-other",
+      "palace"
+    ]
+  },
+  {
+    "name": "Stately Home",
+    "slugs": [
+      "residence-other",
+      "stately-home"
+    ]
+  },
+  {
+    "name": "Science, Technology & Engineering",
+    "slugs": [
+      "science-engineering"
+    ]
+  },
+  {
+    "name": "Aerospace Company",
+    "slugs": [
+      "science-engineering",
+      "aerospace-company"
+    ]
+  },
+  {
+    "name": "Biotechnology Company",
+    "slugs": [
+      "science-engineering",
+      "biotechnology"
+    ]
+  },
+  {
+    "name": "Chemical Company",
+    "slugs": [
+      "science-engineering",
+      "chemicals-gasses"
+    ]
+  },
+  {
+    "name": "Gas & Chemical Service",
+    "slugs": [
+      "science-engineering",
+      "chemicals-gasses",
+      "gas-chemical-service"
+    ]
+  },
+  {
+    "name": "Petroleum Service",
+    "slugs": [
+      "science-engineering",
+      "chemicals-gasses",
+      "petroleum-services"
+    ]
+  },
+  {
+    "name": "Engineering Service",
+    "slugs": [
+      "science-engineering",
+      "engineering-service"
+    ]
+  },
+  {
+    "name": "Information Technology Company",
+    "slugs": [
+      "science-engineering",
+      "information-technology-company"
+    ]
+  },
+  {
+    "name": "Computer Company",
+    "slugs": [
+      "science-engineering",
+      "information-technology-company",
+      "computer-company"
+    ]
+  },
+  {
+    "name": "Electronics Company",
+    "slugs": [
+      "science-engineering",
+      "information-technology-company",
+      "electronics-company"
+    ]
+  },
+  {
+    "name": "Internet Company",
+    "slugs": [
+      "science-engineering",
+      "information-technology-company",
+      "internet-company"
+    ]
+  },
+  {
+    "name": "Software Company",
+    "slugs": [
+      "science-engineering",
+      "information-technology-company",
+      "software-company"
+    ]
+  },
+  {
+    "name": "Telecommunication Company",
+    "slugs": [
+      "science-engineering",
+      "information-technology-company",
+      "telecom"
+    ]
+  },
+  {
+    "name": "Cable & Satellite Company",
+    "slugs": [
+      "science-engineering",
+      "information-technology-company",
+      "telecom",
+      "cable-satellite-service"
+    ]
+  },
+  {
+    "name": "Robotics Company",
+    "slugs": [
+      "science-engineering",
+      "robotics"
+    ]
+  },
+  {
+    "name": "Solar Energy Company",
+    "slugs": [
+      "science-engineering",
+      "solar-energy-company"
+    ]
+  },
+  {
+    "name": "Structural Engineer",
+    "slugs": [
+      "science-engineering",
+      "structural-engineer"
+    ]
+  },
+  {
+    "name": "Surveyor",
+    "slugs": [
+      "science-engineering",
+      "surveyor"
+    ]
+  },
+  {
+    "name": "Shopping & Retail",
+    "slugs": [
+      "shopping-retail"
+    ]
+  },
+  {
+    "name": "Antique Store",
+    "slugs": [
+      "shopping-retail",
+      "antique-store"
+    ]
+  },
+  {
+    "name": "Apparel & Clothing",
+    "slugs": [
+      "shopping-retail",
+      "apparel"
+    ]
+  },
+  {
+    "name": "Accessories",
+    "slugs": [
+      "shopping-retail",
+      "apparel",
+      "accessories-store"
+    ]
+  },
+  {
+    "name": "Bags & Luggage Store",
+    "slugs": [
+      "shopping-retail",
+      "apparel",
+      "accessories-store",
+      "bags-luggage-store"
+    ]
+  },
+  {
+    "name": "Hat Store",
+    "slugs": [
+      "shopping-retail",
+      "apparel",
+      "accessories-store",
+      "hat-store"
+    ]
+  },
+  {
+    "name": "Jewelry & Watches Store",
+    "slugs": [
+      "shopping-retail",
+      "apparel",
+      "accessories-store",
+      "jewelry-store"
+    ]
+  },
+  {
+    "name": "Sunglasses & Eyewear Store",
+    "slugs": [
+      "shopping-retail",
+      "apparel",
+      "accessories-store",
+      "sunglasses-eyewear-store"
+    ]
+  },
+  {
+    "name": "Clothing Store",
+    "slugs": [
+      "shopping-retail",
+      "apparel",
+      "clothing-store"
+    ]
+  },
+  {
+    "name": "Bridal Shop",
+    "slugs": [
+      "shopping-retail",
+      "apparel",
+      "clothing-store",
+      "bridal-shop"
+    ]
+  },
+  {
+    "name": "Baby & Children's Clothing Store",
+    "slugs": [
+      "shopping-retail",
+      "apparel",
+      "clothing-store",
+      "childrens-clothing-store"
+    ]
+  },
+  {
+    "name": "Costume Shop",
+    "slugs": [
+      "shopping-retail",
+      "apparel",
+      "clothing-store",
+      "costume-shop"
+    ]
+  },
+  {
+    "name": "Lingerie & Underwear Store",
+    "slugs": [
+      "shopping-retail",
+      "apparel",
+      "clothing-store",
+      "lingerie-underwear-store"
+    ]
+  },
+  {
+    "name": "Maternity & Nursing Clothing Store",
+    "slugs": [
+      "shopping-retail",
+      "apparel",
+      "clothing-store",
+      "maternity-nursing-clothing-store"
+    ]
+  },
+  {
+    "name": "Men's Clothing Store",
+    "slugs": [
+      "shopping-retail",
+      "apparel",
+      "clothing-store",
+      "mens-clothing-store"
+    ]
+  },
+  {
+    "name": "Footwear Store",
+    "slugs": [
+      "shopping-retail",
+      "apparel",
+      "clothing-store",
+      "shoe-store"
+    ]
+  },
+  {
+    "name": "Sportswear Store",
+    "slugs": [
+      "shopping-retail",
+      "apparel",
+      "clothing-store",
+      "sportswear-store"
+    ]
+  },
+  {
+    "name": "Swimwear Store",
+    "slugs": [
+      "shopping-retail",
+      "apparel",
+      "clothing-store",
+      "swimwear-store"
+    ]
+  },
+  {
+    "name": "Women's Clothing Store",
+    "slugs": [
+      "shopping-retail",
+      "apparel",
+      "clothing-store",
+      "womens-clothing-store"
+    ]
+  },
+  {
+    "name": "Arts & Crafts Store",
+    "slugs": [
+      "shopping-retail",
+      "arts-crafts-supply-store"
+    ]
+  },
+  {
+    "name": "Auction House",
+    "slugs": [
+      "shopping-retail",
+      "auction-house"
+    ]
+  },
+  {
+    "name": "Beauty Store",
+    "slugs": [
+      "shopping-retail",
+      "beauty-store"
+    ]
+  },
+  {
+    "name": "Cosmetics Store",
+    "slugs": [
+      "shopping-retail",
+      "beauty-store",
+      "cosmetics-beauty-supply"
+    ]
+  },
+  {
+    "name": "Beauty Supply Store",
+    "slugs": [
+      "shopping-retail",
+      "beauty-store",
+      "hair-beauty-supply"
+    ]
+  },
+  {
+    "name": "Wig Store",
+    "slugs": [
+      "shopping-retail",
+      "beauty-store",
+      "wig-store"
+    ]
+  },
+  {
+    "name": "Big Box Retailer",
+    "slugs": [
+      "shopping-retail",
+      "big-box-retailer"
+    ]
+  },
+  {
+    "name": "Bookstore",
+    "slugs": [
+      "shopping-retail",
+      "book-store"
+    ]
+  },
+  {
+    "name": "College / University Bookstore",
+    "slugs": [
+      "shopping-retail",
+      "book-store",
+      "college-university-bookstore"
+    ]
+  },
+  {
+    "name": "Comic Bookstore",
+    "slugs": [
+      "shopping-retail",
+      "book-store",
+      "comic-book-store"
+    ]
+  },
+  {
+    "name": "Independent Bookstore",
+    "slugs": [
+      "shopping-retail",
+      "book-store",
+      "independent-bookstore"
+    ]
+  },
+  {
+    "name": "Religious Bookstore",
+    "slugs": [
+      "shopping-retail",
+      "book-store",
+      "religious-book-store"
+    ]
+  },
+  {
+    "name": "Boutique Store",
+    "slugs": [
+      "shopping-retail",
+      "boutique-store"
+    ]
+  },
+  {
+    "name": "Collectibles Store",
+    "slugs": [
+      "shopping-retail",
+      "collectibles-store"
+    ]
+  },
+  {
+    "name": "Cultural Gifts Store",
+    "slugs": [
+      "shopping-retail",
+      "cultural-gifts-store"
+    ]
+  },
+  {
+    "name": "Department Store",
+    "slugs": [
+      "shopping-retail",
+      "department-store"
+    ]
+  },
+  {
+    "name": "Discount Store",
+    "slugs": [
+      "shopping-retail",
+      "discount-store"
+    ]
+  },
+  {
+    "name": "Duty-Free Shop",
+    "slugs": [
+      "shopping-retail",
+      "dutyfree-shop"
+    ]
+  },
+  {
+    "name": "Movie & Music Store",
+    "slugs": [
+      "shopping-retail",
+      "dvd-video-store"
+    ]
+  },
+  {
+    "name": "E-Cigarette Store",
+    "slugs": [
+      "shopping-retail",
+      "ecigarette-store"
+    ]
+  },
+  {
+    "name": "Educational Supply Store",
+    "slugs": [
+      "shopping-retail",
+      "educational-supplies"
+    ]
+  },
+  {
+    "name": "Electronics Store",
+    "slugs": [
+      "shopping-retail",
+      "electronics-store"
+    ]
+  },
+  {
+    "name": "Audio Visual Equipment Store",
+    "slugs": [
+      "shopping-retail",
+      "electronics-store",
+      "audiovisual-equipment"
+    ]
+  },
+  {
+    "name": "Computer Store",
+    "slugs": [
+      "shopping-retail",
+      "electronics-store",
+      "computer-store"
+    ]
+  },
+  {
+    "name": "Fabric Store",
+    "slugs": [
+      "shopping-retail",
+      "fabric-store"
+    ]
+  },
+  {
+    "name": "Fireworks Retailer",
+    "slugs": [
+      "shopping-retail",
+      "fireworks-retailer"
+    ]
+  },
+  {
+    "name": "Flea Market",
+    "slugs": [
+      "shopping-retail",
+      "flea-market"
+    ]
+  },
+  {
+    "name": "Gift Shop",
+    "slugs": [
+      "shopping-retail",
+      "gift-shop"
+    ]
+  },
+  {
+    "name": "Glass & Mirror Shop",
+    "slugs": [
+      "shopping-retail",
+      "glass-mirror-shop"
+    ]
+  },
+  {
+    "name": "Gun Store",
+    "slugs": [
+      "shopping-retail",
+      "gun-store"
+    ]
+  },
+  {
+    "name": "Hobby Store",
+    "slugs": [
+      "shopping-retail",
+      "hobby-store"
+    ]
+  },
+  {
+    "name": "Home & Garden Store",
+    "slugs": [
+      "shopping-retail",
+      "home-garden-store"
+    ]
+  },
+  {
+    "name": "Appliance Store",
+    "slugs": [
+      "shopping-retail",
+      "home-garden-store",
+      "appliance-store"
+    ]
+  },
+  {
+    "name": "Awning Supplier",
+    "slugs": [
+      "shopping-retail",
+      "home-garden-store",
+      "awnings-canopies"
+    ]
+  },
+  {
+    "name": "Blinds & Curtains Store",
+    "slugs": [
+      "shopping-retail",
+      "home-garden-store",
+      "blinds-curtains"
+    ]
+  },
+  {
+    "name": "Building Material Store",
+    "slugs": [
+      "shopping-retail",
+      "home-garden-store",
+      "building-material-store"
+    ]
+  },
+  {
+    "name": "Cabinet & Countertop Store",
+    "slugs": [
+      "shopping-retail",
+      "home-garden-store",
+      "cabinets-countertops"
+    ]
+  },
+  {
+    "name": "Carpet & Flooring Store",
+    "slugs": [
+      "shopping-retail",
+      "home-garden-store",
+      "carpet-flooring-store"
+    ]
+  },
+  {
+    "name": "Fireplace Store",
+    "slugs": [
+      "shopping-retail",
+      "home-garden-store",
+      "fireplaces"
+    ]
+  },
+  {
+    "name": "Furniture Store",
+    "slugs": [
+      "shopping-retail",
+      "home-garden-store",
+      "furniture-store"
+    ]
+  },
+  {
+    "name": "Garden Center",
+    "slugs": [
+      "shopping-retail",
+      "home-garden-store",
+      "garden-center"
+    ]
+  },
+  {
+    "name": "Hardware Store",
+    "slugs": [
+      "shopping-retail",
+      "home-garden-store",
+      "hardware-store"
+    ]
+  },
+  {
+    "name": "Home Theater Store",
+    "slugs": [
+      "shopping-retail",
+      "home-garden-store",
+      "home-theater-store"
+    ]
+  },
+  {
+    "name": "Home Goods Store",
+    "slugs": [
+      "shopping-retail",
+      "home-garden-store",
+      "housewares"
+    ]
+  },
+  {
+    "name": "Lighting Store",
+    "slugs": [
+      "shopping-retail",
+      "home-garden-store",
+      "lighting-fixtures"
+    ]
+  },
+  {
+    "name": "Mattress Store",
+    "slugs": [
+      "shopping-retail",
+      "home-garden-store",
+      "mattresses-bedding"
+    ]
+  },
+  {
+    "name": "Nurseries & Gardening Store",
+    "slugs": [
+      "shopping-retail",
+      "home-garden-store",
+      "nurseries-gardening-store"
+    ]
+  },
+  {
+    "name": "Lottery Retailer",
+    "slugs": [
+      "shopping-retail",
+      "lottery-retailer"
+    ]
+  },
+  {
+    "name": "Mattress Wholesaler",
+    "slugs": [
+      "shopping-retail",
+      "mattress-wholesale"
+    ]
+  },
+  {
+    "name": "Mobile Phone Shop",
+    "slugs": [
+      "shopping-retail",
+      "mobile-phone-shop"
+    ]
+  },
+  {
+    "name": "Musical Instrument Store",
+    "slugs": [
+      "shopping-retail",
+      "musical-instrument-store"
+    ]
+  },
+  {
+    "name": "Newsstand",
+    "slugs": [
+      "shopping-retail",
+      "newsagent-newsstand"
+    ]
+  },
+  {
+    "name": "Night Market",
+    "slugs": [
+      "shopping-retail",
+      "night-market"
+    ]
+  },
+  {
+    "name": "Office Equipment Store",
+    "slugs": [
+      "shopping-retail",
+      "office-equipment-store"
+    ]
+  },
+  {
+    "name": "Outlet Store",
+    "slugs": [
+      "shopping-retail",
+      "outlet-store"
+    ]
+  },
+  {
+    "name": "Moving Supply Store",
+    "slugs": [
+      "shopping-retail",
+      "packaging-supplies-equipment"
+    ]
+  },
+  {
+    "name": "Party Supply & Rental Shop",
+    "slugs": [
+      "shopping-retail",
+      "party-supplies"
+    ]
+  },
+  {
+    "name": "Carnival Supply Store",
+    "slugs": [
+      "shopping-retail",
+      "party-supplies",
+      "carnival-supplies"
+    ]
+  },
+  {
+    "name": "Pawn Shop",
+    "slugs": [
+      "shopping-retail",
+      "pawn-shop"
+    ]
+  },
+  {
+    "name": "Pet Store",
+    "slugs": [
+      "shopping-retail",
+      "pet-store"
+    ]
+  },
+  {
+    "name": "Aquatic Pet Store",
+    "slugs": [
+      "shopping-retail",
+      "pet-store",
+      "aquatic-pet-store"
+    ]
+  },
+  {
+    "name": "Reptile Pet Store",
+    "slugs": [
+      "shopping-retail",
+      "pet-store",
+      "reptile-pet-store"
+    ]
+  },
+  {
+    "name": "Pop-Up Shop",
+    "slugs": [
+      "shopping-retail",
+      "popup-shop"
+    ]
+  },
+  {
+    "name": "Rent to Own Store",
+    "slugs": [
+      "shopping-retail",
+      "rent-to-own-store"
+    ]
+  },
+  {
+    "name": "Restaurant Supply Store",
+    "slugs": [
+      "shopping-retail",
+      "restaurant-supply"
+    ]
+  },
+  {
+    "name": "Retail Company",
+    "slugs": [
+      "shopping-retail",
+      "retail-company"
+    ]
+  },
+  {
+    "name": "Seasonal Store",
+    "slugs": [
+      "shopping-retail",
+      "seasonal-store"
+    ]
+  },
+  {
+    "name": "Shopping Mall",
+    "slugs": [
+      "shopping-retail",
+      "shopping-mall"
+    ]
+  },
+  {
+    "name": "Shopping Service",
+    "slugs": [
+      "shopping-retail",
+      "shopping-service"
+    ]
+  },
+  {
+    "name": "Souvenir Shop",
+    "slugs": [
+      "shopping-retail",
+      "souvenir-shop"
+    ]
+  },
+  {
+    "name": "Sporting Goods Store",
+    "slugs": [
+      "shopping-retail",
+      "sporting-goods-store"
+    ]
+  },
+  {
+    "name": "Archery Shop",
+    "slugs": [
+      "shopping-retail",
+      "sporting-goods-store",
+      "archery-shop"
+    ]
+  },
+  {
+    "name": "Bicycle Shop",
+    "slugs": [
+      "shopping-retail",
+      "sporting-goods-store",
+      "bike-shop"
+    ]
+  },
+  {
+    "name": "Fishing Store",
+    "slugs": [
+      "shopping-retail",
+      "sporting-goods-store",
+      "fishing-store"
+    ]
+  },
+  {
+    "name": "Mountain Biking Shop",
+    "slugs": [
+      "shopping-retail",
+      "sporting-goods-store",
+      "mountain-biking-shop"
+    ]
+  },
+  {
+    "name": "Outdoor Equipment Store",
+    "slugs": [
+      "shopping-retail",
+      "sporting-goods-store",
+      "outdoor-equipment-store"
+    ]
+  },
+  {
+    "name": "Skate Shop",
+    "slugs": [
+      "shopping-retail",
+      "sporting-goods-store",
+      "skate-shop"
+    ]
+  },
+  {
+    "name": "Ski & Snowboard Shop",
+    "slugs": [
+      "shopping-retail",
+      "sporting-goods-store",
+      "ski-snowboard-shop"
+    ]
+  },
+  {
+    "name": "Surf Shop",
+    "slugs": [
+      "shopping-retail",
+      "sporting-goods-store",
+      "surf-shop"
+    ]
+  },
+  {
+    "name": "Outdoor & Sporting Goods Company",
+    "slugs": [
+      "shopping-retail",
+      "sports-outdoors"
+    ]
+  },
+  {
+    "name": "Thrift & Consignment Store",
+    "slugs": [
+      "shopping-retail",
+      "thrift-or-consignment-store"
+    ]
+  },
+  {
+    "name": "Tobacco Store",
+    "slugs": [
+      "shopping-retail",
+      "tobacco-store"
+    ]
+  },
+  {
+    "name": "Toy Store",
+    "slugs": [
+      "shopping-retail",
+      "toy-store"
+    ]
+  },
+  {
+    "name": "Trophies & Engraving Shop",
+    "slugs": [
+      "shopping-retail",
+      "trophies-engraving"
+    ]
+  },
+  {
+    "name": "Video Game Store",
+    "slugs": [
+      "shopping-retail",
+      "video-game-store"
+    ]
+  },
+  {
+    "name": "Vintage Store",
+    "slugs": [
+      "shopping-retail",
+      "vintage-store"
+    ]
+  },
+  {
+    "name": "Wholesale & Supply Store",
+    "slugs": [
+      "shopping-retail",
+      "wholesale-supply-store"
+    ]
+  },
+  {
+    "name": "Beauty, Cosmetic & Personal Care",
+    "slugs": [
+      "spa-beauty-personal-care"
+    ]
+  },
+  {
+    "name": "Barber Shop",
+    "slugs": [
+      "spa-beauty-personal-care",
+      "barber-shop"
+    ]
+  },
+  {
+    "name": "Beauty Salon",
+    "slugs": [
+      "spa-beauty-personal-care",
+      "beauty-salon"
+    ]
+  },
+  {
+    "name": "Hair Salon",
+    "slugs": [
+      "spa-beauty-personal-care",
+      "beauty-salon",
+      "hair-salon"
+    ]
+  },
+  {
+    "name": "Nail Salon",
+    "slugs": [
+      "spa-beauty-personal-care",
+      "beauty-salon",
+      "nail-salon"
+    ]
+  },
+  {
+    "name": "Tanning Salon",
+    "slugs": [
+      "spa-beauty-personal-care",
+      "beauty-salon",
+      "tanning-salon"
+    ]
+  },
+  {
+    "name": "Hair Removal Service",
+    "slugs": [
+      "spa-beauty-personal-care",
+      "hair-removal"
+    ]
+  },
+  {
+    "name": "Laser Hair Removal Service",
+    "slugs": [
+      "spa-beauty-personal-care",
+      "hair-removal",
+      "laser-hair-removal"
+    ]
+  },
+  {
+    "name": "Sugaring Service",
+    "slugs": [
+      "spa-beauty-personal-care",
+      "hair-removal",
+      "sugaring-service"
+    ]
+  },
+  {
+    "name": "Threading Service",
+    "slugs": [
+      "spa-beauty-personal-care",
+      "hair-removal",
+      "threading-service"
+    ]
+  },
+  {
+    "name": "Waxing Service",
+    "slugs": [
+      "spa-beauty-personal-care",
+      "hair-removal",
+      "waxing-service"
+    ]
+  },
+  {
+    "name": "Hair Replacement Service",
+    "slugs": [
+      "spa-beauty-personal-care",
+      "hair-replacement"
+    ]
+  },
+  {
+    "name": "Hair Extensions Service",
+    "slugs": [
+      "spa-beauty-personal-care",
+      "hairpieces-extensions"
+    ]
+  },
+  {
+    "name": "Image Consultant",
+    "slugs": [
+      "spa-beauty-personal-care",
+      "image-consultant"
+    ]
+  },
+  {
+    "name": "Makeup Artist",
+    "slugs": [
+      "spa-beauty-personal-care",
+      "makeup-artist"
+    ]
+  },
+  {
+    "name": "Skin Care Service",
+    "slugs": [
+      "spa-beauty-personal-care",
+      "skin-care-services"
+    ]
+  },
+  {
+    "name": "Spa",
+    "slugs": [
+      "spa-beauty-personal-care",
+      "spa"
+    ]
+  },
+  {
+    "name": "Aromatherapy Service",
+    "slugs": [
+      "spa-beauty-personal-care",
+      "spa",
+      "aromatherapy"
+    ]
+  },
+  {
+    "name": "Day Spa",
+    "slugs": [
+      "spa-beauty-personal-care",
+      "spa",
+      "day-spa"
+    ]
+  },
+  {
+    "name": "Health Spa",
+    "slugs": [
+      "spa-beauty-personal-care",
+      "spa",
+      "health-spa"
+    ]
+  },
+  {
+    "name": "Massage Service",
+    "slugs": [
+      "spa-beauty-personal-care",
+      "spa",
+      "massage"
+    ]
+  },
+  {
+    "name": "Onsen",
+    "slugs": [
+      "spa-beauty-personal-care",
+      "spa",
+      "onsen"
+    ]
+  },
+  {
+    "name": "Beauty Supplier",
+    "slugs": [
+      "spa-beauty-personal-care",
+      "tanning-salon-supplier"
+    ]
+  },
+  {
+    "name": "Tattoo & Piercing Shop",
+    "slugs": [
+      "spa-beauty-personal-care",
+      "tattoo-piercing-shop"
+    ]
+  },
+  {
+    "name": "Sports & Recreation",
+    "slugs": [
+      "sports-recreation"
+    ]
+  },
+  {
+    "name": "Sports & Recreation Venue",
+    "slugs": [
+      "sports-recreation",
+      "recreation-fitness-venue"
+    ]
+  },
+  {
+    "name": "Archery Range",
+    "slugs": [
+      "sports-recreation",
+      "recreation-fitness-venue",
+      "archery"
+    ]
+  },
+  {
+    "name": "ATV Recreation Park",
+    "slugs": [
+      "sports-recreation",
+      "recreation-fitness-venue",
+      "atv-recreation-park"
+    ]
+  },
+  {
+    "name": "Badminton Court",
+    "slugs": [
+      "sports-recreation",
+      "recreation-fitness-venue",
+      "badminton-court"
+    ]
+  },
+  {
+    "name": "Baseball Field",
+    "slugs": [
+      "sports-recreation",
+      "recreation-fitness-venue",
+      "baseball-field"
+    ]
+  },
+  {
+    "name": "Basketball Court",
+    "slugs": [
+      "sports-recreation",
+      "recreation-fitness-venue",
+      "basketball-court"
+    ]
+  },
+  {
+    "name": "Batting Cage",
+    "slugs": [
+      "sports-recreation",
+      "recreation-fitness-venue",
+      "batting-cage"
+    ]
+  },
+  {
+    "name": "Bowling Alley",
+    "slugs": [
+      "sports-recreation",
+      "recreation-fitness-venue",
+      "bowling-alley"
+    ]
+  },
+  {
+    "name": "Disc Golf Course",
+    "slugs": [
+      "sports-recreation",
+      "recreation-fitness-venue",
+      "disc-golf-course"
+    ]
+  },
+  {
+    "name": "Driving Range",
+    "slugs": [
+      "sports-recreation",
+      "recreation-fitness-venue",
+      "driving-range"
+    ]
+  },
+  {
+    "name": "Equestrian Center",
+    "slugs": [
+      "sports-recreation",
+      "recreation-fitness-venue",
+      "equestrian-facility"
+    ]
+  },
+  {
+    "name": "Fencing Club",
+    "slugs": [
+      "sports-recreation",
+      "recreation-fitness-venue",
+      "fencing-club"
+    ]
+  },
+  {
+    "name": "Fitness Venue",
+    "slugs": [
+      "sports-recreation",
+      "recreation-fitness-venue",
+      "fitness-venue"
+    ]
+  },
+  {
+    "name": "Boxing Studio",
+    "slugs": [
+      "sports-recreation",
+      "recreation-fitness-venue",
+      "fitness-venue",
+      "boxing-studio"
+    ]
+  },
+  {
+    "name": "Cycling Studio",
+    "slugs": [
+      "sports-recreation",
+      "recreation-fitness-venue",
+      "fitness-venue",
+      "cycling-studio"
+    ]
+  },
+  {
+    "name": "Dance Studio",
+    "slugs": [
+      "sports-recreation",
+      "recreation-fitness-venue",
+      "fitness-venue",
+      "dance-instruction"
+    ]
+  },
+  {
+    "name": "Fitness Boot Camp",
+    "slugs": [
+      "sports-recreation",
+      "recreation-fitness-venue",
+      "fitness-venue",
+      "fitness-boot-camp"
+    ]
+  },
+  {
+    "name": "Martial Arts School",
+    "slugs": [
+      "sports-recreation",
+      "recreation-fitness-venue",
+      "fitness-venue",
+      "martial-arts"
+    ]
+  },
+  {
+    "name": "Pilates Studio",
+    "slugs": [
+      "sports-recreation",
+      "recreation-fitness-venue",
+      "fitness-venue",
+      "pilates-studio"
+    ]
+  },
+  {
+    "name": "Tai Chi Studio",
+    "slugs": [
+      "sports-recreation",
+      "recreation-fitness-venue",
+      "fitness-venue",
+      "tai-chi-studio"
+    ]
+  },
+  {
+    "name": "Yoga Studio",
+    "slugs": [
+      "sports-recreation",
+      "recreation-fitness-venue",
+      "fitness-venue",
+      "yoga-pilates"
+    ]
+  },
+  {
+    "name": "Flyboarding Center",
+    "slugs": [
+      "sports-recreation",
+      "recreation-fitness-venue",
+      "flyboarding-company"
+    ]
+  },
+  {
+    "name": "Go-Kart Track",
+    "slugs": [
+      "sports-recreation",
+      "recreation-fitness-venue",
+      "go-karting"
+    ]
+  },
+  {
+    "name": "Golf Course & Country Club",
+    "slugs": [
+      "sports-recreation",
+      "recreation-fitness-venue",
+      "golf-course"
+    ]
+  },
+  {
+    "name": "Gun Range",
+    "slugs": [
+      "sports-recreation",
+      "recreation-fitness-venue",
+      "gun-range"
+    ]
+  },
+  {
+    "name": "Gym/Physical Fitness Center",
+    "slugs": [
+      "sports-recreation",
+      "recreation-fitness-venue",
+      "gym"
+    ]
+  },
+  {
+    "name": "Gymnastics Center",
+    "slugs": [
+      "sports-recreation",
+      "recreation-fitness-venue",
+      "gymnastics-center"
+    ]
+  },
+  {
+    "name": "Hang Gliding Center",
+    "slugs": [
+      "sports-recreation",
+      "recreation-fitness-venue",
+      "hang-gliding-center"
+    ]
+  },
+  {
+    "name": "Hockey Field / Rink",
+    "slugs": [
+      "sports-recreation",
+      "recreation-fitness-venue",
+      "hockey-field-rink"
+    ]
+  },
+  {
+    "name": "Horseback Riding Center",
+    "slugs": [
+      "sports-recreation",
+      "recreation-fitness-venue",
+      "horseback-riding-service"
+    ]
+  },
+  {
+    "name": "Ice Skating Rink",
+    "slugs": [
+      "sports-recreation",
+      "recreation-fitness-venue",
+      "ice-skating"
+    ]
+  },
+  {
+    "name": "Kiteboarding Center",
+    "slugs": [
+      "sports-recreation",
+      "recreation-fitness-venue",
+      "kiteboarding"
+    ]
+  },
+  {
+    "name": "Laser Tag Center",
+    "slugs": [
+      "sports-recreation",
+      "recreation-fitness-venue",
+      "laser-tag"
+    ]
+  },
+  {
+    "name": "Miniature Golf Course",
+    "slugs": [
+      "sports-recreation",
+      "recreation-fitness-venue",
+      "miniature-golf"
+    ]
+  },
+  {
+    "name": "Paddleboarding Center",
+    "slugs": [
+      "sports-recreation",
+      "recreation-fitness-venue",
+      "paddleboarding-center"
+    ]
+  },
+  {
+    "name": "Paintball Center",
+    "slugs": [
+      "sports-recreation",
+      "recreation-fitness-venue",
+      "paintball"
+    ]
+  },
+  {
+    "name": "Racquetball Court",
+    "slugs": [
+      "sports-recreation",
+      "recreation-fitness-venue",
+      "racquetball-court"
+    ]
+  },
+  {
+    "name": "Rafting/Kayaking Center",
+    "slugs": [
+      "sports-recreation",
+      "recreation-fitness-venue",
+      "rafting-kayaking-company"
+    ]
+  },
+  {
+    "name": "Recreation Center",
+    "slugs": [
+      "sports-recreation",
+      "recreation-fitness-venue",
+      "recreation-center"
+    ]
+  },
+  {
+    "name": "Rock Climbing Gym",
+    "slugs": [
+      "sports-recreation",
+      "recreation-fitness-venue",
+      "rock-climbing"
+    ]
+  },
+  {
+    "name": "Rodeo",
+    "slugs": [
+      "sports-recreation",
+      "recreation-fitness-venue",
+      "rodeo"
+    ]
+  },
+  {
+    "name": "Roller Skating Rink",
+    "slugs": [
+      "sports-recreation",
+      "recreation-fitness-venue",
+      "roller-skating-rink"
+    ]
+  },
+  {
+    "name": "Rugby Pitch",
+    "slugs": [
+      "sports-recreation",
+      "recreation-fitness-venue",
+      "rugby-pitch"
+    ]
+  },
+  {
+    "name": "Scuba Diving Center",
+    "slugs": [
+      "sports-recreation",
+      "recreation-fitness-venue",
+      "scuba-diving"
+    ]
+  },
+  {
+    "name": "Shooting/Hunting Range",
+    "slugs": [
+      "sports-recreation",
+      "recreation-fitness-venue",
+      "shooting-hunting-range"
+    ]
+  },
+  {
+    "name": "Skateboard Park",
+    "slugs": [
+      "sports-recreation",
+      "recreation-fitness-venue",
+      "skateboard-park"
+    ]
+  },
+  {
+    "name": "Ski Resort",
+    "slugs": [
+      "sports-recreation",
+      "recreation-fitness-venue",
+      "ski-resort"
+    ]
+  },
+  {
+    "name": "Skydiving Center",
+    "slugs": [
+      "sports-recreation",
+      "recreation-fitness-venue",
+      "sky-diving"
+    ]
+  },
+  {
+    "name": "Soccer Field",
+    "slugs": [
+      "sports-recreation",
+      "recreation-fitness-venue",
+      "soccer-field"
+    ]
+  },
+  {
+    "name": "Squash Court",
+    "slugs": [
+      "sports-recreation",
+      "recreation-fitness-venue",
+      "squash-court"
+    ]
+  },
+  {
+    "name": "Public Swimming Pool",
+    "slugs": [
+      "sports-recreation",
+      "recreation-fitness-venue",
+      "swimming-pool"
+    ]
+  },
+  {
+    "name": "Tennis Court",
+    "slugs": [
+      "sports-recreation",
+      "recreation-fitness-venue",
+      "tennis"
+    ]
+  },
+  {
+    "name": "Volleyball Court",
+    "slugs": [
+      "sports-recreation",
+      "recreation-fitness-venue",
+      "volleyball-court"
+    ]
+  },
+  {
+    "name": "Sports & Fitness Instruction",
+    "slugs": [
+      "sports-recreation",
+      "sports-instruction"
+    ]
+  },
+  {
+    "name": "Boat / Sailing Instructor",
+    "slugs": [
+      "sports-recreation",
+      "sports-instruction",
+      "boat-sailing-instructor"
+    ]
+  },
+  {
+    "name": "Coach",
+    "slugs": [
+      "sports-recreation",
+      "sports-instruction",
+      "coach"
+    ]
+  },
+  {
+    "name": "Golf Instructor",
+    "slugs": [
+      "sports-recreation",
+      "sports-instruction",
+      "golf-instructor"
+    ]
+  },
+  {
+    "name": "Horse Riding School",
+    "slugs": [
+      "sports-recreation",
+      "sports-instruction",
+      "horse-riding-school"
+    ]
+  },
+  {
+    "name": "Personal Trainer",
+    "slugs": [
+      "sports-recreation",
+      "sports-instruction",
+      "personal-trainer"
+    ]
+  },
+  {
+    "name": "Scuba Instructor",
+    "slugs": [
+      "sports-recreation",
+      "sports-instruction",
+      "scuba-instructor"
+    ]
+  },
+  {
+    "name": "Ski & Snowboard School",
+    "slugs": [
+      "sports-recreation",
+      "sports-instruction",
+      "ski-snowboard-school"
+    ]
+  },
+  {
+    "name": "Swimming Instructor",
+    "slugs": [
+      "sports-recreation",
+      "sports-instruction",
+      "swimming-instructor"
+    ]
+  },
+  {
+    "name": "Stadium, Arena & Sports Venue",
+    "slugs": [
+      "sports-recreation",
+      "sports-venue-stadium"
+    ]
+  },
+  {
+    "name": "Baseball Stadium",
+    "slugs": [
+      "sports-recreation",
+      "sports-venue-stadium",
+      "baseball-stadium"
+    ]
+  },
+  {
+    "name": "Basketball Stadium",
+    "slugs": [
+      "sports-recreation",
+      "sports-venue-stadium",
+      "basketball-stadium"
+    ]
+  },
+  {
+    "name": "Cricket Ground",
+    "slugs": [
+      "sports-recreation",
+      "sports-venue-stadium",
+      "cricket-ground"
+    ]
+  },
+  {
+    "name": "Football Stadium",
+    "slugs": [
+      "sports-recreation",
+      "sports-venue-stadium",
+      "football-stadium"
+    ]
+  },
+  {
+    "name": "Hockey Arena",
+    "slugs": [
+      "sports-recreation",
+      "sports-venue-stadium",
+      "hockey-arena"
+    ]
+  },
+  {
+    "name": "Rugby Stadium",
+    "slugs": [
+      "sports-recreation",
+      "sports-venue-stadium",
+      "rugby-stadium"
+    ]
+  },
+  {
+    "name": "Soccer Stadium",
+    "slugs": [
+      "sports-recreation",
+      "sports-venue-stadium",
+      "soccer-stadium"
+    ]
+  },
+  {
+    "name": "Tennis Stadium",
+    "slugs": [
+      "sports-recreation",
+      "sports-venue-stadium",
+      "tennis-stadium"
+    ]
+  },
+  {
+    "name": "Track Stadium",
+    "slugs": [
+      "sports-recreation",
+      "sports-venue-stadium",
+      "track-stadium"
+    ]
+  },
+  {
+    "name": "Travel & Transportation",
+    "slugs": [
+      "travel-transportation"
+    ]
+  },
+  {
+    "name": "Airline Company",
+    "slugs": [
+      "travel-transportation",
+      "airline"
+    ]
+  },
+  {
+    "name": "Airline Industry Service",
+    "slugs": [
+      "travel-transportation",
+      "airline-industry-services"
+    ]
+  },
+  {
+    "name": "Bus Line",
+    "slugs": [
+      "travel-transportation",
+      "bus-line"
+    ]
+  },
+  {
+    "name": "Cruise Line",
+    "slugs": [
+      "travel-transportation",
+      "cruise"
+    ]
+  },
+  {
+    "name": "Boat/Ferry Company",
+    "slugs": [
+      "travel-transportation",
+      "ferry-boat-company"
+    ]
+  },
+  {
+    "name": "Railroad Company",
+    "slugs": [
+      "travel-transportation",
+      "railroad"
+    ]
+  },
+  {
+    "name": "Rental Shop",
+    "slugs": [
+      "travel-transportation",
+      "rental-shop"
+    ]
+  },
+  {
+    "name": "ATV Rental",
+    "slugs": [
+      "travel-transportation",
+      "rental-shop",
+      "atv-rental-shop"
+    ]
+  },
+  {
+    "name": "Bike Rental",
+    "slugs": [
+      "travel-transportation",
+      "rental-shop",
+      "bike-rental-bike-share"
+    ]
+  },
+  {
+    "name": "Boat Rental",
+    "slugs": [
+      "travel-transportation",
+      "rental-shop",
+      "boat-rental"
+    ]
+  },
+  {
+    "name": "Canoe & Kayak Rental",
+    "slugs": [
+      "travel-transportation",
+      "rental-shop",
+      "canoe-kayak-rental-shop"
+    ]
+  },
+  {
+    "name": "Car Rental",
+    "slugs": [
+      "travel-transportation",
+      "rental-shop",
+      "car-rental"
+    ]
+  },
+  {
+    "name": "Exotic Car Rental",
+    "slugs": [
+      "travel-transportation",
+      "rental-shop",
+      "exotic-car-rental"
+    ]
+  },
+  {
+    "name": "Jet Ski Rental",
+    "slugs": [
+      "travel-transportation",
+      "rental-shop",
+      "jet-ski-rental"
+    ]
+  },
+  {
+    "name": "Scooter Rental",
+    "slugs": [
+      "travel-transportation",
+      "rental-shop",
+      "scooter-rental"
+    ]
+  },
+  {
+    "name": "Trailer  Rental",
+    "slugs": [
+      "travel-transportation",
+      "rental-shop",
+      "trailer-rental"
+    ]
+  },
+  {
+    "name": "Truck Rental",
+    "slugs": [
+      "travel-transportation",
+      "rental-shop",
+      "truck-rental"
+    ]
+  },
+  {
+    "name": "Transportation Service",
+    "slugs": [
+      "travel-transportation",
+      "transportation-service"
+    ]
+  },
+  {
+    "name": "Airport Shuttle Service",
+    "slugs": [
+      "travel-transportation",
+      "transportation-service",
+      "airport-shuttle"
+    ]
+  },
+  {
+    "name": "Charter Bus Service",
+    "slugs": [
+      "travel-transportation",
+      "transportation-service",
+      "charter-buses"
+    ]
+  },
+  {
+    "name": "Limo Service",
+    "slugs": [
+      "travel-transportation",
+      "transportation-service",
+      "limo-service"
+    ]
+  },
+  {
+    "name": "Private Plane Charter",
+    "slugs": [
+      "travel-transportation",
+      "transportation-service",
+      "private-plane-charter"
+    ]
+  },
+  {
+    "name": "Rideshare Service",
+    "slugs": [
+      "travel-transportation",
+      "transportation-service",
+      "rideshare-service"
+    ]
+  },
+  {
+    "name": "School Transportation Service",
+    "slugs": [
+      "travel-transportation",
+      "transportation-service",
+      "school-transportation"
+    ]
+  },
+  {
+    "name": "Taxi Service",
+    "slugs": [
+      "travel-transportation",
+      "transportation-service",
+      "taxi"
+    ]
+  },
+  {
+    "name": "Transit Hub",
+    "slugs": [
+      "travel-transportation",
+      "transportation-terminal"
+    ]
+  },
+  {
+    "name": "Airport",
+    "slugs": [
+      "travel-transportation",
+      "transportation-terminal",
+      "airport"
+    ]
+  },
+  {
+    "name": "Airport Gate",
+    "slugs": [
+      "travel-transportation",
+      "transportation-terminal",
+      "airport-gate"
+    ]
+  },
+  {
+    "name": "Airport Lounge",
+    "slugs": [
+      "travel-transportation",
+      "transportation-terminal",
+      "airport-lounge"
+    ]
+  },
+  {
+    "name": "Airport Terminal",
+    "slugs": [
+      "travel-transportation",
+      "transportation-terminal",
+      "airport-terminal"
+    ]
+  },
+  {
+    "name": "Balloonport",
+    "slugs": [
+      "travel-transportation",
+      "transportation-terminal",
+      "balloonport"
+    ]
+  },
+  {
+    "name": "Bus Station",
+    "slugs": [
+      "travel-transportation",
+      "transportation-terminal",
+      "bus-station"
+    ]
+  },
+  {
+    "name": "Heliport",
+    "slugs": [
+      "travel-transportation",
+      "transportation-terminal",
+      "heliport"
+    ]
+  },
+  {
+    "name": "Seaplane Base",
+    "slugs": [
+      "travel-transportation",
+      "transportation-terminal",
+      "seaplanebase"
+    ]
+  },
+  {
+    "name": "Train Station",
+    "slugs": [
+      "travel-transportation",
+      "transportation-terminal",
+      "train-station"
+    ]
+  },
+  {
+    "name": "Light Rail Station",
+    "slugs": [
+      "travel-transportation",
+      "transportation-terminal",
+      "train-station",
+      "light-rail-station"
+    ]
+  },
+  {
+    "name": "Railway Station",
+    "slugs": [
+      "travel-transportation",
+      "transportation-terminal",
+      "train-station",
+      "railway-station"
+    ]
+  },
+  {
+    "name": "Subway Station",
+    "slugs": [
+      "travel-transportation",
+      "transportation-terminal",
+      "train-station",
+      "subway-station"
+    ]
+  },
+  {
+    "name": "Transit Stop",
+    "slugs": [
+      "travel-transportation",
+      "transportation-terminal",
+      "transit-stop"
+    ]
+  },
+  {
+    "name": "Travel Company",
+    "slugs": [
+      "travel-transportation",
+      "travel-company"
+    ]
+  },
+  {
+    "name": "Tour Agency",
+    "slugs": [
+      "travel-transportation",
+      "travel-company",
+      "tours-sightseeing"
+    ]
+  },
+  {
+    "name": "Architectural Tour Agency",
+    "slugs": [
+      "travel-transportation",
+      "travel-company",
+      "tours-sightseeing",
+      "architectural-tour-agency"
+    ]
+  },
+  {
+    "name": "Art Tour Agency",
+    "slugs": [
+      "travel-transportation",
+      "travel-company",
+      "tours-sightseeing",
+      "art-tour-agency"
+    ]
+  },
+  {
+    "name": "Boat Tour Agency",
+    "slugs": [
+      "travel-transportation",
+      "travel-company",
+      "tours-sightseeing",
+      "boat-tour-agency"
+    ]
+  },
+  {
+    "name": "Bus Tour Agency",
+    "slugs": [
+      "travel-transportation",
+      "travel-company",
+      "tours-sightseeing",
+      "bus-tour-agency"
+    ]
+  },
+  {
+    "name": "Eco Tour Agency",
+    "slugs": [
+      "travel-transportation",
+      "travel-company",
+      "tours-sightseeing",
+      "eco-tours"
+    ]
+  },
+  {
+    "name": "Food Tour Agency",
+    "slugs": [
+      "travel-transportation",
+      "travel-company",
+      "tours-sightseeing",
+      "food-tour-agency"
+    ]
+  },
+  {
+    "name": "Historical Tour Agency",
+    "slugs": [
+      "travel-transportation",
+      "travel-company",
+      "tours-sightseeing",
+      "historical-tour-agency"
+    ]
+  },
+  {
+    "name": "Horse-Drawn Carriage Service",
+    "slugs": [
+      "travel-transportation",
+      "travel-company",
+      "tours-sightseeing",
+      "horsedrawn-vehicles"
+    ]
+  },
+  {
+    "name": "Hot Air Balloon Tour Agency",
+    "slugs": [
+      "travel-transportation",
+      "travel-company",
+      "tours-sightseeing",
+      "hot-air-balloons"
+    ]
+  },
+  {
+    "name": "Pedicab Service",
+    "slugs": [
+      "travel-transportation",
+      "travel-company",
+      "tours-sightseeing",
+      "pedicab-service"
+    ]
+  },
+  {
+    "name": "Sightseeing Tour Agency",
+    "slugs": [
+      "travel-transportation",
+      "travel-company",
+      "tours-sightseeing",
+      "sightseeing-tour-agency"
+    ]
+  },
+  {
+    "name": "Tour Guide",
+    "slugs": [
+      "travel-transportation",
+      "travel-company",
+      "tours-sightseeing",
+      "tour-guide"
+    ]
+  },
+  {
+    "name": "Travel Agency",
+    "slugs": [
+      "travel-transportation",
+      "travel-company",
+      "travel-agency"
+    ]
+  },
+  {
+    "name": "Cruise Agency",
+    "slugs": [
+      "travel-transportation",
+      "travel-company",
+      "travel-agency",
+      "cruise-agency"
+    ]
+  },
+  {
+    "name": "Travel Service",
+    "slugs": [
+      "travel-transportation",
+      "travel-services"
+    ]
+  },
+  {
+    "name": "Luggage Service",
+    "slugs": [
+      "travel-transportation",
+      "travel-services",
+      "luggage-service"
+    ]
+  },
+  {
+    "name": "Tourist Information Center",
+    "slugs": [
+      "travel-transportation",
+      "travel-services",
+      "tourist-information"
+    ]
+  }
+]
