@@ -6,10 +6,9 @@ import radarCategories from '../miscellaneous/radar_places.json'
 
 const SearchBox = () => {
   const [category, setCategory] = useState('');
-  const [slugs, setSlugs] = useState<any>([])
-  const [latitudeValue, setLatitudeValue] = useState(Number)
-  const [longitudeValue, setLongitudeValue] = useState(Number)
-  const [categoryEvent, setCategoryEvent] = useState<any>()
+  const [slugs, setSlugs] = useState<any>([]);
+  const [location, setLocation] = useState<any>();
+  const [event, setEvent] = useState<any>();
 
   const handleChange = (e: any, value: any) => {
     e.preventDefault()
@@ -18,60 +17,36 @@ const SearchBox = () => {
 
   const handleClick = () => {
     const index = radarCategories.map(object => object.name).indexOf(category);
-    setSlugs(radarCategories[index].slugs);  
+    setSlugs(radarCategories[index].slugs);
+    getUserLocation()  
   }
+  //console.log(slugs)
 
-  useEffect(() => {
-    const getCategoryEvent = () => {
-      Radar.searchPlaces({
-        near: {
-          latitude: latitudeValue,
-          longitude: longitudeValue
-        },
-        radius: 1000,
-        categories: slugs,
-        limit: 10
-      }, async function(err: any, result: any) {
-        if (!err) {
-          // do something with result.places
-          setCategoryEvent(await result.places)
-        }
-      });
-    }
-  })
-
-  useEffect(() => {
-    const getLocation = () => {
-      Radar.trackOnce(async function(err: any, result: any) {
-        if (!err) {
-          // do something with result.location, result.events, result.user
-          await result.location;
-          const userLatitude = result.location.latitude;
-          const userLongitude = result.location.longitude;
-
-          setLatitudeValue(userLatitude);
-          setLongitudeValue(userLongitude)
-        }
-      });
-    }
-    /*
-    Radar.autocomplete({
-      query: 'brooklyn roasting',
-      near: {
-        latitude: 40.783826,
-        longitude: -73.975363
-      },
-      limit: 10
-    }, async function(err: any, result: any) {
+  const getUserLocation = () => {
+    Radar.getLocation(async function(err: any, result: any) {
       if (!err) {
-        // do something with result.addresses
-        console.log(await result.addresses)
+        // do something with result.location, result.events, result.user
+        const currentLocation = await result.location
+        setLocation(currentLocation)
       }
     });
-    */
-    getLocation()
-  })
+    return location;
+  }
 
+  const getCategoryEvent = () => {
+    Radar.trackOnce({
+      latitude: location.latitude,
+      longitude: location.longitude,
+      accuracy: location.accuracy,
+    }, async function(err: any, result: any) {
+      if (!err) {
+        // do something with result.places
+        setEvent(await result.event)
+      }
+    });
+  }
+  //getCategoryEvent()
+    
   return (
     <div className="z-10">
       <div className="space-y-5">
