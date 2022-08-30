@@ -1,41 +1,65 @@
-import React, { useEffect, useState } from 'react';
-import Radar from 'radar-sdk-js';
+import React, { useCallback, useEffect, useState } from 'react';
 import axios from 'axios';
 import TextField from '@mui/material/TextField';
 import Autocomplete from '@mui/material/Autocomplete';
 import radarCategories from '../miscellaneous/radar_places.json'
+import { toast } from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css';
 
-const SearchBox = () => {
+const SearchBox = ({getData}: any) => {
   let publishableKey = process.env.NEXT_PUBLIC_RADAR_KEY
   const [category, setCategory] = useState('');
   const [slugs, setSlugs] = useState<any>([]);
   const [userEvent, setUserEvent] = useState<any>([]);
 
   const handleChange = (e: any, value: any) => {
-    e.preventDefault()
-    setCategory(value)
+    e.preventDefault();
+    setCategory(value);
   }
 
-  const handleClick = () => {
+  const handleClick = async () => {
     const index = radarCategories.map(object => object.name).indexOf(category);
-    setSlugs(radarCategories[index].slugs);  
-  }
-
-  const url = `https://api.radar.io/v1/events?placeCategories=${slugs}`;
-  useEffect(() => {
-    Radar.initialize(publishableKey);
-    getUserEvent();
-  });
-
-  const getUserEvent = async () => {
-    const { data } = await axios.get(`${url}`)
-    if(!category) {
+    if (!radarCategories[index]) {
       return null
     } else {
-      setUserEvent(data)
+      setSlugs(radarCategories[index].slugs);
     }
-  }
     
+  }
+
+  const getUserEvent = useCallback( async () => {
+    const response = await axios.get(`https://api.radar.io/v1/events?placeCategories=${slugs}`,
+        { headers: {'Authorization': `${publishableKey}`} }
+      )
+      const res = response.data.events
+      setUserEvent(res)
+
+      if (res.length == 0) {
+        toast.error('No events for selected category!', {
+          position: "bottom-left",
+          autoClose: 3000,
+          hideProgressBar: false,
+          closeOnClick: true,
+          pauseOnHover: true,
+          draggable: true,
+          progress: undefined,
+          theme: "colored"
+        });
+      } 
+  }, [slugs, publishableKey])
+
+  useEffect(() => {
+    if (slugs.length > 0) {
+      getUserEvent()
+    }
+  }, [slugs, getUserEvent])
+
+  useEffect(() => {
+    if (userEvent.length > 0) {
+      getData(userEvent);
+    }
+  }, [userEvent, getData])
+
   return (
     <div className="z-10">
       <div className="space-y-5">
@@ -49,7 +73,7 @@ const SearchBox = () => {
           renderInput={(params) => (
             <TextField
               {...params}
-              label="Category"
+              label="Search Category"
               InputProps={{
                 ...params.InputProps,
                 type: 'search',
