@@ -1,11 +1,20 @@
 import type { NextPage } from 'next';
 import Head from 'next/head';
+import { useState } from 'react';
 import SearchBox from '../components/SearchBox';
 import EventMap from '../components/EventMap';
 import logo_blue from '../assets/logo_blue.png'
 import Image from 'next/image';
+import { ToastContainer } from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css';
 
 const Home: NextPage = () => {
+  const [mapData, setMapData] = useState<any>([]);
+
+  const getData = (data: any) => {
+    setMapData(data)
+  }
+
   return (
     <>
       <Head>
@@ -30,14 +39,25 @@ const Home: NextPage = () => {
                   However, some great things do not leave the soul. He who is eager to take advantage of the Internet. 
                   There are many people who want to run away from the dark.
                   </p>
-                  <SearchBox />
+                  <SearchBox getData={getData}/>
                 </div>
               </div>
             </div>
-            <EventMap />
+            <EventMap categories={mapData}/>
           </div>
         </div>
       </main>
+      <ToastContainer
+        position="bottom-left"
+        autoClose={3000}
+        hideProgressBar={false}
+        newestOnTop={false}
+        closeOnClick
+        rtl={false}
+        pauseOnFocusLoss
+        draggable
+        pauseOnHover
+      />
     </>
   )
 }
