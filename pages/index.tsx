@@ -35,9 +35,9 @@ const Home: NextPage = () => {
                     <span className="block xl:inline text-transparent bg-clip-text bg-gradient-to-r from-[#007aff] to-cyan-400 text-6xl font-bold z-10">
                       Radar Event Map</span>
                   </h1>
-                  <p className="my-3 text-base text-gray-500 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0">
-                  However, some great things do not leave the soul. He who is eager to take advantage of the Internet. 
-                  There are many people who want to run away from the dark.
+                  <p className="mt-3 mb-5 text-base text-gray-500 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0">
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+                  Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
                   </p>
                   <SearchBox getData={getData}/>
                 </div>
