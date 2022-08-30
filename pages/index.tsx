@@ -35,7 +35,7 @@ const Home: NextPage = () => {
                     <span className="block xl:inline text-transparent bg-clip-text bg-gradient-to-r from-[#007aff] to-cyan-400 text-6xl font-bold z-10">
                       Radar Event Map</span>
                   </h1>
-                  <p className="mt-2 mb-5 text-base text-gray-500 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0">
+                  <p className="mb-5 text-base text-gray-500 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0">
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
                   Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
                   </p>
