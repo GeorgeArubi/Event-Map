@@ -5,6 +5,7 @@
     "headlessui",
     "heroicons",
     "lxml",
-    "mapbox"
+    "mapbox",
+    "pickable"
   ]
 }
