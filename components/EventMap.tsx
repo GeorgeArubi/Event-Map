@@ -2,8 +2,6 @@ import React, { useState } from 'react';
 import DeckGL from "@deck.gl/react/typed";
 import { IconLayer } from "@deck.gl/layers/typed";
 import { Map } from "react-map-gl";
-import { toast } from 'react-toastify';
-import 'react-toastify/dist/ReactToastify.css';
 import 'mapbox-gl/dist/mapbox-gl.css';
 
 const EventMap = (props: any, data: any) => {
@@ -18,9 +16,10 @@ const EventMap = (props: any, data: any) => {
     marker: {x: 0, y: 0, width: 128, height: 128, mask: true}
   };
 
+  // Event data from Radar API
   data = props.categories;
-  //console.log(data)
   
+  // IconLayer configuration (https://deck.gl/docs/api-reference/layers/icon-layer)
   const layer = new IconLayer({
     id: 'icon-layer',
     data,
@@ -35,8 +34,6 @@ const EventMap = (props: any, data: any) => {
     getSize: _d => 5,
     getColor: d => [Math.sqrt(d.exits), 140, 0]
   });
-
-  //console.log(viewState)
 
   return (
     <div className="box-content w-2/3 z-10">

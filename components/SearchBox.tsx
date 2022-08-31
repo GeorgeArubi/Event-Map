@@ -17,6 +17,7 @@ const SearchBox = ({getData}: any) => {
     setCategory(value);
   }
 
+  // If the search box is empty do nothing, otherwise set the slug state to its corresponding category
   const handleClick = async () => {
     const index = radarCategories.map(object => object.name).indexOf(category);
     if (!radarCategories[index]) {
@@ -27,6 +28,7 @@ const SearchBox = ({getData}: any) => {
     
   }
 
+  // Fetch event data from Radar API and return error if there are no events
   const getUserEvent = useCallback( async () => {
     const response = await axios.get(`https://api.radar.io/v1/events?placeCategories=${slugs}`,
         { headers: {'Authorization': `${publishableKey}`} }
@@ -48,12 +50,14 @@ const SearchBox = ({getData}: any) => {
       } 
   }, [slugs, publishableKey])
 
+  // Call user event function after user has selected a category
   useEffect(() => {
     if (slugs.length > 0) {
       getUserEvent()
     }
   }, [slugs, getUserEvent])
 
+  // Send event data to map component
   useEffect(() => {
     if (userEvent.length > 0) {
       getData(userEvent);
