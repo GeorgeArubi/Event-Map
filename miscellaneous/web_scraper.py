@@ -17,6 +17,7 @@ soup = BeautifulSoup(page.text, 'lxml')
 # Obtain information from list
 radar_categories = soup.find_all(re.compile('^li'))
 
+# Parse and clean up data
 high_level_category = []
 for tag in radar_categories:
   high_level_category.append(str(tag))
@@ -46,11 +47,12 @@ for y, slugs in enumerate(slugs_arr):
   y["slugs"] = (slugs)
   y_arr.append(y)
 
+# Format data
 radar_places = []
 for name_x, slugs_y in zip(x_arr, y_arr):
 	result = name_x | slugs_y
 	radar_places.append(result) 
 
-# write array to json file
+# Write array of objects to json file
 with open("./miscellaneous/radar_places.json", "w") as f:
   json.dump(radar_places, f, indent=2)
