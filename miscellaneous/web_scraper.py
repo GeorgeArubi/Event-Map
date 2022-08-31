@@ -50,8 +50,8 @@ for y, slugs in enumerate(slugs_arr):
 # Format data
 radar_places = []
 for name_x, slugs_y in zip(x_arr, y_arr):
-	result = name_x | slugs_y
-	radar_places.append(result) 
+  result = name_x | slugs_y
+  radar_places.append(result) 
 
 # Write array of objects to json file
 with open("./miscellaneous/radar_places.json", "w") as f:
