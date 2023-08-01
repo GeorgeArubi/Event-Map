@@ -1,2 +1,0 @@
-curl 'https://api.radar.io/v1/events?placeCategories=outdoor-places' \
--H "Authorization: org_test_sk_ec28329d6943dd4c0f663814570569b4470c03d9"
