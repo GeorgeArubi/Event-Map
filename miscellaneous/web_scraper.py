@@ -5,54 +5,65 @@ import re
 import json
 
 # Create an URL object
-url = 'https://radar.com/documentation/places/categories'
+radar_url = 'https://radar.com/documentation/places/categories'
+output_json_path = './miscellaneous/radar_places.json'
 
 # Create object page
-page = requests.get(url)
-
-# parser-lxml = Change html to Python friendly format
-# Obtain page's information
-soup = BeautifulSoup(page.text, 'lxml')
+def get_page_content(url):
+  try:
+    response = requests.get(url)
+    response.raise_for_status()
+    return response.text
+  except requests.exceptions.RequestException as e:
+    logging.error(f'Failed to fetch data from {url}: {e}')
+    raise
 
 # Obtain information from list
-radar_categories = soup.find_all(re.compile('^li'))
+def parse_category_names(soup):
+  categories = soup.find_all(re.compile('^li'))
+  names_arr = []
+  for tag in categories:
+    names.append(str(tag))
+  return names_arr
 
 # Parse and clean up data
-high_level_category = []
-for tag in radar_categories:
-  high_level_category.append(str(tag))
+def extract_slugs(names):
+  slugs_arr = []
+  for name in names:
+    match = re.findall('<li><code>.*</code></li>', name)
+    if match:
+      slug = match[0].removeprefix("<li><code>").removesuffix("</code></li>")
+      slugs_arr.append(slug.replace("-", " ").title())
+  return slugs_arr
 
-arr = []
-for x in high_level_category:
-  arr.append(re.findall('<li><code>.*</code></li>', x))
+# Format data & write array of objects to json file
+def create_json_output(names_arr, slugs_arr):
+  radar_places = []
+  for name,slug in zip(names_arr, slugs_arr):
+    place_info = {'name': name, 'slugs': [slug]}
+    radar_places.append(place_info)
+    
+  with open(output_json_path, "w") as f:
+    json.dump(radar_places, f, indent=2)
 
-slugs_arr = []
-for y in arr:
-  if(len(y) > 0):
-    slugs_arr.append(y[0].removeprefix("<li><code>").removesuffix("</code></li>"))
+# Obtain page information
+# parser-lxml = Change html to Python friendly format
+def main():
+  logging.basicConfig(level=logging.INFO)
 
-names_arr = []
-for i in slugs_arr:
-  names_arr.append(i.replace("-", " ").title())
+  try:
+    page_content = get_page_content(radar_url)
+    soup = BeautifulSoup(page_content, 'lxml')
 
-x_arr = []
-for x, name in enumerate(names_arr):
-  x = {"name": ""}
-  x["name"] = (name)
-  x_arr.append(x)
+    names_arr = parse_category_names(soup)
+    slugs_arr = extract_slugs(names_arr)
 
-y_arr = []
-for y, slugs in enumerate(slugs_arr):
-  y = {"slugs": []}
-  y["slugs"] = (slugs)
-  y_arr.append(y)
+    create_json_output(names_arr, slugs_arr)
 
-# Format data
-radar_places = []
-for name_x, slugs_y in zip(x_arr, y_arr):
-  result = name_x | slugs_y
-  radar_places.append(result) 
+    logging.info('Data successfully exported to JSON file.')
+  except Exception as e:
+    logging.error(f'An error ocurred: {e}')
 
-# Write array of objects to json file
-with open("./miscellaneous/radar_places.json", "w") as f:
-  json.dump(radar_places, f, indent=2)
+if __name__ == '__main__':
+  main()
+  
